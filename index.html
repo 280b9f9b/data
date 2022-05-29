@@ -24,6 +24,21 @@
             alert("Passwords do not match.");
         }
     }
+
+      <script>   
+            function(event) {
+     var confirmPassword = "admin";
+  if (event.key === "Enter") {
+    event.preventDefault();
+       var password = document.getElementById("pswd").value;
+        if (password == confirmPassword) {
+             window.location="EmulatorJS.html";
+        }
+        else{
+            alert("Passwords do not match.");
+        }
+    }
+}
 </script>
 </body>
 </html>
