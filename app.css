@@ -1,0 +1,28 @@
+
+.GameBody {
+  background-color: #1B2631;}
+
+.GameBox {
+  display: inline-block;
+  padding: 10px;
+  vertical-align: top;
+  position: relative;}
+
+.GameCover {
+  width: 60px;
+  height:60px;
+  position: relative;
+  border-radius: 20% !important;}
+
+.GameText {
+  text-align: center;
+  color: white;
+  font-size: 13px;
+  width: 60px;}
+
+
+
+
+
+  
+
