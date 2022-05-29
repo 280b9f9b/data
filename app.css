@@ -12,13 +12,13 @@
   width: 200px;
   height:300px;
   position: relative;
-  border-radius: 20% !important;}
+  border-radius: 5% !important;}
 
 .GameText {
   text-align: center;
   color: white;
   font-size: 13px;
-  width: 60px;}
+  width: 200px;}
 
 
 
