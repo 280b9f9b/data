@@ -5,20 +5,25 @@
 <title>EmulatorJS</title><link rel="stylesheet" href="app.css"><link rel="stylesheet" href="appp.css">
 </head><body style="background-color:rgb(35, 35, 35);" class="GameBody">
 
-<form>
-    <label for="pswd">Enter your password: </label>
-    <input type="password" id="pswd">
-    <input type="button" value="Submit" onclick="checkPswd();" />
-</form>
+
     
-    <form>
-    <div class="input-container ic1">
-    <input id="password" class="input" type="text" placeholder=" " />
-    <div class="cut"></div>
-    <label for="password" class="placeholder">First name</label>
-    </div> 
-    <button type="text" class="submit">submit</button>
-    </form>
+<div class="login-box">
+  <h2>Login</h2>
+  <form>
+
+    <div class="user-box">
+      <input type="password" id="pswd">
+      <label for="pswd">Enter your password: </label>
+    </div>
+    <a href="#">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      Submit
+    </a>
+  </form>
+</div>
     
 <!--Function to check password the already set password is admin-->
 <script type="text/javascript">
