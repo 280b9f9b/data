@@ -6,12 +6,11 @@
 </head><body style="background-color:rgb(35, 35, 35);" class="GameBody">
 
     
-<form>
-    <input type="password" style="background-color:rgb(255,255,255);margin-left:auto;margin-right:auto;display:block;margin-top:15xp;margin-bottom:auto" id="pswd" onenter="checkPswd();">
-    <input type="button" style="background-color:rgb(105,105,105);margin-left:auto;margin-right:auto;display:block;margin-top:auto;margin-bottom:auto" value="EmulatorJS" onclick="checkPswd();" />
-</form>
-
-    
+<div class="flex-container">
+<input type="password" id="pswd" placeholder="Password"> 
+<input type="submit" value="EmulatorJS" onclick="checkPswd();">
+</div>  
+ 
 <!--Function to check password the already set password is admin-->
 <script type="text/javascript">
     function checkPswd() {
@@ -25,6 +24,5 @@
         }
     }
 </script>
-
 </body>
 </html>
