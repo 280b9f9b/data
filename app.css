@@ -1,6 +1,24 @@
 .GameBody {
   background-color: #1B2631;}
 
+.GameHeader {
+  padding: 10px;
+  text-align: center;
+  background: #1760af;
+  color: white;
+  font-family: American Typewriter;
+  font-size: 25px;
+  font-weight: bold;}
+
+.GameFooter {
+  padding: 10px;
+  text-align: center;
+  background: #d33f3f;
+  color: white;
+  font-family: American Typewriter;
+  font-size: 20px;
+  font-weight: bold;}
+
 .GameBox {
   display: inline-block;
   padding: 8px;
