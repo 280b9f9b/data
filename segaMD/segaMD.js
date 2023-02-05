@@ -18,7 +18,7 @@ function gameTemplate(gamex) {
 
 function appendData(data) {
         var mainContainer = document.getElementById("segaMD").innerHTML = `
-        <h1 class="GameHeader">EmulatorJS (${data.length})</h1>
+        <h1 class="GameHeader">segaMD (${data.length})</h1>
         ${data.map(gameTemplate).join("")}
         <p class="GameFooter">These ${data.length} Games were added recently. Check back soon for updates.</p>
         `;
