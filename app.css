@@ -41,6 +41,13 @@
   font-size: 12px;
   width: 100px;}
 
+.GameTextL {
+  text-align: left;
+  color: white;
+  font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+  font-size: 12px;
+  width: 100px;}
+
 .nav {
   list-style-type: none;
   text-align: center;
