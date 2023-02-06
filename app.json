@@ -2,28 +2,32 @@
   {
     "name": "Metal Slug X - Super Vehicle-001 (NGM-2500 ~ NGH-2500)",
     "game": "roms\\mslugx.html",
-    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/9380-1.png"
+    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/9380-1.png",
     "type": "nes"
   },
   {
     "name": "Final Fight (World, set 1",
     "game": "roms\\ffight.html",
-    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/5480-1.jpg"
+    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/5480-1.jpg",
+    "type": "nes"
   },
   {
     "name": "Super Street Fighter II Turbo (World 940223)",
     "game": "roms\\ssf2t.html",
-    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/8274-1.jpg"
+    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/8274-1.jpg",
+    "type": "nes"
   },
   {
     "name": "Wonder Boy (set 1, 315-5177)",
     "game": "roms\\wboy.html",
-    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/8754-1.jpg"
+    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/8754-1.jpg",
+    "type": "nes"
   },
   {
     "name": "1945k III (newer, OPCX2 PCB)",
     "game": "roms\\1945kiii.html",
-    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/2436-1.jpg"
+    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/2436-1.jpg",
+    "type": "nes"
   },
   {
     "name": "Golden Axe (set 6, US) (8751 317-123A)",
