@@ -1,4 +1,4 @@
-fetch('segaMD.json')
+fetch('app.json')
         .then(function (response) {
         return response.json();
 })
@@ -11,14 +11,14 @@ fetch('segaMD.json')
 
 function gameTemplate(gamex) {
         return `
-        <div class="GameBox"><a href="${gamex.game}"><img class="GameCover" src="${gamex.photo}"></a>
-        <h2 class="GameText">${gamex.name}</h2></div>
+        <li><div class="GameBox"><a href="${gamex.game}"><img class="GameCover" src="${gamex.photo}"></a>
+        <div class="GameText">${gamex.name}</div></div></li>
         `;
 }
 
 function appendData(data) {
-        var mainContainer = document.getElementById("segaMD").innerHTML = `
-        <h1 class="GameHeader">segaMD (${data.length})</h1>
+        var mainContainer = document.getElementById("app").innerHTML = `
+        <h1 class="GameHeader">EmulatorJS (${data.length})</h1>
         ${data.map(gameTemplate).join("")}
         <p class="GameFooter">These ${data.length} Games were added recently. Check back soon for updates.</p>
         `;
