@@ -1,9 +1,8 @@
 [
   {
-    "name": "Metal Slug X - Super Vehicle-001 (NGM-2500 ~ NGH-2500)",
-    "game": "roms\\mslugx.html",
-    "photo": "https://cdn.thegamesdb.net/images/thumb/boxart/front/9380-1.png",
-    "type": "nes"
+    "name": "segaMD",
+    "game": "segaMD\\segaMD.html",
+    "photo": "https://pbs.twimg.com/profile_images/1472384064359321601/l2AHyDpF_400x400.jpg",
   },
   {
     "name": "Final Fight (World, set 1",
