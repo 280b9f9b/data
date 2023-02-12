@@ -1,10 +1,10 @@
 .GameBody {
-  background-color: #1B2631;}
+  background-color: #262626;}
 
 .GameHeader {
   padding: 10px;
   text-align: center;
-  background: #1760af;
+  background: #404040;
   color: white;
   font-family: American Typewriter;
   font-size: 25px;
@@ -26,8 +26,8 @@
   position: relative;}
 
 .GameCover {
-  width: 100px;
-  height:150px;
+  width: 150px;
+  height:200px;
   position: relative;
   border-radius: 5% !important;}
 
@@ -39,7 +39,7 @@
   color: white;
   font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
   font-size: 12px;
-  width: 100px;}
+  width: 150px;}
 
 .GameTextL {
   text-align: left;
