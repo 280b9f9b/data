@@ -31,9 +31,30 @@
   position: relative;
   border-radius: 5% !important;}
 
+.GameCover:hover {
+  border:3px solid #ff0000;}
+
 .GameText {
   text-align: center;
   color: white;
   font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
   font-size: 12px;
   width: 100px;}
+
+.GameTextL {
+  text-align: left;
+  color: white;
+  font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+  font-size: 12px;
+  width: 100px;}
+
+.nav {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;}
