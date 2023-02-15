@@ -11,7 +11,7 @@ fetch('segaMD.json')
 
 function gameTemplate(gamex) {
         return `
-        <li><div class="GameBox"><a href="${gamex.game}"><img class="GameCover" src="${gamex.photo}"></a>
+        <li><div class="GameBox"><a href="roms/${gamex.name}.html"><img class="GameCover" src="${gamex.photo}"></a>
         <div class="GameText">${gamex.name}</div></div></li>
         `;
 }
