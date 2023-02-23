@@ -1,4 +1,4 @@
-fetch('segaMD.json')
+fetch('version.json')
         .then(function (response) {
         return response.json();
 })
