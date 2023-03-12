@@ -1,0 +1,5169 @@
+[
+	{
+		"title": "20 em 1 (Brazil)",
+		"image": "Data/Covers/20 em 1 (Brazil).jpg",
+		"year": "1995",
+		"platform": "segaMS",
+		"publisher": "Tectoy",
+		"developer": "Tectoy",
+		"plot": "20 em 1 is a collection of 20 games for the Sega Master System console, released exclusively in Brazil. The collection includes a variety of popular titles, such as Sonic the Hedgehog, Alex Kidd, and Wonder Boy.",
+		"file": "Data/Roms/20 em 1 (Brazil).html"
+	  },
+	  {
+		"title": "4 PAK All Action (Australia) (Unl)",
+		"image": "Data/Covers/4 PAK All Action (Australia) (Unl).jpg",
+		"year": "1993",
+		"platform": "segaMS",
+		"publisher": "Majesco Entertainment",
+		"developer": "Various",
+		"plot": "4 PAK All Action is a collection of four classic Sega Master System games, including California Games, World Grand Prix, Pro Wrestling, and Out Run. The collection was released in Australia as an unlicensed game cartridge.",
+		"file": "Data/Roms/4 PAK All Action (Australia) (Unl).html"
+	  },
+	  {
+		"title": "94 Super World Cup Soccer (Korea)",
+		"image": "Data/Covers/94 Super World Cup Soccer (Korea).jpg",
+		"year": "1994",
+		"platform": "segaMS",
+		"publisher": "Samsung Electronics",
+		"developer": "Human Entertainment",
+		"plot": "94 Super World Cup Soccer is a soccer video game for the Sega Master System console, released exclusively in Korea. The game features several international teams and allows players to compete in a variety of soccer tournaments.",
+		"file": "Data/Roms/94 Super World Cup Soccer (Korea).html"
+	  },
+	  {
+		"title": "Ace of Aces (Europe)",
+		"image": "Data/Covers/Ace of Aces (Europe).jpg",
+		"year": "1987",
+		"platform": "segaMS",
+		"publisher": "U.S. Gold",
+		"developer": "Artech Digital Entertainment",
+		"plot": "Ace of Aces is a flight simulation game for the Sega Master System console, originally developed and published by Artech Digital Entertainment for various other platforms. The game puts players in the cockpit of a World War II fighter plane and allows them to engage in dogfights and other aerial combat missions.",
+		"file": "Data/Roms/Ace of Aces (Europe).html"
+	  },
+	  {
+		"title": "Action Fighter (Japan, Europe) (Rev 1)",
+		"image": "Data/Covers/Action Fighter (Japan, Europe) (Rev 1).jpg",
+		"year": "1986",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega AM2",
+		"plot": "Action Fighter is a vehicular combat game for the Sega Master System console. Players control a motorcycle that can transform into a fighter plane, and must navigate through a variety of levels while fighting off enemy vehicles and bosses.",
+		"file": "Data/Roms/Action Fighter (Japan, Europe) (Rev 1).html"
+	  },
+	  {
+		"title": "Action Fighter (USA, Europe) (Rev 2)",
+		"image": "Data/Covers/Action Fighter (USA, Europe) (Rev 2).jpg",
+		"year": "1987",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega AM2",
+		"plot": "Action Fighter is a vehicular combat game for the Sega Master System console. Players control a motorcycle that can transform into a fighter plane, and must navigate through a variety of levels while fighting off enemy vehicles and bosses.",
+		"file": "Data/Roms/Action Fighter (USA, Europe) (Rev 2).html"
+	  },
+	  {
+		"title": "Addams Family, The (Europe)",
+		"image": "Data/Covers/Addams Family, The (Europe).jpg",
+		"year": "1991",
+		"platform": "segaMS",
+		"publisher": "Ocean Software",
+		"developer": "Ocean Software",
+		"plot": "The Addams Family is a platformer game for the Sega Master System console, based on the popular TV show and movie franchise of the same name. Players control Gomez Addams as he navigates through various levels filled with obstacles and enemies.",
+		"file": "Data/Roms/Addams Family, The (Europe).html"
+	  },
+	  {
+		"title": "Aerial Assault (Europe)",
+		"image": "Data/Covers/Aerial Assault (Europe).jpg",
+		"year": "1990",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega AM2",
+		"plot": "Aerial Assault is a side-scrolling shooter game for the Sega Master System console. Players control a fighter plane as they engage in aerial combat against enemy forces.",
+		"file": "Data/Roms/Aerial Assault (Europe).html"
+	  },
+	  {
+		"title": "Aerial Assault (USA)",
+		"image": "Data/Covers/Aerial Assault (USA).jpg",
+		"year": "1990",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega AM2",
+		"plot": "Aerial Assault is a side-scrolling shooter game for the Sega Master System console. Players control a fighter plane as they engage in aerial combat against enemy forces.",
+		"file": "Data/Roms/Aerial Assault (USA).html"
+	  },
+	  {
+		"title": "After Burner (World)",
+		"image": "Data/Covers/After Burner (World).jpg",
+		"year": "1987",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega AM2",
+		"plot": "After Burner is a fast-paced arcade-style shooter game for the Sega Master System console. Players control a fighter jet as they engage in dogfights and evade enemy fire.",
+		"file": "Data/Roms/After Burner (World).html"
+	  },
+	  {
+		"title": "Agigongnyong Dooly (Korea) (Unl)",
+		"image": "Data/Covers/Agigongnyong Dooly (Korea) (Unl).jpg",
+		"year": "1991",
+		"platform": "segaMS",
+		"publisher": "Daou Infosys",
+		"developer": "Daou Infosys",
+		"plot": "Agigongnyong Dooly is a platformer game for the Sega Master System console, featuring the eponymous character from a popular Korean children's cartoon. Players control Dooly as he navigates through various levels and fights against enemies.",
+		"file": "Data/Roms/Agigongnyong Dooly (Korea) (Unl).html"
+	  },
+	  {
+		"title": "Air Rescue (Europe)",
+		"image": "Data/Covers/Air Rescue (Europe).jpg",
+		"year": "1992",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Air Rescue is a side-scrolling shooter game for the Sega Master System console. Players control a rescue helicopter as they navigate through various levels and rescue hostages while fighting off enemy forces.",
+		"file": "Data/Roms/Air Rescue (Europe).html"
+	  },
+	  {
+		"title": "Aladdin (Europe)",
+		"image": "Data/Covers/Aladdin (Europe).jpg",
+		"year": "1994",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "SIMS",
+		"plot": "Aladdin is a platformer game for the Sega Master System console, based on the popular Disney movie of the same name. Players control Aladdin as he navigates through various levels filled with obstacles and enemies, collecting treasure and defeating bosses along the way.",
+		"file": "Data/Roms/Aladdin (Europe).html"
+	  },
+	  {
+		"title": "Aleste (Japan)",
+		"image": "Data/Covers/Aleste (Japan).jpg",
+		"year": "1988",
+		"platform": "segaMS",
+		"publisher": "Compile",
+		"developer": "Compile",
+		"plot": "Aleste is a side-scrolling shooter game for the Sega Master System console. Players control a spaceship as they fight off waves of enemy ships and bosses.",
+		"file": "Data/Roms/Aleste (Japan).html"
+	  },
+	  {
+		"title": "Alex Kidd - High-Tech World (USA, Europe)",
+		"image": "Data/Covers/Alex Kidd - High-Tech World (USA, Europe).jpg",
+		"year": "1989",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Alex Kidd - High-Tech World is a platformer game for the Sega Master System console, featuring the eponymous character from a popular Sega franchise. Players control Alex as he navigates through various levels in a quest to collect items and win a game competition.",
+		"file": "Data/Roms/Alex Kidd - High-Tech World (USA, Europe).html"
+	  },
+	  {
+		"title": "Alex Kidd - The Lost Stars (World)",
+		"image": "Data/Covers/Alex Kidd - The Lost Stars (World).jpg",
+		"year": "1988",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Alex Kidd - The Lost Stars is a platformer game for the Sega Master System console, featuring the eponymous character from a popular Sega franchise. Players control Alex as he navigates through various levels, collecting items and defeating bosses.",
+		"file": "Data/Roms/Alex Kidd - The Lost Stars (World).html"
+	  },
+	  {
+		"title": "Alex Kidd BMX Trial (Japan)",
+		"image": "Data/Covers/Alex Kidd BMX Trial (Japan).jpg",
+		"year": "1987",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Alex Kidd BMX Trial is a racing game for the Sega Master System console, featuring the eponymous character from a popular Sega franchise. Players control Alex as he races his BMX bike through various tracks, avoiding obstacles and competing against other racers.",
+		"file": "Data/Roms/Alex Kidd BMX Trial (Japan).html"
+	  },
+	  {
+		"title": "Alex Kidd in Miracle World (USA, Europe) (Rev 1)",
+		"image": "Data/Covers/Alex Kidd in Miracle World (USA, Europe) (Rev 1).jpg",
+		"year": "1986",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Alex Kidd in Miracle World is a platformer game for the Sega Master System console, featuring the eponymous character from a popular Sega franchise. Players control Alex as he navigates through various levels, collecting items and defeating bosses in order to rescue his brother.",
+		"file": "Data/Roms/Alex Kidd in Miracle World (USA, Europe) (Rev 1).html"
+	  },
+	  {
+		"title": "Alex Kidd in Miracle World (USA, Europe)",
+		"image": "Data/Covers/Alex Kidd in Miracle World (USA, Europe).jpg",
+		"year": "1986",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Alex Kidd is on a mission to rescue his kidnapped brother from the evil Janken the Great, the ruler of the planet Paperock.",
+		"file": "Data/Roms/Alex Kidd in Miracle World (USA, Europe).html"
+	  },
+	  {
+		"title": "Alex Kidd in Shinobi World (USA, Europe)",
+		"image": "Data/Covers/Alex Kidd in Shinobi World (USA, Europe).jpg",
+		"year": "1990",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Alex Kidd is on a mission to rescue his girlfriend from the evil Janken the Great, the ruler of the planet Shinobi.",
+		"file": "Data/Roms/Alex Kidd in Shinobi World (USA, Europe).html"
+	  },
+	  {
+		"title": "Alex Kidd no Miracle World (Japan)",
+		"image": "Data/Covers/Alex Kidd no Miracle World (Japan).jpg",
+		"year": "1986",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Alex Kidd is on a mission to rescue his kidnapped brother from the evil Janken the Great, the ruler of the planet Paperock.",
+		"file": "Data/Roms/Alex Kidd no Miracle World (Japan).html"
+	  },
+	  {
+		"title": "Alf (USA)",
+		"image": "Data/Covers/Alf (USA).jpg",
+		"year": "1989",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "TecMagik",
+		"plot": "Alf the alien is on a mission to find parts for his spaceship, which have been scattered throughout the city by his cat, Lucky.",
+		"file": "Data/Roms/Alf (USA).html"
+	  },
+	  {
+		"title": "Alibaba and 40 Thieves (Korea) (Unl)",
+		"image": "Data/Covers/Alibaba and 40 Thieves (Korea) (Unl).jpg",
+		"year": "1995",
+		"platform": "segaMS",
+		"publisher": "Samsung Electronics",
+		"developer": "",
+		"plot": "Alibaba must collect treasure from 40 thieves to save his girlfriend from the evil magician Cassim.",
+		"file": "Data/Roms/Alibaba and 40 Thieves (Korea) (Unl).html"
+	  },
+	  {
+		"title": "Alien 3 (Europe)",
+		"image": "Data/Covers/Alien 3 (Europe).jpg",
+		"year": "1992",
+		"platform": "segaMS",
+		"publisher": "Arena Entertainment",
+		"developer": "Probe Software",
+		"plot": "Ellen Ripley must fight her way through hordes of aliens to save prisoners from the Weyland-Yutani Corporation.",
+		"file": "Data/Roms/Alien 3 (Europe).html"
+	  },
+	  {
+		"title": "Alien Storm (Europe)",
+		"image": "Data/Covers/Alien Storm (Europe).jpg",
+		"year": "1991",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "A group of humans must save the earth from an alien invasion by blasting their way through levels filled with alien enemies.",
+		"file": "Data/Roms/Alien Storm (Europe).html"
+	  },
+	  {
+		"title": "Alien Syndrome (Japan)",
+		"image": "Data/Covers/Alien Syndrome (Japan).jpg",
+		"year": "1987",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Players must rescue their colleagues from an alien-infested spaceship by battling through levels filled with dangerous creatures.",
+		"file": "Data/Roms/Alien Syndrome (Japan).html"
+	  },
+	  {
+		"title": "Alien Syndrome (Unknown) (Beta)",
+		"image": "Data/Covers/Alien Syndrome (Unknown) (Beta).jpg",
+		"year": "1987",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Players must rescue their colleagues from an alien-infested spaceship by battling through levels filled with dangerous creatures.",
+		"file": "Data/Roms/Alien Syndrome (Unknown) (Beta).html"
+	  },
+	  {
+		"title": "Alien Syndrome (USA, Europe)",
+		"image": "Data/Covers/Alien Syndrome (USA, Europe).jpg",
+		"year": "1988",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Players must rescue their colleagues from an alien-infested spaceship by battling through levels filled with dangerous creatures.",
+		"file": "Data/Roms/Alien Syndrome (USA, Europe).html"
+	  },
+	  {
+		"title": "Altered Beast (USA, Europe)",
+		"image": "Data/Covers/Altered Beast (USA, Europe).jpg",
+		"year": "1988",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "A hero is resurrected by Zeus to save Athena from the clutches of the evil god Neff, and must transform into various beasts to battle Neff's minions.",
+		"file": "Data/Roms/Altered Beast (USA, Europe).html"
+	  },
+	  {
+		"title": "American Baseball (Europe)",
+		"image": "Data/Covers/American Baseball (Europe).jpg",
+		"year": "1987",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Players can choose a team and play a game of baseball, using both pitching and batting skills to win.",
+		"file": "Data/Roms/American Baseball (Europe).html"
+	  },
+	  {
+		"title": "American Pro Football (Europe)",
+		"image": "Data/Covers/American Pro Football (Europe).jpg",
+		"year": "1992",
+		"platform": "segaMS",
+		"publisher": "Ubisoft",
+		"developer": "",
+		"plot": "Players can choose a team and play a game of American football, using both offensive and defensive strategies to win.",
+		"file": "Data/Roms/American Pro Football (Europe).html"
+	  },
+	  {
+		"title": "Ancient Ys Vanished Omen (USA) (Demo)",
+		"image": "Data/Covers/Ancient Ys Vanished Omen (USA) (Demo).jpg",
+		"year": "1988",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Nihon Falcom",
+		"plot": "Adol, a young adventurer, must explore the land of Ys to uncover its secrets and defeat the evil forces that threaten it.",
+		"file": "Data/Roms/Ancient Ys Vanished Omen (USA) (Demo).html"
+	  },
+	  {
+		"title": "Andre Agassi Tennis (Europe)",
+		"image": "Data/Covers/Andre Agassi Tennis (Europe).jpg",
+		"year": "1992",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Tiertex",
+		"plot": "Players can choose a tennis player and compete in matches against other players or the computer, using a variety of shots and strategies.",
+		"file": "Data/Roms/Andre Agassi Tennis (Europe).html"
+	  },
+	  {
+		"title": "Anmitsu Hime (Japan)",
+		"image": "Data/Covers/Anmitsu Hime (Japan).jpg",
+		"year": "1989",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Players control a young girl named Anmitsu Hime as she journeys through a magical land, solving puzzles and battling enemies.",
+		"file": "Data/Roms/Anmitsu Hime (Japan).html"
+	  },
+	  {
+		"title": "Arcade Smash Hits (Europe)",
+		"image": "Data/Covers/Arcade Smash Hits (Europe).jpg",
+		"year": "1992",
+		"platform": "segaMS",
+		"publisher": "Codemasters",
+		"developer": "",
+		"plot": "A collection of four arcade-style games: Super Robin Hood, Pro Tennis Tour, CJ's Elephant Antics, and Big Nose Freaks Out.",
+		"file": "Data/Roms/Arcade Smash Hits (Europe).html"
+	  },
+	  {
+		"title": "Argos no Juujiken (Japan)",
+		"image": "Data/Covers/Argos no Juujiken (Japan).jpg",
+		"year": "1988",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Players control a warrior named Argos as he battles through a variety of levels filled with enemies, using his sword and other weapons.",
+		"file": "Data/Roms/Argos no Juujiken (Japan).html"
+	  },
+	  {
+		"title": "Ariel - The Little Mermaid (Brazil)",
+		"image": "Data/Covers/Ariel - The Little Mermaid (Brazil).jpg",
+		"year": "1993",
+		"platform": "segaMS",
+		"publisher": "Tectoy",
+		"developer": "Blue Sky Software",
+		"plot": "Players control Ariel, a mermaid princess, as she explores the underwater world and battles the evil Ursula to save her father's kingdom.",
+		"file": "Data/Roms/Ariel - The Little Mermaid (Brazil).html"
+	  },
+	  {
+		"title": "Ashura (Japan)",
+		"image": "Data/Covers/Ashura (Japan).jpg",
+		"year": "1988",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sanritsu",
+		"plot": "Players control a warrior named Ashura as he battles through a variety of levels filled with enemies, using his sword and other weapons.",
+		"file": "Data/Roms/Ashura (Japan).html"
+	  },
+	  {
+		"title": "Assault City (Europe) (Light Phaser)",
+		"image": "Data/Covers/Assault City (Europe) (Light Phaser).jpg",
+		"year": "1990",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "",
+		"plot": "Players use the Light Phaser accessory to shoot their way through levels filled with enemies, as they try to stop an evil organization from taking over the city.",
+		"file": "Data/Roms/Assault City (Europe) (Light Phaser).html"
+	  },
+	  {
+		"title": "Assault City (Europe)",
+		"image": "Data/Covers/Assault City (Europe).jpg",
+		"year": "1990",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "",
+		"plot": "Players control a character driving a car through levels filled with enemies, using a variety of weapons to defeat them and progress through the game.",
+		"file": "Data/Roms/Assault City (Europe).html"
+	  },
+	  {
+		"title": "Asterix (Europe) (En,Fr) (Rev 1)",
+		"image": "Data/Covers/Asterix (Europe) (En,Fr) (Rev 1).jpg",
+		"year": "1991",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Players control the Gaulish hero Asterix as he battles his way through levels filled with Roman soldiers and other enemies, using his fists and other weapons.",
+		"file": "Data/Roms/Asterix (Europe) (En,Fr) (Rev 1).html"
+	  },
+	  {
+		"title": "Asterix (Europe) (En,Fr)",
+		"image": "Data/Covers/Asterix (Europe) (En,Fr).jpg",
+		"year": "1991",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "Players control the Gaulish hero Asterix as he battles his way through levels filled with Roman soldiers and other enemies, using his fists and other weapons.",
+		"file": "Data/Roms/Asterix (Europe) (En,Fr).html"
+	  },
+	  {
+		"title": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)",
+		"image": "Data/Covers/Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).jpg",
+		"year": "1993",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "",
+		"plot": "Players control Asterix and Obelix as they embark on a mission to rescue fellow villagers from the clutches of the Romans.",
+		"file": "Data/Roms/Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).html"
+	  },
+	  {
+		"title": "Asterix and the Secret Mission (Europe) (En,Fr,De)",
+		"image": "Data/Covers/Asterix and the Secret Mission (Europe) (En,Fr,De).jpg",
+		"year": "1993",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "",
+		"plot": "Players control Asterix and Obelix as they embark on a secret mission to stop the Romans from discovering the location of a hidden Gaulish village.",
+		"file": "Data/Roms/Asterix and the Secret Mission (Europe) (En,Fr,De).html"
+	  },
+	  {
+		"title": "Astro Flash (Japan)",
+		"image": "Data/Covers/Astro Flash (Japan).jpg",
+		"year": "1986",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "",
+		"plot": "Players control a spacecraft as they battle their way through levels filled with enemies and obstacles, using various weapons and power-ups.",
+		"file": "Data/Roms/Astro Flash (Japan).html"
+	  },
+	  {
+		"title": "Astro Warrior & Pit Pot (Europe)",
+		"image": "Data/Covers/Astro Warrior & Pit Pot (Europe).jpg",
+		"year": "1986",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "",
+		"plot": "Astro Warrior is a vertical-scrolling shooter in which players control a spacecraft and must shoot their way through waves of enemies. Pit Pot is a puzzle game in which players must dig their way to the treasure while avoiding traps and enemies.",
+		"file": "Data/Roms/Astro Warrior & Pit Pot (Europe).html"
+	  },
+	  {    "title": "Astro Warrior (Japan, USA)",    "image": "Data/Covers/Astro Warrior (Japan, USA).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "In this side-scrolling shooter game, players control a spaceship called the 'Astro Warrior' and must battle against enemy forces in various levels.",    "file": "Data/Roms/Astro Warrior (Japan, USA).html"  },  {    "title": "Ayrton Sennas Super Monaco GP II (Europe)",    "image": "Data/Covers/Ayrton Sennas Super Monaco GP II (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "This racing game is named after famous Formula One driver Ayrton Senna and features multiple tracks and cars for players to race in.",    "file": "Data/Roms/Ayrton Sennas Super Monaco GP II (Europe).html"  },  {    "title": "Aztec Adventure - The Golden Road to Paradise (World)",    "image": "Data/Covers/Aztec Adventure - The Golden Road to Paradise (World).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Players control a character named 'Johnny' who must navigate through various levels of Aztec ruins in search of treasure.",    "file": "Data/Roms/Aztec Adventure - The Golden Road to Paradise (World).html"  },  {    "title": "Back to the Future Part II (Europe)",    "image": "Data/Covers/Back to the Future Part II (Europe).jpg",    "year": "1990",    "platform": "segaMS",    "publisher": "Image Works",    "developer": "Images Software",    "plot": "This game is based on the second movie in the 'Back to the Future' trilogy and features various levels where players control Marty McFly and must navigate through different time periods to collect items and complete objectives.",    "file": "Data/Roms/Back to the Future Part II (Europe).html"  },
+	  {    "title": "Back to the Future Part III (Europe)",    "image": "Data/Covers/Back to the Future Part III (Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Image Works",    "developer": "Probe Software",    "plot": "Back to the Future Part III is a 1991 video game based on the movie of the same name. It is the third and final installment in the Back to the Future trilogy video game series, following Back to the Future Part II.",    "file": "Data/Roms/Back to the Future Part III (Europe).html"  },  {    "title": "Baku Baku Animal (Brazil)",    "image": "Data/Covers/Baku Baku Animal (Brazil).jpg",    "year": "1996",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Baku Baku Animal is a puzzle game that features animals and their favorite foods. The player must match up the food with the correct animal.",    "file": "Data/Roms/Baku Baku Animal (Brazil).html"  },  {    "title": "Bank Panic (Europe)",    "image": "Data/Covers/Bank Panic (Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bank Panic is a reflex game where the player takes the role of a sheriff in the Old West who must protect a bank from robbers.",    "file": "Data/Roms/Bank Panic (Europe).html"  },  {    "title": "Basket Ball Nightmare (Europe)",    "image": "Data/Covers/Basket Ball Nightmare (Europe).jpg",    "year": "1994",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Basket Ball Nightmare is a basketball game that features five-on-five gameplay. The game also includes several modes, including exhibition, league, and playoff.",    "file": "Data/Roms/Basket Ball Nightmare (Europe).html"  },
+	  {    "title": "Batman Returns (Europe)",    "image": "Data/Covers/Batman Returns (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Aspect",    "plot": "Batman Returns is a video game based on the 1992 film of the same name. The game features platforming and fighting gameplay as the player controls Batman to stop the Penguin and Catwoman from their evil plans.",    "file": "Data/Roms/Batman Returns (Europe).html"  },  {    "title": "Battle Out Run (Europe)",    "image": "Data/Covers/Battle Out Run (Europe).jpg",    "year": "1989",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Battle Out Run is a racing game that features a variety of vehicles and tracks. The player must race against opponents and reach the finish line in the shortest time possible.",    "file": "Data/Roms/Battle Out Run (Europe).html"  },  {    "title": "Battlemaniacs (Brazil)",    "image": "Data/Covers/Battlemaniacs (Brazil).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sunsoft",    "plot": "Battlemaniacs is a platforming game that features the Battletoads characters. The player must fight through various levels, defeating enemies and bosses to reach the end.",    "file": "Data/Roms/Battlemaniacs (Brazil).html"  },  {    "title": "Black Belt (USA, Europe)",    "image": "Data/Covers/Black Belt (USA, Europe).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Black Belt is a martial arts-themed game that features side-scrolling action. The player controls a black belt martial artist who must fight through levels filled with enemies and obstacles.",    "file": "Data/Roms/Black Belt (USA, Europe).html"  },
+	  {    "title": "Blade Eagle (World) (Beta)",    "image": "Data/Covers/Blade Eagle (World) (Beta).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Blade Eagle is a shoot 'em up game that features the player controlling a spaceship fighting against alien enemies. The beta version may have some differences from the final release.",    "file": "Data/Roms/Blade Eagle (World) (Beta).html"  },  {    "title": "Blade Eagle (World)",    "image": "Data/Covers/Blade Eagle (World).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Blade Eagle is a shoot 'em up game that features the player controlling a spaceship fighting against alien enemies.",    "file": "Data/Roms/Blade Eagle (World).html"  },  {    "title": "Block Hole (Korea) (Unl)",    "image": "Data/Covers/Block Hole (Korea) (Unl).jpg",    "year": "1990",    "platform": "segaMS",    "publisher": "Samsung",    "developer": "Sigma",    "plot": "Block Hole is a puzzle game that features the player moving blocks to fill in a hole. The game includes multiple levels with increasing difficulty.",    "file": "Data/Roms/Block Hole (Korea) (Unl).html"  },  {    "title": "Bobble Bobble (Korea)",    "image": "Data/Covers/Bobble Bobble (Korea).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Taito",    "developer": "Taito",    "plot": "Bobble Bobble is a platforming game that features two dragon characters who can blow bubbles to trap enemies. The goal is to defeat all enemies in each level.",    "file": "Data/Roms/Bobble Bobble (Korea).html"  },
+	  {    "title": "Bomber Raid (World)",    "image": "Data/Covers/Bomber Raid (World).jpg",    "year": "1988",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sanritsu",    "plot": "Bomber Raid is a shoot 'em up game that features the player controlling a plane to destroy enemy forces on the ground and in the air. The game includes various power-ups and boss fights.",    "file": "Data/Roms/Bomber Raid (World).html"  },  {    "title": "Bonanza Bros. (Europe)",    "image": "Data/Covers/Bonanza Bros. (Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bonanza Bros. is a platforming game that features the player controlling one or two robbers in a heist. The goal is to sneak through a building to collect valuable objects and escape from the police.",    "file": "Data/Roms/Bonanza Bros. (Europe).html"  },  {    "title": "Bonkers Wax Up! (Brazil)",    "image": "Data/Covers/Bonkers Wax Up! (Brazil).jpg",    "year": "1995",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bonkers Wax Up! is a platforming game that features the player controlling the cartoon character Bonkers D. Bobcat. The game includes various levels and power-ups.",    "file": "Data/Roms/Bonkers Wax Up! (Brazil).html"  },  {    "title": "Bram Stoker's Dracula (Europe)",    "image": "Data/Covers/Bram Stokers Dracula (Europe).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Sony Imagesoft",    "developer": "Psygnosis",    "plot": "Bram Stoker's Dracula is a platforming game that features the player controlling Jonathan Harker, a character from the novel. The game follows the story of the novel and includes various enemies and boss fights.",    "file": "Data/Roms/Bram Stokers Dracula (Europe).html"  },
+	  {    "title": "Bubble Bobble (Europe)",    "image": "Data/Covers/Bubble Bobble (Europe).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Firebird",    "developer": "Taito",    "plot": "Bubble Bobble is a platforming game that features the player controlling two dragon characters who can blow bubbles to trap enemies. The goal is to defeat all enemies in each level and reach the end of the game.",    "file": "Data/Roms/Bubble Bobble (Europe).html"  },  {    "title": "Buggy Run (Europe)",    "image": "Data/Covers/Buggy Run (Europe).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Simis",    "developer": "Simis",    "plot": "Buggy Run is a racing game that features the player controlling a dune buggy in a desert environment. The game includes various obstacles and power-ups.",    "file": "Data/Roms/Buggy Run (Europe).html"  },  {    "title": "California Games (USA, Europe)",    "image": "Data/Covers/California Games (USA, Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Epyx",    "developer": "Epyx",    "plot": "California Games is a sports game that features various events that are popular in California, such as skateboarding, surfing, and BMX biking. The game includes multiple levels and difficulty settings.",    "file": "Data/Roms/California Games (USA, Europe).html"  },  {    "title": "California Games II (Brazil, Korea)",    "image": "Data/Covers/California Games II (Brazil, Korea).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Mindscape",    "developer": "Mindscape",    "plot": "California Games II is a sports game that features various events, such as hang gliding, snowboarding, and jet skiing. The game includes multiple levels and difficulty settings.",    "file": "Data/Roms/California Games II (Brazil, Korea).html"  },
+	  {    "title": "California Games II (Europe)",    "image": "Data/Covers/California Games II (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Mindscape",    "developer": "Mindscape",    "plot": "California Games II is a sports game that features various events, such as hang gliding, snowboarding, and jet skiing. The game includes multiple levels and difficulty settings.",    "file": "Data/Roms/California Games II (Europe).html"  },  {    "title": "Captain Silver (Japan, Europe)",    "image": "Data/Covers/Captain Silver (Japan, Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Data East",    "developer": "Data East",    "plot": "Captain Silver is a side-scrolling action game that features the player controlling a pirate character who must defeat various enemies and bosses. The game includes multiple levels and power-ups.",    "file": "Data/Roms/Captain Silver (Japan, Europe).html"  },  {    "title": "Captain Silver (USA)",    "image": "Data/Covers/Captain Silver (USA).jpg",    "year": "1988",    "platform": "segaMS",    "publisher": "Data East",    "developer": "Data East",    "plot": "Captain Silver is a side-scrolling action game that features the player controlling a pirate character who must defeat various enemies and bosses. The game includes multiple levels and power-ups.",    "file": "Data/Roms/Captain Silver (USA).html"  },  {    "title": "Casino Games (USA, Europe)",    "image": "Data/Covers/Casino Games (USA, Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Tengen",    "developer": "Tengen",    "plot": "Casino Games is a collection of various casino games, such as blackjack, poker, and slot machines. The game includes multiple levels and difficulty settings.",    "file": "Data/Roms/Casino Games (USA, Europe).html"  },
+	  {
+		"title": "Castelo Ra-Tim-Bum (Brazil)",
+		"image": "Data/Covers/Castelo Ra-Tim-Bum (Brazil).jpg",
+		"year": "1996",
+		"platform": "segaMS",
+		"publisher": "Tectoy",
+		"developer": "Tectoy",
+		"plot": "Castelo Rá-Tim-Bum is a Brazilian children's television series. In this game, the player takes on the role of Nino, a young boy who must explore the castle and solve puzzles to collect magical objects.",
+		"file": "Data/Roms/Castelo Ra-Tim-Bum (Brazil).html"
+		},
+		{
+		"title": "Castle of Illusion Starring Mickey Mouse (Europe)",
+		"image": "Data/Covers/Castle of Illusion Starring Mickey Mouse (Europe).jpg",
+		"year": "1990",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "In this classic platformer, Mickey Mouse sets out on a quest to save his girlfriend Minnie Mouse from the evil witch Mizrabel. The game features colorful graphics and a variety of challenging levels.",
+		"file": "Data/Roms/Castle of Illusion Starring Mickey Mouse (Europe).html"
+		},
+		{
+		"title": "Castle of Illusion Starring Mickey Mouse (Unknown) (Sample)",
+		"image": "Data/Covers/Castle of Illusion Starring Mickey Mouse (Unknown) (Sample).jpg",
+		"year": "1990",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "This is a sample version of Castle of Illusion Starring Mickey Mouse, featuring the first level of the game. It was likely included with some Sega Master System consoles as a demo.",
+		"file": "Data/Roms/Castle of Illusion Starring Mickey Mouse (Unknown) (Sample).html"
+		},
+		{
+		"title": "Castle of Illusion Starring Mickey Mouse (USA)",
+		"image": "Data/Covers/Castle of Illusion Starring Mickey Mouse (USA).jpg",
+		"year": "1990",
+		"platform": "segaMS",
+		"publisher": "Sega",
+		"developer": "Sega",
+		"plot": "In this classic platformer, Mickey Mouse sets out on a quest to save his girlfriend Minnie Mouse from the evil witch Mizrabel. The game features colorful graphics and a variety of challenging levels.",
+		"file": "Data/Roms/Castle of Illusion Starring Mickey Mouse (USA).html"
+		},
+		{
+			"title": "Champions of Europe (Europe)",
+			"image": "Data/Covers/Champions of Europe (Europe).jpg",
+			"year": "1991",
+			"platform": "segaMS",
+			"publisher": "Sega",
+			"developer": "Sega",
+			"plot": "Champions of Europe is a football simulation game featuring the teams of the UEFA Champions League. The game allows players to take control of their favorite European teams and compete in a variety of matches.",
+			"file": "Data/Roms/Champions of Europe (Europe).html"
+			},
+			{
+			"title": "Championship Hockey (Europe)",
+			"image": "Data/Covers/Championship Hockey (Europe).jpg",
+			"year": "1992",
+			"platform": "segaMS",
+			"publisher": "Sega",
+			"developer": "SIMS",
+			"plot": "Championship Hockey is an ice hockey simulation game featuring a variety of teams from around the world. The game includes both exhibition matches and a tournament mode.",
+			"file": "Data/Roms/Championship Hockey (Europe).html"
+			},
+			{
+			"title": "Chapolim x Dracula - Um Duelo Assustador (Brazil)",
+			"image": "Data/Covers/Chapolim x Dracula - Um Duelo Assustador (Brazil).jpg",
+			"year": "1996",
+			"platform": "segaMS",
+			"publisher": "Tectoy",
+			"developer": "Tectoy",
+			"plot": "Chapolim x Dracula - Um Duelo Assustador is a Brazilian game based on the Chapolin Colorado TV series. In this game, the player takes on the role of the superhero Chapolin and must battle Dracula and his minions.",
+			"file": "Data/Roms/Chapolim x Dracula - Um Duelo Assustador (Brazil).html"
+			},
+			{
+			"title": "Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)",
+			"image": "Data/Covers/Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).jpg",
+			"year": "1995",
+			"platform": "segaMS",
+			"publisher": "Sega",
+			"developer": "Sega",
+			"plot": "In this platformer, the player takes on the role of Speedy Gonzales, the fastest mouse in all of Mexico, as he attempts to rescue his friends from the clutches of the evil Sylvester the Cat. The game features a variety of levels and power-ups.",
+			"file": "Data/Roms/Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).html"
+			},
+			{
+				"title": "Choplifter (Japan) (Proto)",
+				"image": "Data/Covers/Choplifter (Japan) (Proto).jpg",
+				"year": "1985",
+				"platform": "segaMS",
+				"publisher": "Sega",
+				"developer": "Sega",
+				"plot": "Choplifter is a side-scrolling action game where the player takes on the role of a helicopter pilot who must rescue hostages from enemy territory. This prototype version of the game was likely used for testing and debugging purposes.",
+				"file": "Data/Roms/Choplifter (Japan) (Proto).html"
+				},
+				{
+				"title": "Choplifter (USA) (Beta)",
+				"image": "Data/Covers/Choplifter (USA) (Beta).jpg",
+				"year": "1986",
+				"platform": "segaMS",
+				"publisher": "Sega",
+				"developer": "Sega",
+				"plot": "Choplifter is a side-scrolling action game where the player takes on the role of a helicopter pilot who must rescue hostages from enemy territory. This beta version of the game was likely used for testing and debugging purposes.",
+				"file": "Data/Roms/Choplifter (USA) (Beta).html"
+				},
+				{
+				"title": "Choplifter (USA, Europe)",
+				"image": "Data/Covers/Choplifter (USA, Europe).jpg",
+				"year": "1986",
+				"platform": "segaMS",
+				"publisher": "Sega",
+				"developer": "Sega",
+				"plot": "Choplifter is a side-scrolling action game where the player takes on the role of a helicopter pilot who must rescue hostages from enemy territory. The game features a variety of levels and enemy types.",
+				"file": "Data/Roms/Choplifter (USA, Europe).html"
+				},
+				{
+				"title": "Chouon Senshi Borgman (Japan) (Beta)",
+				"image": "Data/Covers/Chouon Senshi Borgman (Japan) (Beta).jpg",
+				"year": "1988",
+				"platform": "segaMS",
+				"publisher": "Sega",
+				"developer": "Sega",
+				"plot": "Chouon Senshi Borgman is a side-scrolling action game based on the anime of the same name. This beta version of the game was likely used for testing and debugging purposes.",
+				"file": "Data/Roms/Chouon Senshi Borgman (Japan) (Beta).html"
+				},
+				{
+					"title": "Chouon Senshi Borgman (Japan)",
+					"image": "Data/Covers/Chouon Senshi Borgman (Japan).jpg",
+					"year": "1990",
+					"platform": "segaMS",
+					"publisher": "Nippon Computer Systems",
+					"developer": "Planning Office Wada",
+					"plot": "Chouon Senshi Borgman is a side-scrolling action game based on the anime of the same name. Players take control of the three main characters, each with their own unique abilities, as they battle against the evil organization known as Muu.",
+					"file": "Data/Roms/Chouon Senshi Borgman (Japan).html"
+					},
+	{
+	  "title": "Chuck Rock (Europe)",
+	  "image": "Data/Covers/Chuck Rock (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Chuck Rock (Europe).html"
+	},
+	{
+	  "title": "Chuck Rock II - Son of Chuck (Brazil)",
+	  "image": "Data/Covers/Chuck Rock II - Son of Chuck (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Chuck Rock II - Son of Chuck (Brazil).html"
+	},
+	{
+	  "title": "Chuck Rock II - Son of Chuck (Europe)",
+	  "image": "Data/Covers/Chuck Rock II - Son of Chuck (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Chuck Rock II - Son of Chuck (Europe).html"
+	},
+	{
+	  "title": "Circuit, The (Japan)",
+	  "image": "Data/Covers/Circuit, The (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Circuit, The (Japan).html"
+	},
+	{
+	  "title": "Cloud Master (USA, Europe)",
+	  "image": "Data/Covers/Cloud Master (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Cloud Master (USA, Europe).html"
+	},
+	{
+	  "title": "Color & Switch Test (Unknown)",
+	  "image": "Data/Covers/Color & Switch Test (Unknown).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Color & Switch Test (Unknown).html"
+	},
+	{
+	  "title": "Columns (USA, Europe) (Beta)",
+	  "image": "Data/Covers/Columns (USA, Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Columns (USA, Europe) (Beta).html"
+	},
+	{
+	  "title": "Columns (USA, Europe)",
+	  "image": "Data/Covers/Columns (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Columns (USA, Europe).html"
+	},
+	{
+	  "title": "Comic Bakery (Korea)",
+	  "image": "Data/Covers/Comic Bakery (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Comic Bakery (Korea).html"
+	},
+	{
+	  "title": "Comical Machine Gun Joe (Japan)",
+	  "image": "Data/Covers/Comical Machine Gun Joe (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Comical Machine Gun Joe (Japan).html"
+	},
+	{
+	  "title": "Comical Machine Gun Joe (Taiwan)",
+	  "image": "Data/Covers/Comical Machine Gun Joe (Taiwan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Comical Machine Gun Joe (Taiwan).html"
+	},
+	{
+	  "title": "Cool Spot (Europe)",
+	  "image": "Data/Covers/Cool Spot (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Cool Spot (Europe).html"
+	},
+	{
+	  "title": "Cosmic Spacehead (Europe) (En,Fr,De,Es)",
+	  "image": "Data/Covers/Cosmic Spacehead (Europe) (En,Fr,De,Es).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Cosmic Spacehead (Europe) (En,Fr,De,Es).html"
+	},
+	{
+	  "title": "Cyber Shinobi, The (Europe)",
+	  "image": "Data/Covers/Cyber Shinobi, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Cyber Shinobi, The (Europe).html"
+	},
+	{
+	  "title": "Cyber Shinobi, The (Unknown) (Beta)",
+	  "image": "Data/Covers/Cyber Shinobi, The (Unknown) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Cyber Shinobi, The (Unknown) (Beta).html"
+	},
+	{
+	  "title": "Cyborg Hunter (USA, Europe)",
+	  "image": "Data/Covers/Cyborg Hunter (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Cyborg Hunter (USA, Europe).html"
+	},
+	{
+	  "title": "Cyborg Z (Korea)",
+	  "image": "Data/Covers/Cyborg Z (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Cyborg Z (Korea).html"
+	},
+	{
+	  "title": "C_So! (Korea) (Unl)",
+	  "image": "Data/Covers/C_So! (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/C_So! (Korea) (Unl).html"
+	},
+	{
+	  "title": "Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",
+	  "image": "Data/Covers/Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).html"
+	},
+	{
+	  "title": "Dallyeora Pigu-Wang (Korea) (Unl)",
+	  "image": "Data/Covers/Dallyeora Pigu-Wang (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dallyeora Pigu-Wang (Korea) (Unl).html"
+	},
+	{
+	  "title": "Danan - The Jungle Fighter (Europe)",
+	  "image": "Data/Covers/Danan - The Jungle Fighter (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Danan - The Jungle Fighter (Europe).html"
+	},
+	{
+	  "title": "Dead Angle (USA, Europe)",
+	  "image": "Data/Covers/Dead Angle (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dead Angle (USA, Europe).html"
+	},
+	{
+	  "title": "Deep Duck Trouble Starring Donald Duck (Europe)",
+	  "image": "Data/Covers/Deep Duck Trouble Starring Donald Duck (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Deep Duck Trouble Starring Donald Duck (Europe).html"
+	},
+	{
+	  "title": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)",
+	  "image": "Data/Covers/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).html"
+	},
+	{
+	  "title": "Desert Strike (Europe) (En,Fr,De,Es)",
+	  "image": "Data/Covers/Desert Strike (Europe) (En,Fr,De,Es).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Desert Strike (Europe) (En,Fr,De,Es).html"
+	},
+	{
+	  "title": "Dick Tracy (USA, Europe)",
+	  "image": "Data/Covers/Dick Tracy (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dick Tracy (USA, Europe).html"
+	},
+	{
+	  "title": "Dinobasher Starring Bignose the Caveman (Europe) (Proto)",
+	  "image": "Data/Covers/Dinobasher Starring Bignose the Caveman (Europe) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dinobasher Starring Bignose the Caveman (Europe) (Proto).html"
+	},
+	{
+	  "title": "Dinosaur Dooley, The (Korea) (Unl)",
+	  "image": "Data/Covers/Dinosaur Dooley, The (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dinosaur Dooley, The (Korea) (Unl).html"
+	},
+	{
+	  "title": "Doki Doki Penguin Land - Uchuu Daibouken (Japan)",
+	  "image": "Data/Covers/Doki Doki Penguin Land - Uchuu Daibouken (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Doki Doki Penguin Land - Uchuu Daibouken (Japan).html"
+	},
+	{
+	  "title": "Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta)",
+	  "image": "Data/Covers/Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).html"
+	},
+	{
+	  "title": "Double Dragon (World)",
+	  "image": "Data/Covers/Double Dragon (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Double Dragon (World).html"
+	},
+	{
+	  "title": "Double Hawk (Europe) (Beta)",
+	  "image": "Data/Covers/Double Hawk (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Double Hawk (Europe) (Beta).html"
+	},
+	{
+	  "title": "Double Hawk (Europe)",
+	  "image": "Data/Covers/Double Hawk (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Double Hawk (Europe).html"
+	},
+	{
+	  "title": "Double Target - Cynthia no Nemuri (Japan)",
+	  "image": "Data/Covers/Double Target - Cynthia no Nemuri (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Double Target - Cynthia no Nemuri (Japan).html"
+	},
+	{
+	  "title": "Dr. Hello (Korea) (Unl)",
+	  "image": "Data/Covers/Dr. Hello (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dr. Hello (Korea) (Unl).html"
+	},
+	{
+	  "title": "Dr. Robotniks Mean Bean Machine (Europe)",
+	  "image": "Data/Covers/Dr. Robotniks Mean Bean Machine (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dr. Robotniks Mean Bean Machine (Europe).html"
+	},
+	{
+	  "title": "Dragon - The Bruce Lee Story (Europe)",
+	  "image": "Data/Covers/Dragon - The Bruce Lee Story (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dragon - The Bruce Lee Story (Europe).html"
+	},
+	{
+	  "title": "Dragon Crystal (Europe)",
+	  "image": "Data/Covers/Dragon Crystal (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dragon Crystal (Europe).html"
+	},
+	{
+	  "title": "Dynamite Duke (Europe)",
+	  "image": "Data/Covers/Dynamite Duke (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dynamite Duke (Europe).html"
+	},
+	{
+	  "title": "Dynamite Dux (Europe)",
+	  "image": "Data/Covers/Dynamite Dux (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dynamite Dux (Europe).html"
+	},
+	{
+	  "title": "Dynamite Headdy (Brazil)",
+	  "image": "Data/Covers/Dynamite Headdy (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Dynamite Headdy (Brazil).html"
+	},
+	{
+	  "title": "E-SWAT - City Under Siege (USA, Europe) (Easy Version)",
+	  "image": "Data/Covers/E-SWAT - City Under Siege (USA, Europe) (Easy Version).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/E-SWAT - City Under Siege (USA, Europe) (Easy Version).html"
+	},
+	{
+	  "title": "E-SWAT - City Under Siege (USA, Europe) (Hard Version)",
+	  "image": "Data/Covers/E-SWAT - City Under Siege (USA, Europe) (Hard Version).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/E-SWAT - City Under Siege (USA, Europe) (Hard Version).html"
+	},
+	{
+	  "title": "E.I. - Exa Innova (Korea)",
+	  "image": "Data/Covers/E.I. - Exa Innova (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/E.I. - Exa Innova (Korea).html"
+	},
+	{
+	  "title": "Eagles 5 (Korea)",
+	  "image": "Data/Covers/Eagles 5 (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Eagles 5 (Korea).html"
+	},
+	{
+	  "title": "Earthworm Jim (Brazil)",
+	  "image": "Data/Covers/Earthworm Jim (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Earthworm Jim (Brazil).html"
+	},
+	{
+	  "title": "Ecco - The Tides of Time (Brazil)",
+	  "image": "Data/Covers/Ecco - The Tides of Time (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ecco - The Tides of Time (Brazil).html"
+	},
+	{
+	  "title": "Ecco the Dolphin (Europe)",
+	  "image": "Data/Covers/Ecco the Dolphin (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ecco the Dolphin (Europe).html"
+	},
+	{
+	  "title": "Enduro Racer (Japan)",
+	  "image": "Data/Covers/Enduro Racer (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Enduro Racer (Japan).html"
+	},
+	{
+	  "title": "Enduro Racer (USA, Europe)",
+	  "image": "Data/Covers/Enduro Racer (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Enduro Racer (USA, Europe).html"
+	},
+	{
+	  "title": "Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto)",
+	  "image": "Data/Covers/Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto).html"
+	},
+	{
+	  "title": "F-1 Spirit - The Way to Formula-1 (Korea) (Unl) (Pirate)",
+	  "image": "Data/Covers/F-1 Spirit - The Way to Formula-1 (Korea) (Unl) (Pirate).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/F-1 Spirit - The Way to Formula-1 (Korea) (Unl) (Pirate).html"
+	},
+	{
+	  "title": "F-16 Fighter (USA, Europe)",
+	  "image": "Data/Covers/F-16 Fighter (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/F-16 Fighter (USA, Europe).html"
+	},
+	{
+	  "title": "F-16 Fighting Falcon (Japan)",
+	  "image": "Data/Covers/F-16 Fighting Falcon (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/F-16 Fighting Falcon (Japan).html"
+	},
+	{
+	  "title": "F-16 Fighting Falcon (Taiwan)",
+	  "image": "Data/Covers/F-16 Fighting Falcon (Taiwan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/F-16 Fighting Falcon (Taiwan).html"
+	},
+	{
+	  "title": "F-16 Fighting Falcon (USA)",
+	  "image": "Data/Covers/F-16 Fighting Falcon (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/F-16 Fighting Falcon (USA).html"
+	},
+	{
+	  "title": "F1 (Europe)",
+	  "image": "Data/Covers/F1 (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/F1 (Europe).html"
+	},
+	{
+	  "title": "FA Tetris (Korea) (Pirate)",
+	  "image": "Data/Covers/FA Tetris (Korea) (Pirate).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/FA Tetris (Korea) (Pirate).html"
+	},
+	{
+	  "title": "Family Games (Japan)",
+	  "image": "Data/Covers/Family Games (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Family Games (Japan).html"
+	},
+	{
+	  "title": "Fantastic Dizzy (Europe) (En,Fr,De,Es,It)",
+	  "image": "Data/Covers/Fantastic Dizzy (Europe) (En,Fr,De,Es,It).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fantastic Dizzy (Europe) (En,Fr,De,Es,It).html"
+	},
+	{
+	  "title": "Fantasy Zone (Japan)",
+	  "image": "Data/Covers/Fantasy Zone (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fantasy Zone (Japan).html"
+	},
+	{
+	  "title": "Fantasy Zone (Taiwan)",
+	  "image": "Data/Covers/Fantasy Zone (Taiwan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fantasy Zone (Taiwan).html"
+	},
+	{
+	  "title": "Fantasy Zone (World) (Rev 1) (Beta)",
+	  "image": "Data/Covers/Fantasy Zone (World) (Rev 1) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fantasy Zone (World) (Rev 1) (Beta).html"
+	},
+	{
+	  "title": "Fantasy Zone (World) (Rev 2)",
+	  "image": "Data/Covers/Fantasy Zone (World) (Rev 2).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fantasy Zone (World) (Rev 2).html"
+	},
+	{
+	  "title": "Fantasy Zone - The Maze (USA, Europe)",
+	  "image": "Data/Covers/Fantasy Zone - The Maze (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fantasy Zone - The Maze (USA, Europe).html"
+	},
+	{
+	  "title": "Fantasy Zone II - Opa-Opa no Namida (Japan)",
+	  "image": "Data/Covers/Fantasy Zone II - Opa-Opa no Namida (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fantasy Zone II - Opa-Opa no Namida (Japan).html"
+	},
+	{
+	  "title": "Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)",
+	  "image": "Data/Covers/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).html"
+	},
+	{
+	  "title": "Ferias Frustradas do Pica Pau (Brazil)",
+	  "image": "Data/Covers/Ferias Frustradas do Pica Pau (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ferias Frustradas do Pica Pau (Brazil).html"
+	},
+	{
+	  "title": "FIFA International Soccer (Brazil) (En,Es,Pt)",
+	  "image": "Data/Covers/FIFA International Soccer (Brazil) (En,Es,Pt).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/FIFA International Soccer (Brazil) (En,Es,Pt).html"
+	},
+	{
+	  "title": "Final Bubble Bobble (Japan)",
+	  "image": "Data/Covers/Final Bubble Bobble (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Final Bubble Bobble (Japan).html"
+	},
+	{
+	  "title": "Fire & Forget II (Europe)",
+	  "image": "Data/Covers/Fire & Forget II (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fire & Forget II (Europe).html"
+	},
+	{
+	  "title": "Fire & Ice (Brazil)",
+	  "image": "Data/Covers/Fire & Ice (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fire & Ice (Brazil).html"
+	},
+	{
+	  "title": "Flash, The (Europe)",
+	  "image": "Data/Covers/Flash, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Flash, The (Europe).html"
+	},
+	{
+	  "title": "Flashpoint (Korea) (Unl)",
+	  "image": "Data/Covers/Flashpoint (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Flashpoint (Korea) (Unl).html"
+	},
+	{
+	  "title": "Flintstones, The (Europe)",
+	  "image": "Data/Covers/Flintstones, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Flintstones, The (Europe).html"
+	},
+	{
+	  "title": "Forgotten Worlds (Europe)",
+	  "image": "Data/Covers/Forgotten Worlds (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Forgotten Worlds (Europe).html"
+	},
+	{
+	  "title": "Fushigi no Oshiro Pit Pot (Japan)",
+	  "image": "Data/Covers/Fushigi no Oshiro Pit Pot (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Fushigi no Oshiro Pit Pot (Japan).html"
+	},
+	{
+	  "title": "G-LOC Air Battle (Europe)",
+	  "image": "Data/Covers/G-LOC Air Battle (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/G-LOC Air Battle (Europe).html"
+	},
+	{
+	  "title": "Gaegujangi Ggachi (Korea) (Unl)",
+	  "image": "Data/Covers/Gaegujangi Ggachi (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Gaegujangi Ggachi (Korea) (Unl).html"
+	},
+	{
+	  "title": "Gain Ground (Europe) (Beta)",
+	  "image": "Data/Covers/Gain Ground (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Gain Ground (Europe) (Beta).html"
+	},
+	{
+	  "title": "Gain Ground (Europe)",
+	  "image": "Data/Covers/Gain Ground (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Gain Ground (Europe).html"
+	},
+	{
+	  "title": "Galactic Protector (Japan)",
+	  "image": "Data/Covers/Galactic Protector (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Galactic Protector (Japan).html"
+	},
+	{
+	  "title": "Galaxy Force (Europe)",
+	  "image": "Data/Covers/Galaxy Force (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Galaxy Force (Europe).html"
+	},
+	{
+	  "title": "Galaxy Force (USA)",
+	  "image": "Data/Covers/Galaxy Force (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Galaxy Force (USA).html"
+	},
+	{
+	  "title": "Game Box Serie Esportes Radicais (Brazil)",
+	  "image": "Data/Covers/Game Box Serie Esportes Radicais (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Game Box Serie Esportes Radicais (Brazil).html"
+	},
+	{
+	  "title": "Gangcheol RoboCop (Korea) (Unl)",
+	  "image": "Data/Covers/Gangcheol RoboCop (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Gangcheol RoboCop (Korea) (Unl).html"
+	},
+	{
+	  "title": "Gangster Town (USA, Europe)",
+	  "image": "Data/Covers/Gangster Town (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Gangster Town (USA, Europe).html"
+	},
+	{
+	  "title": "Gauntlet (Europe)",
+	  "image": "Data/Covers/Gauntlet (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Gauntlet (Europe).html"
+	},
+	{
+	  "title": "George Foremans KO Boxing (Europe)",
+	  "image": "Data/Covers/George Foremans KO Boxing (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/George Foremans KO Boxing (Europe).html"
+	},
+	{
+	  "title": "Geraldinho (Brazil)",
+	  "image": "Data/Covers/Geraldinho (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Geraldinho (Brazil).html"
+	},
+	{
+	  "title": "Ghost House (Japan)",
+	  "image": "Data/Covers/Ghost House (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ghost House (Japan).html"
+	},
+	{
+	  "title": "Ghost House (USA, Europe) (Beta)",
+	  "image": "Data/Covers/Ghost House (USA, Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ghost House (USA, Europe) (Beta).html"
+	},
+	{
+	  "title": "Ghost House (USA, Europe)",
+	  "image": "Data/Covers/Ghost House (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ghost House (USA, Europe).html"
+	},
+	{
+	  "title": "Ghostbusters (USA, Europe)",
+	  "image": "Data/Covers/Ghostbusters (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ghostbusters (USA, Europe).html"
+	},
+	{
+	  "title": "Ghoulsn Ghosts (Unknown) (Sample)",
+	  "image": "Data/Covers/Ghoulsn Ghosts (Unknown) (Sample).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ghoulsn Ghosts (Unknown) (Sample).html"
+	},
+	{
+	  "title": "Ghoulsn Ghosts (USA, Europe)",
+	  "image": "Data/Covers/Ghoulsn Ghosts (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ghoulsn Ghosts (USA, Europe).html"
+	},
+	{
+	  "title": "Global Defense (USA, Europe) (Beta)",
+	  "image": "Data/Covers/Global Defense (USA, Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Global Defense (USA, Europe) (Beta).html"
+	},
+	{
+	  "title": "Global Defense (USA, Europe)",
+	  "image": "Data/Covers/Global Defense (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Global Defense (USA, Europe).html"
+	},
+	{
+	  "title": "Gokuaku Doumei Dump Matsumoto (Japan)",
+	  "image": "Data/Covers/Gokuaku Doumei Dump Matsumoto (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Gokuaku Doumei Dump Matsumoto (Japan).html"
+	},
+	{
+	  "title": "Golden Axe (USA, Europe)",
+	  "image": "Data/Covers/Golden Axe (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Golden Axe (USA, Europe).html"
+	},
+	{
+	  "title": "Golden Axe Warrior (USA, Europe)",
+	  "image": "Data/Covers/Golden Axe Warrior (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Golden Axe Warrior (USA, Europe).html"
+	},
+	{
+	  "title": "Golfamania (Europe) (Beta)",
+	  "image": "Data/Covers/Golfamania (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Golfamania (Europe) (Beta).html"
+	},
+	{
+	  "title": "Golfamania (Europe)",
+	  "image": "Data/Covers/Golfamania (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Golfamania (Europe).html"
+	},
+	{
+	  "title": "Golvellius (USA, Europe)",
+	  "image": "Data/Covers/Golvellius (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Golvellius (USA, Europe).html"
+	},
+	{
+	  "title": "GP Rider (Europe)",
+	  "image": "Data/Covers/GP Rider (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/GP Rider (Europe).html"
+	},
+	{
+	  "title": "Great Baseball (Japan)",
+	  "image": "Data/Covers/Great Baseball (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Baseball (Japan).html"
+	},
+	{
+	  "title": "Great Baseball (USA, Europe)",
+	  "image": "Data/Covers/Great Baseball (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Baseball (USA, Europe).html"
+	},
+	{
+	  "title": "Great Basketball (World)",
+	  "image": "Data/Covers/Great Basketball (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Basketball (World).html"
+	},
+	{
+	  "title": "Great Football (World)",
+	  "image": "Data/Covers/Great Football (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Football (World).html"
+	},
+	{
+	  "title": "Great Golf (Japan)",
+	  "image": "Data/Covers/Great Golf (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Golf (Japan).html"
+	},
+	{
+	  "title": "Great Golf (Korea)",
+	  "image": "Data/Covers/Great Golf (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Golf (Korea).html"
+	},
+	{
+	  "title": "Great Golf (World) (Beta)",
+	  "image": "Data/Covers/Great Golf (World) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Golf (World) (Beta).html"
+	},
+	{
+	  "title": "Great Golf (World)",
+	  "image": "Data/Covers/Great Golf (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Golf (World).html"
+	},
+	{
+	  "title": "Great Ice Hockey (Japan, USA)",
+	  "image": "Data/Covers/Great Ice Hockey (Japan, USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Ice Hockey (Japan, USA).html"
+	},
+	{
+	  "title": "Great Soccer (Europe)",
+	  "image": "Data/Covers/Great Soccer (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Soccer (Europe).html"
+	},
+	{
+	  "title": "Great Soccer (Japan)",
+	  "image": "Data/Covers/Great Soccer (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Soccer (Japan).html"
+	},
+	{
+	  "title": "Great Soccer (Taiwan)",
+	  "image": "Data/Covers/Great Soccer (Taiwan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Soccer (Taiwan).html"
+	},
+	{
+	  "title": "Great Tennis (Japan)",
+	  "image": "Data/Covers/Great Tennis (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Tennis (Japan).html"
+	},
+	{
+	  "title": "Great Volleyball (Japan)",
+	  "image": "Data/Covers/Great Volleyball (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Volleyball (Japan).html"
+	},
+	{
+	  "title": "Great Volleyball (USA, Europe)",
+	  "image": "Data/Covers/Great Volleyball (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Great Volleyball (USA, Europe).html"
+	},
+	{
+	  "title": "Gun.Smoke (Korea) (Unl)",
+	  "image": "Data/Covers/Gun.Smoke (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Gun.Smoke (Korea) (Unl).html"
+	},
+	{
+	  "title": "Haja no Fuuin (Japan)",
+	  "image": "Data/Covers/Haja no Fuuin (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Haja no Fuuin (Japan).html"
+	},
+	{
+	  "title": "Hang-On & Astro Warrior (USA)",
+	  "image": "Data/Covers/Hang-On & Astro Warrior (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hang-On & Astro Warrior (USA).html"
+	},
+	{
+	  "title": "Hang-On & Safari Hunt (USA) (Beta)",
+	  "image": "Data/Covers/Hang-On & Safari Hunt (USA) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hang-On & Safari Hunt (USA) (Beta).html"
+	},
+	{
+	  "title": "Hang-On & Safari Hunt (USA)",
+	  "image": "Data/Covers/Hang-On & Safari Hunt (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hang-On & Safari Hunt (USA).html"
+	},
+	{
+	  "title": "Hang-On (Europe)",
+	  "image": "Data/Covers/Hang-On (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hang-On (Europe).html"
+	},
+	{
+	  "title": "Hang-On (Japan)",
+	  "image": "Data/Covers/Hang-On (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hang-On (Japan).html"
+	},
+	{
+	  "title": "Heavyweight Champ (Europe)",
+	  "image": "Data/Covers/Heavyweight Champ (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Heavyweight Champ (Europe).html"
+	},
+	{
+	  "title": "Heroes of the Lance (Europe)",
+	  "image": "Data/Covers/Heroes of the Lance (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Heroes of the Lance (Europe).html"
+	},
+	{
+	  "title": "High School! Kimengumi (Japan)",
+	  "image": "Data/Covers/High School! Kimengumi (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/High School! Kimengumi (Japan).html"
+	},
+	{
+	  "title": "Hokuto no Ken (Japan)",
+	  "image": "Data/Covers/Hokuto no Ken (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hokuto no Ken (Japan).html"
+	},
+	{
+	  "title": "Hokuto no Ken (Taiwan)",
+	  "image": "Data/Covers/Hokuto no Ken (Taiwan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hokuto no Ken (Taiwan).html"
+	},
+	{
+	  "title": "Home Alone (Europe)",
+	  "image": "Data/Covers/Home Alone (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Home Alone (Europe).html"
+	},
+	{
+	  "title": "Hook (Europe) (Proto)",
+	  "image": "Data/Covers/Hook (Europe) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hook (Europe) (Proto).html"
+	},
+	{
+	  "title": "Hoshi wo Sagasite... (Japan)",
+	  "image": "Data/Covers/Hoshi wo Sagasite... (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hoshi wo Sagasite... (Japan).html"
+	},
+	{
+	  "title": "Hwarang Ui Geom (Korea)",
+	  "image": "Data/Covers/Hwarang Ui Geom (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Hwarang Ui Geom (Korea).html"
+	},
+	{
+	  "title": "Impossible Mission (Europe) (Beta)",
+	  "image": "Data/Covers/Impossible Mission (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Impossible Mission (Europe) (Beta).html"
+	},
+	{
+	  "title": "Impossible Mission (Europe)",
+	  "image": "Data/Covers/Impossible Mission (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Impossible Mission (Europe).html"
+	},
+	{
+	  "title": "Incredible Crash Dummies, The (Europe)",
+	  "image": "Data/Covers/Incredible Crash Dummies, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Incredible Crash Dummies, The (Europe).html"
+	},
+	{
+	  "title": "Incredible Hulk, The (Europe)",
+	  "image": "Data/Covers/Incredible Hulk, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Incredible Hulk, The (Europe).html"
+	},
+	{
+	  "title": "Indiana Jones and the Last Crusade (Europe) (Beta)",
+	  "image": "Data/Covers/Indiana Jones and the Last Crusade (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Indiana Jones and the Last Crusade (Europe) (Beta).html"
+	},
+	{
+	  "title": "Indiana Jones and the Last Crusade (Europe)",
+	  "image": "Data/Covers/Indiana Jones and the Last Crusade (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Indiana Jones and the Last Crusade (Europe).html"
+	},
+	{
+	  "title": "James Bond 007 - The Duel (Brazil)",
+	  "image": "Data/Covers/James Bond 007 - The Duel (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/James Bond 007 - The Duel (Brazil).html"
+	},
+	{
+	  "title": "James Bond 007 - The Duel (Europe)",
+	  "image": "Data/Covers/James Bond 007 - The Duel (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/James Bond 007 - The Duel (Europe).html"
+	},
+	{
+	  "title": "James Buster Douglas Knockout Boxing (USA) (Beta)",
+	  "image": "Data/Covers/James Buster Douglas Knockout Boxing (USA) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/James Buster Douglas Knockout Boxing (USA) (Beta).html"
+	},
+	{
+	  "title": "James Buster Douglas Knockout Boxing (USA)",
+	  "image": "Data/Covers/James Buster Douglas Knockout Boxing (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/James Buster Douglas Knockout Boxing (USA).html"
+	},
+	{
+	  "title": "James Pond 2 - Codename RoboCod (Europe)",
+	  "image": "Data/Covers/James Pond 2 - Codename RoboCod (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/James Pond 2 - Codename RoboCod (Europe).html"
+	},
+	{
+	  "title": "Jang Pung 3 (Korea) (Unl)",
+	  "image": "Data/Covers/Jang Pung 3 (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Jang Pung 3 (Korea) (Unl).html"
+	},
+	{
+	  "title": "Janggun-ui Adeul (Korea)",
+	  "image": "Data/Covers/Janggun-ui Adeul (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Janggun-ui Adeul (Korea).html"
+	},
+	{
+	  "title": "Joe Montana Football (USA, Europe)",
+	  "image": "Data/Covers/Joe Montana Football (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Joe Montana Football (USA, Europe).html"
+	},
+	{
+	  "title": "Jungle Book, The (Europe)",
+	  "image": "Data/Covers/Jungle Book, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Jungle Book, The (Europe).html"
+	},
+	{
+	  "title": "Jurassic Park (Europe)",
+	  "image": "Data/Covers/Jurassic Park (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Jurassic Park (Europe).html"
+	},
+	{
+	  "title": "Kenseiden (Japan)",
+	  "image": "Data/Covers/Kenseiden (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Kenseiden (Japan).html"
+	},
+	{
+	  "title": "Kenseiden (USA, Europe)",
+	  "image": "Data/Covers/Kenseiden (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Kenseiden (USA, Europe).html"
+	},
+	{
+	  "title": "King & Balloon (Korea) (Unl)",
+	  "image": "Data/Covers/King & Balloon (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/King & Balloon (Korea) (Unl).html"
+	},
+	{
+	  "title": "Kings Quest - Quest for the Crown (USA) (Beta)",
+	  "image": "Data/Covers/Kings Quest - Quest for the Crown (USA) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Kings Quest - Quest for the Crown (USA) (Beta).html"
+	},
+	{
+	  "title": "Kings Quest - Quest for the Crown (USA)",
+	  "image": "Data/Covers/Kings Quest - Quest for the Crown (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Kings Quest - Quest for the Crown (USA).html"
+	},
+	{
+	  "title": "Klax (Europe)",
+	  "image": "Data/Covers/Klax (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Klax (Europe).html"
+	},
+	{
+	  "title": "Knightmare II - The Maze of Galious (Korea)",
+	  "image": "Data/Covers/Knightmare II - The Maze of Galious (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Knightmare II - The Maze of Galious (Korea).html"
+	},
+	{
+	  "title": "Krustys Fun House (Europe)",
+	  "image": "Data/Covers/Krustys Fun House (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Krustys Fun House (Europe).html"
+	},
+	{
+	  "title": "Kujaku Ou (Japan)",
+	  "image": "Data/Covers/Kujaku Ou (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Kujaku Ou (Japan).html"
+	},
+	{
+	  "title": "Kung Fu Kid (USA, Europe)",
+	  "image": "Data/Covers/Kung Fu Kid (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Kung Fu Kid (USA, Europe).html"
+	},
+	{
+	  "title": "Land of Illusion Starring Mickey Mouse (Europe)",
+	  "image": "Data/Covers/Land of Illusion Starring Mickey Mouse (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Land of Illusion Starring Mickey Mouse (Europe).html"
+	},
+	{
+	  "title": "Laser Ghost (Europe)",
+	  "image": "Data/Covers/Laser Ghost (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Laser Ghost (Europe).html"
+	},
+	{
+	  "title": "Legend of Illusion Starring Mickey Mouse (Brazil)",
+	  "image": "Data/Covers/Legend of Illusion Starring Mickey Mouse (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Legend of Illusion Starring Mickey Mouse (Brazil).html"
+	},
+	{
+	  "title": "Lemmings (Europe) (Beta)",
+	  "image": "Data/Covers/Lemmings (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Lemmings (Europe) (Beta).html"
+	},
+	{
+	  "title": "Lemmings (Europe)",
+	  "image": "Data/Covers/Lemmings (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Lemmings (Europe).html"
+	},
+	{
+	  "title": "Lemmings 2 - The Tribes (Unknown) (Proto)",
+	  "image": "Data/Covers/Lemmings 2 - The Tribes (Unknown) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Lemmings 2 - The Tribes (Unknown) (Proto).html"
+	},
+	{
+	  "title": "Line of Fire (Europe)",
+	  "image": "Data/Covers/Line of Fire (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Line of Fire (Europe).html"
+	},
+	{
+	  "title": "Lion King, The (Europe)",
+	  "image": "Data/Covers/Lion King, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Lion King, The (Europe).html"
+	},
+	{
+	  "title": "Lord of Sword (Japan)",
+	  "image": "Data/Covers/Lord of Sword (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Lord of Sword (Japan).html"
+	},
+	{
+	  "title": "Lord of the Sword (USA, Europe)",
+	  "image": "Data/Covers/Lord of the Sword (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Lord of the Sword (USA, Europe).html"
+	},
+	{
+	  "title": "Loretta no Shouzou (Japan)",
+	  "image": "Data/Covers/Loretta no Shouzou (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Loretta no Shouzou (Japan).html"
+	},
+	{
+	  "title": "Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta)",
+	  "image": "Data/Covers/Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta).html"
+	},
+	{
+	  "title": "Lucky Dime Caper Starring Donald Duck, The (Europe)",
+	  "image": "Data/Covers/Lucky Dime Caper Starring Donald Duck, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Lucky Dime Caper Starring Donald Duck, The (Europe).html"
+	},
+	{
+	  "title": "Mahjong Sengoku Jidai (Japan) (Beta)",
+	  "image": "Data/Covers/Mahjong Sengoku Jidai (Japan) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mahjong Sengoku Jidai (Japan) (Beta).html"
+	},
+	{
+	  "title": "Mahjong Sengoku Jidai (Japan)",
+	  "image": "Data/Covers/Mahjong Sengoku Jidai (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mahjong Sengoku Jidai (Japan).html"
+	},
+	{
+	  "title": "Makai Retsuden (Japan)",
+	  "image": "Data/Covers/Makai Retsuden (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Makai Retsuden (Japan).html"
+	},
+	{
+	  "title": "Maou Golvellius (Japan) (Beta)",
+	  "image": "Data/Covers/Maou Golvellius (Japan) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Maou Golvellius (Japan) (Beta).html"
+	},
+	{
+	  "title": "Maou Golvellius (Japan)",
+	  "image": "Data/Covers/Maou Golvellius (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Maou Golvellius (Japan).html"
+	},
+	{
+	  "title": "Marble Madness (Europe)",
+	  "image": "Data/Covers/Marble Madness (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Marble Madness (Europe).html"
+	},
+	{
+	  "title": "Marksman Shooting & Trap Shooting & Safari Hunt (Europe)",
+	  "image": "Data/Covers/Marksman Shooting & Trap Shooting & Safari Hunt (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Marksman Shooting & Trap Shooting & Safari Hunt (Europe).html"
+	},
+	{
+	  "title": "Marksman Shooting & Trap Shooting (USA)",
+	  "image": "Data/Covers/Marksman Shooting & Trap Shooting (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Marksman Shooting & Trap Shooting (USA).html"
+	},
+	{
+	  "title": "Master of Darkness (Europe)",
+	  "image": "Data/Covers/Master of Darkness (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Master of Darkness (Europe).html"
+	},
+	{
+	  "title": "Masters of Combat (Europe)",
+	  "image": "Data/Covers/Masters of Combat (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Masters of Combat (Europe).html"
+	},
+	{
+	  "title": "Maze Hunter 3-D (USA, Europe)",
+	  "image": "Data/Covers/Maze Hunter 3-D (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Maze Hunter 3-D (USA, Europe).html"
+	},
+	{
+	  "title": "Maze Walker (Japan)",
+	  "image": "Data/Covers/Maze Walker (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Maze Walker (Japan).html"
+	},
+	{
+	  "title": "Megumi Rescue (Japan)",
+	  "image": "Data/Covers/Megumi Rescue (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Megumi Rescue (Japan).html"
+	},
+	{
+	  "title": "Mercs (Europe)",
+	  "image": "Data/Covers/Mercs (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mercs (Europe).html"
+	},
+	{
+	  "title": "Michael Jacksons Moonwalker (USA, Europe) (Beta)",
+	  "image": "Data/Covers/Michael Jacksons Moonwalker (USA, Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Michael Jacksons Moonwalker (USA, Europe) (Beta).html"
+	},
+	{
+	  "title": "Michael Jacksons Moonwalker (USA, Europe)",
+	  "image": "Data/Covers/Michael Jacksons Moonwalker (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Michael Jacksons Moonwalker (USA, Europe).html"
+	},
+	{
+	  "title": "Mick & Mack as the Global Gladiators (Europe)",
+	  "image": "Data/Covers/Mick & Mack as the Global Gladiators (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mick & Mack as the Global Gladiators (Europe).html"
+	},
+	{
+	  "title": "Mickeys Ultimate Challenge (Brazil)",
+	  "image": "Data/Covers/Mickeys Ultimate Challenge (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mickeys Ultimate Challenge (Brazil).html"
+	},
+	{
+	  "title": "Micro Machines (Europe)",
+	  "image": "Data/Covers/Micro Machines (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Micro Machines (Europe).html"
+	},
+	{
+	  "title": "Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta)",
+	  "image": "Data/Covers/Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta).html"
+	},
+	{
+	  "title": "Miracle Warriors - Seal of the Dark Lord (USA, Europe)",
+	  "image": "Data/Covers/Miracle Warriors - Seal of the Dark Lord (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Miracle Warriors - Seal of the Dark Lord (USA, Europe).html"
+	},
+	{
+	  "title": "Missile Defense 3-D (USA, Europe)",
+	  "image": "Data/Covers/Missile Defense 3-D (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Missile Defense 3-D (USA, Europe).html"
+	},
+	{
+	  "title": "Monica no Castelo do Dragao (Brazil)",
+	  "image": "Data/Covers/Monica no Castelo do Dragao (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Monica no Castelo do Dragao (Brazil).html"
+	},
+	{
+	  "title": "Monopoly (Europe)",
+	  "image": "Data/Covers/Monopoly (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Monopoly (Europe).html"
+	},
+	{
+	  "title": "Monopoly (Unknown) (Beta)",
+	  "image": "Data/Covers/Monopoly (Unknown) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Monopoly (Unknown) (Beta).html"
+	},
+	{
+	  "title": "Monopoly (USA)",
+	  "image": "Data/Covers/Monopoly (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Monopoly (USA).html"
+	},
+	{
+	  "title": "Montezumas Revenge Featuring Panama Joe (USA) (Beta)",
+	  "image": "Data/Covers/Montezumas Revenge Featuring Panama Joe (USA) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Montezumas Revenge Featuring Panama Joe (USA) (Beta).html"
+	},
+	{
+	  "title": "Montezumas Revenge Featuring Panama Joe (USA)",
+	  "image": "Data/Covers/Montezumas Revenge Featuring Panama Joe (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Montezumas Revenge Featuring Panama Joe (USA).html"
+	},
+	{
+	  "title": "Mopiranger (Korea) (Unl)",
+	  "image": "Data/Covers/Mopiranger (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mopiranger (Korea) (Unl).html"
+	},
+	{
+	  "title": "Mortal Kombat (Europe)",
+	  "image": "Data/Covers/Mortal Kombat (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mortal Kombat (Europe).html"
+	},
+	{
+	  "title": "Mortal Kombat 3 (Brazil)",
+	  "image": "Data/Covers/Mortal Kombat 3 (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mortal Kombat 3 (Brazil).html"
+	},
+	{
+	  "title": "Mortal Kombat II (Europe)",
+	  "image": "Data/Covers/Mortal Kombat II (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Mortal Kombat II (Europe).html"
+	},
+	{
+	  "title": "Ms. Pac-Man (Europe)",
+	  "image": "Data/Covers/Ms. Pac-Man (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ms. Pac-Man (Europe).html"
+	},
+	{
+	  "title": "My Hero (USA, Europe)",
+	  "image": "Data/Covers/My Hero (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/My Hero (USA, Europe).html"
+	},
+	{
+	  "title": "NBA Jam (Europe) (Proto)",
+	  "image": "Data/Covers/NBA Jam (Europe) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/NBA Jam (Europe) (Proto).html"
+	},
+	{
+	  "title": "Nekkyuu Koushien (Japan)",
+	  "image": "Data/Covers/Nekkyuu Koushien (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Nekkyuu Koushien (Japan).html"
+	},
+	{
+	  "title": "Nemesis (Korea)",
+	  "image": "Data/Covers/Nemesis (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Nemesis (Korea).html"
+	},
+	{
+	  "title": "Nemesis 2 (Korea)",
+	  "image": "Data/Covers/Nemesis 2 (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Nemesis 2 (Korea).html"
+	},
+	{
+	  "title": "New Boggle Boggle 2 (Korea) (Unl)",
+	  "image": "Data/Covers/New Boggle Boggle 2 (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/New Boggle Boggle 2 (Korea) (Unl).html"
+	},
+	{
+	  "title": "New Zealand Story, The (Europe)",
+	  "image": "Data/Covers/New Zealand Story, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/New Zealand Story, The (Europe).html"
+	},
+	{
+	  "title": "Ninja (Japan)",
+	  "image": "Data/Covers/Ninja (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ninja (Japan).html"
+	},
+	{
+	  "title": "Ninja Gaiden (Europe) (Beta)",
+	  "image": "Data/Covers/Ninja Gaiden (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ninja Gaiden (Europe) (Beta).html"
+	},
+	{
+	  "title": "Ninja Gaiden (Europe)",
+	  "image": "Data/Covers/Ninja Gaiden (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ninja Gaiden (Europe).html"
+	},
+	{
+	  "title": "Ninja, The (USA, Europe)",
+	  "image": "Data/Covers/Ninja, The (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ninja, The (USA, Europe).html"
+	},
+	{
+	  "title": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+	  "image": "Data/Covers/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
+	},
+	{
+	  "title": "Olympic Gold (Korea) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+	  "image": "Data/Covers/Olympic Gold (Korea) (En,Fr,De,Es,It,Nl,Pt,Sv).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Olympic Gold (Korea) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
+	},
+	{
+	  "title": "Opa Opa (Japan)",
+	  "image": "Data/Covers/Opa Opa (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Opa Opa (Japan).html"
+	},
+	{
+	  "title": "Operation Wolf (Europe)",
+	  "image": "Data/Covers/Operation Wolf (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Operation Wolf (Europe).html"
+	},
+	{
+	  "title": "Ottifants, The (Europe) (En,Fr,De,Es,It)",
+	  "image": "Data/Covers/Ottifants, The (Europe) (En,Fr,De,Es,It).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ottifants, The (Europe) (En,Fr,De,Es,It).html"
+	},
+	{
+	  "title": "Out Run (World)",
+	  "image": "Data/Covers/Out Run (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Out Run (World).html"
+	},
+	{
+	  "title": "Out Run 3-D (Europe)",
+	  "image": "Data/Covers/Out Run 3-D (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Out Run 3-D (Europe).html"
+	},
+	{
+	  "title": "Out Run Europa (Europe)",
+	  "image": "Data/Covers/Out Run Europa (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Out Run Europa (Europe).html"
+	},
+	{
+	  "title": "Pac-Mania (Europe)",
+	  "image": "Data/Covers/Pac-Mania (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Pac-Mania (Europe).html"
+	},
+	{
+	  "title": "Paperboy (Europe)",
+	  "image": "Data/Covers/Paperboy (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Paperboy (Europe).html"
+	},
+	{
+	  "title": "Paperboy (USA)",
+	  "image": "Data/Covers/Paperboy (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Paperboy (USA).html"
+	},
+	{
+	  "title": "Parlour Games (USA, Europe)",
+	  "image": "Data/Covers/Parlour Games (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Parlour Games (USA, Europe).html"
+	},
+	{
+	  "title": "Pat Riley Basketball (USA) (Proto)",
+	  "image": "Data/Covers/Pat Riley Basketball (USA) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Pat Riley Basketball (USA) (Proto).html"
+	},
+	{
+	  "title": "Penguin Adventure (Korea) (Unl) (Pirate)",
+	  "image": "Data/Covers/Penguin Adventure (Korea) (Unl) (Pirate).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Penguin Adventure (Korea) (Unl) (Pirate).html"
+	},
+	{
+	  "title": "Penguin Land (USA, Europe)",
+	  "image": "Data/Covers/Penguin Land (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Penguin Land (USA, Europe).html"
+	},
+	{
+	  "title": "PGA Tour Golf (Europe)",
+	  "image": "Data/Covers/PGA Tour Golf (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/PGA Tour Golf (Europe).html"
+	},
+	{
+	  "title": "Phantasy Star (Brazil)",
+	  "image": "Data/Covers/Phantasy Star (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Phantasy Star (Brazil).html"
+	},
+	{
+	  "title": "Phantasy Star (Japan)",
+	  "image": "Data/Covers/Phantasy Star (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Phantasy Star (Japan).html"
+	},
+	{
+	  "title": "Phantasy Star (Korea)",
+	  "image": "Data/Covers/Phantasy Star (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Phantasy Star (Korea).html"
+	},
+	{
+	  "title": "Phantasy Star (USA, Europe) (Rev 2)",
+	  "image": "Data/Covers/Phantasy Star (USA, Europe) (Rev 2).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Phantasy Star (USA, Europe) (Rev 2).html"
+	},
+	{
+	  "title": "Phantasy Star (USA, Europe) (Rev 3)",
+	  "image": "Data/Covers/Phantasy Star (USA, Europe) (Rev 3).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Phantasy Star (USA, Europe) (Rev 3).html"
+	},
+	{
+	  "title": "Pit Fighter (Brazil)",
+	  "image": "Data/Covers/Pit Fighter (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Pit Fighter (Brazil).html"
+	},
+	{
+	  "title": "Pit Fighter (Europe)",
+	  "image": "Data/Covers/Pit Fighter (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Pit Fighter (Europe).html"
+	},
+	{
+	  "title": "Pooyan (Korea)",
+	  "image": "Data/Covers/Pooyan (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Pooyan (Korea).html"
+	},
+	{
+	  "title": "Populous (Europe)",
+	  "image": "Data/Covers/Populous (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Populous (Europe).html"
+	},
+	{
+	  "title": "Poseidon Wars 3-D (USA, Europe)",
+	  "image": "Data/Covers/Poseidon Wars 3-D (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Poseidon Wars 3-D (USA, Europe).html"
+	},
+	{
+	  "title": "Power Boggle Boggle (Korea) (Unl)",
+	  "image": "Data/Covers/Power Boggle Boggle (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Power Boggle Boggle (Korea) (Unl).html"
+	},
+	{
+	  "title": "Power Strike (USA, Europe)",
+	  "image": "Data/Covers/Power Strike (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Power Strike (USA, Europe).html"
+	},
+	{
+	  "title": "Power Strike II (Europe)",
+	  "image": "Data/Covers/Power Strike II (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Power Strike II (Europe).html"
+	},
+	{
+	  "title": "Predator 2 (Brazil)",
+	  "image": "Data/Covers/Predator 2 (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Predator 2 (Brazil).html"
+	},
+	{
+	  "title": "Predator 2 (Europe)",
+	  "image": "Data/Covers/Predator 2 (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Predator 2 (Europe).html"
+	},
+	{
+	  "title": "Prince of Persia (Europe)",
+	  "image": "Data/Covers/Prince of Persia (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Prince of Persia (Europe).html"
+	},
+	{
+	  "title": "Pro Wrestling (USA, Europe)",
+	  "image": "Data/Covers/Pro Wrestling (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Pro Wrestling (USA, Europe).html"
+	},
+	{
+	  "title": "Pro Yakyuu Pennant Race, The (Japan)",
+	  "image": "Data/Covers/Pro Yakyuu Pennant Race, The (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Pro Yakyuu Pennant Race, The (Japan).html"
+	},
+	{
+	  "title": "Promocao Especial M. System III Compact (Brazil) (Sample)",
+	  "image": "Data/Covers/Promocao Especial M. System III Compact (Brazil) (Sample).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Promocao Especial M. System III Compact (Brazil) (Sample).html"
+	},
+	{
+	  "title": "Psychic World (Europe)",
+	  "image": "Data/Covers/Psychic World (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Psychic World (Europe).html"
+	},
+	{
+	  "title": "Psycho Fox (USA, Europe)",
+	  "image": "Data/Covers/Psycho Fox (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Psycho Fox (USA, Europe).html"
+	},
+	{
+	  "title": "Putt & Putter (Europe) (Beta)",
+	  "image": "Data/Covers/Putt & Putter (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Putt & Putter (Europe) (Beta).html"
+	},
+	{
+	  "title": "Putt & Putter (Europe)",
+	  "image": "Data/Covers/Putt & Putter (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Putt & Putter (Europe).html"
+	},
+	{
+	  "title": "Puznic (Korea) (Unl)",
+	  "image": "Data/Covers/Puznic (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Puznic (Korea) (Unl).html"
+	},
+	{
+	  "title": "Quartet (USA, Europe)",
+	  "image": "Data/Covers/Quartet (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Quartet (USA, Europe).html"
+	},
+	{
+	  "title": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil)",
+	  "image": "Data/Covers/Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil).html"
+	},
+	{
+	  "title": "R-Type (Unknown) (Beta)",
+	  "image": "Data/Covers/R-Type (Unknown) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/R-Type (Unknown) (Beta).html"
+	},
+	{
+	  "title": "R-Type (World)",
+	  "image": "Data/Covers/R-Type (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/R-Type (World).html"
+	},
+	{
+	  "title": "R.C. Grand Prix (USA, Europe) (Beta)",
+	  "image": "Data/Covers/R.C. Grand Prix (USA, Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/R.C. Grand Prix (USA, Europe) (Beta).html"
+	},
+	{
+	  "title": "R.C. Grand Prix (USA, Europe)",
+	  "image": "Data/Covers/R.C. Grand Prix (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/R.C. Grand Prix (USA, Europe).html"
+	},
+	{
+	  "title": "Rainbow Islands - Story of the Bubble Bobble 2 (Europe)",
+	  "image": "Data/Covers/Rainbow Islands - Story of the Bubble Bobble 2 (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rainbow Islands - Story of the Bubble Bobble 2 (Europe).html"
+	},
+	{
+	  "title": "Rainbow Islands - The Story of Bubble Bobble 2 (Brazil)",
+	  "image": "Data/Covers/Rainbow Islands - The Story of Bubble Bobble 2 (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rainbow Islands - The Story of Bubble Bobble 2 (Brazil).html"
+	},
+	{
+	  "title": "Rambo - First Blood Part II (USA)",
+	  "image": "Data/Covers/Rambo - First Blood Part II (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rambo - First Blood Part II (USA).html"
+	},
+	{
+	  "title": "Rambo III (USA, Europe)",
+	  "image": "Data/Covers/Rambo III (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rambo III (USA, Europe).html"
+	},
+	{
+	  "title": "Rampage (USA, Europe)",
+	  "image": "Data/Covers/Rampage (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rampage (USA, Europe).html"
+	},
+	{
+	  "title": "Rampart (Europe)",
+	  "image": "Data/Covers/Rampart (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rampart (Europe).html"
+	},
+	{
+	  "title": "Rastan (USA, Europe)",
+	  "image": "Data/Covers/Rastan (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rastan (USA, Europe).html"
+	},
+	{
+	  "title": "Reggie Jackson Baseball (USA)",
+	  "image": "Data/Covers/Reggie Jackson Baseball (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Reggie Jackson Baseball (USA).html"
+	},
+	{
+	  "title": "Renegade (Europe)",
+	  "image": "Data/Covers/Renegade (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Renegade (Europe).html"
+	},
+	{
+	  "title": "Rescue Mission (USA, Europe)",
+	  "image": "Data/Covers/Rescue Mission (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rescue Mission (USA, Europe).html"
+	},
+	{
+	  "title": "Road Fighter (Korea) (Unl)",
+	  "image": "Data/Covers/Road Fighter (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Road Fighter (Korea) (Unl).html"
+	},
+	{
+	  "title": "Road Rash (Europe)",
+	  "image": "Data/Covers/Road Rash (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Road Rash (Europe).html"
+	},
+	{
+	  "title": "RoboCop 3 (Europe)",
+	  "image": "Data/Covers/RoboCop 3 (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/RoboCop 3 (Europe).html"
+	},
+	{
+	  "title": "RoboCop versus The Terminator (Europe)",
+	  "image": "Data/Covers/RoboCop versus The Terminator (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/RoboCop versus The Terminator (Europe).html"
+	},
+	{
+	  "title": "Rocky (World)",
+	  "image": "Data/Covers/Rocky (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Rocky (World).html"
+	},
+	{
+	  "title": "Running Battle (Europe)",
+	  "image": "Data/Covers/Running Battle (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Running Battle (Europe).html"
+	},
+	{
+	  "title": "Sagaia (Europe)",
+	  "image": "Data/Covers/Sagaia (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sagaia (Europe).html"
+	},
+	{
+	  "title": "Sangokushi 3 (Korea) (Unl)",
+	  "image": "Data/Covers/Sangokushi 3 (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sangokushi 3 (Korea) (Unl).html"
+	},
+	{
+	  "title": "Sapo Xule - O Mestre do Kung Fu (Brazil)",
+	  "image": "Data/Covers/Sapo Xule - O Mestre do Kung Fu (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sapo Xule - O Mestre do Kung Fu (Brazil).html"
+	},
+	{
+	  "title": "Sapo Xule - S.O.S Lagoa Poluida (Brazil)",
+	  "image": "Data/Covers/Sapo Xule - S.O.S Lagoa Poluida (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sapo Xule - S.O.S Lagoa Poluida (Brazil).html"
+	},
+	{
+	  "title": "Sapo Xule vs. Os Invasores do Brejo (Brazil)",
+	  "image": "Data/Covers/Sapo Xule vs. Os Invasores do Brejo (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sapo Xule vs. Os Invasores do Brejo (Brazil).html"
+	},
+	{
+	  "title": "Satellite 7 (Japan)",
+	  "image": "Data/Covers/Satellite 7 (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Satellite 7 (Japan).html"
+	},
+	{
+	  "title": "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)",
+	  "image": "Data/Covers/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).html"
+	},
+	{
+	  "title": "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)",
+	  "image": "Data/Covers/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).html"
+	},
+	{
+	  "title": "Scramble Spirits (Europe)",
+	  "image": "Data/Covers/Scramble Spirits (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Scramble Spirits (Europe).html"
+	},
+	{
+	  "title": "SDI (Japan)",
+	  "image": "Data/Covers/SDI (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/SDI (Japan).html"
+	},
+	{
+	  "title": "Secret Command (Europe)",
+	  "image": "Data/Covers/Secret Command (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Secret Command (Europe).html"
+	},
+	{
+	  "title": "Sega Chess (Europe)",
+	  "image": "Data/Covers/Sega Chess (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sega Chess (Europe).html"
+	},
+	{
+	  "title": "Sega Graphic Board (USA) (v2.0) (Proto)",
+	  "image": "Data/Covers/Sega Graphic Board (USA) (v2.0) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sega Graphic Board (USA) (v2.0) (Proto).html"
+	},
+	{
+	  "title": "Sega World Tournament Golf (Europe)",
+	  "image": "Data/Covers/Sega World Tournament Golf (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sega World Tournament Golf (Europe).html"
+	},
+	{
+	  "title": "Seishun Scandal (Japan)",
+	  "image": "Data/Covers/Seishun Scandal (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Seishun Scandal (Japan).html"
+	},
+	{
+	  "title": "Sensible Soccer (Europe)",
+	  "image": "Data/Covers/Sensible Soccer (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sensible Soccer (Europe).html"
+	},
+	{
+	  "title": "Shadow Dancer (Europe)",
+	  "image": "Data/Covers/Shadow Dancer (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Shadow Dancer (Europe).html"
+	},
+	{
+	  "title": "Shadow of the Beast (Europe)",
+	  "image": "Data/Covers/Shadow of the Beast (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Shadow of the Beast (Europe).html"
+	},
+	{
+	  "title": "Shanghai (USA, Europe) (Beta)",
+	  "image": "Data/Covers/Shanghai (USA, Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Shanghai (USA, Europe) (Beta).html"
+	},
+	{
+	  "title": "Shanghai (USA, Europe)",
+	  "image": "Data/Covers/Shanghai (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Shanghai (USA, Europe).html"
+	},
+	{
+	  "title": "Shinobi (Japan)",
+	  "image": "Data/Covers/Shinobi (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Shinobi (Japan).html"
+	},
+	{
+	  "title": "Shinobi (USA, Europe)",
+	  "image": "Data/Covers/Shinobi (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Shinobi (USA, Europe).html"
+	},
+	{
+	  "title": "Shooting Gallery (USA, Europe)",
+	  "image": "Data/Covers/Shooting Gallery (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Shooting Gallery (USA, Europe).html"
+	},
+	{
+	  "title": "Simpsons, The - Bart vs. the Space Mutants (Europe)",
+	  "image": "Data/Covers/Simpsons, The - Bart vs. the Space Mutants (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Simpsons, The - Bart vs. the Space Mutants (Europe).html"
+	},
+	{
+	  "title": "Simpsons, The - Bart vs. the World (Europe)",
+	  "image": "Data/Covers/Simpsons, The - Bart vs. the World (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Simpsons, The - Bart vs. the World (Europe).html"
+	},
+	{
+	  "title": "Sitio do Picapau Amarelo (Brazil)",
+	  "image": "Data/Covers/Sitio do Picapau Amarelo (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sitio do Picapau Amarelo (Brazil).html"
+	},
+	{
+	  "title": "Sky Jaguar (Korea)",
+	  "image": "Data/Covers/Sky Jaguar (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sky Jaguar (Korea).html"
+	},
+	{
+	  "title": "Slap Shot (Europe) (Rev 1)",
+	  "image": "Data/Covers/Slap Shot (Europe) (Rev 1).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Slap Shot (Europe) (Rev 1).html"
+	},
+	{
+	  "title": "Slap Shot (Europe)",
+	  "image": "Data/Covers/Slap Shot (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Slap Shot (Europe).html"
+	},
+	{
+	  "title": "Slap Shot (Unknown) (Beta)",
+	  "image": "Data/Covers/Slap Shot (Unknown) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Slap Shot (Unknown) (Beta).html"
+	},
+	{
+	  "title": "Slap Shot (USA)",
+	  "image": "Data/Covers/Slap Shot (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Slap Shot (USA).html"
+	},
+	{
+	  "title": "Smurfs, The (Europe) (En,Fr,De,Es)",
+	  "image": "Data/Covers/Smurfs, The (Europe) (En,Fr,De,Es).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Smurfs, The (Europe) (En,Fr,De,Es).html"
+	},
+	{
+	  "title": "Solomon no Kagi - Oujo Rihita no Namida (Japan)",
+	  "image": "Data/Covers/Solomon no Kagi - Oujo Rihita no Namida (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Solomon no Kagi - Oujo Rihita no Namida (Japan).html"
+	},
+	{
+	  "title": "Sonic Blast (Brazil)",
+	  "image": "Data/Covers/Sonic Blast (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sonic Blast (Brazil).html"
+	},
+	{
+	  "title": "Sonic Chaos (Europe)",
+	  "image": "Data/Covers/Sonic Chaos (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sonic Chaos (Europe).html"
+	},
+	{
+	  "title": "Sonic The Hedgehog (USA, Europe)",
+	  "image": "Data/Covers/Sonic The Hedgehog (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sonic The Hedgehog (USA, Europe).html"
+	},
+	{
+	  "title": "Sonic The Hedgehog 2 (Europe) (Rev 1)",
+	  "image": "Data/Covers/Sonic The Hedgehog 2 (Europe) (Rev 1).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sonic The Hedgehog 2 (Europe) (Rev 1).html"
+	},
+	{
+	  "title": "Sonic The Hedgehog 2 (Europe)",
+	  "image": "Data/Covers/Sonic The Hedgehog 2 (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sonic The Hedgehog 2 (Europe).html"
+	},
+	{
+	  "title": "Sonic The Hedgehog Spinball (Europe)",
+	  "image": "Data/Covers/Sonic The Hedgehog Spinball (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sonic The Hedgehog Spinball (Europe).html"
+	},
+	{
+	  "title": "Sonics Edusoft (Unknown) (Proto)",
+	  "image": "Data/Covers/Sonics Edusoft (Unknown) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sonics Edusoft (Unknown) (Proto).html"
+	},
+	{
+	  "title": "Space Gun (Europe)",
+	  "image": "Data/Covers/Space Gun (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Space Gun (Europe).html"
+	},
+	{
+	  "title": "Space Harrier (Europe)",
+	  "image": "Data/Covers/Space Harrier (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Space Harrier (Europe).html"
+	},
+	{
+	  "title": "Space Harrier (Japan, USA)",
+	  "image": "Data/Covers/Space Harrier (Japan, USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Space Harrier (Japan, USA).html"
+	},
+	{
+	  "title": "Space Harrier 3-D (USA, Europe)",
+	  "image": "Data/Covers/Space Harrier 3-D (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Space Harrier 3-D (USA, Europe).html"
+	},
+	{
+	  "title": "Space Harrier 3D (Japan)",
+	  "image": "Data/Covers/Space Harrier 3D (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Space Harrier 3D (Japan).html"
+	},
+	{
+	  "title": "Special Criminal Investigation (Europe) (Beta)",
+	  "image": "Data/Covers/Special Criminal Investigation (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Special Criminal Investigation (Europe) (Beta).html"
+	},
+	{
+	  "title": "Special Criminal Investigation (Europe)",
+	  "image": "Data/Covers/Special Criminal Investigation (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Special Criminal Investigation (Europe).html"
+	},
+	{
+	  "title": "Speedball (Europe) (Image Works)",
+	  "image": "Data/Covers/Speedball (Europe) (Image Works).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Speedball (Europe) (Image Works).html"
+	},
+	{
+	  "title": "Speedball (Europe) (Virgin)",
+	  "image": "Data/Covers/Speedball (Europe) (Virgin).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Speedball (Europe) (Virgin).html"
+	},
+	{
+	  "title": "Speedball 2 (Europe)",
+	  "image": "Data/Covers/Speedball 2 (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Speedball 2 (Europe).html"
+	},
+	{
+	  "title": "SpellCaster (USA, Europe)",
+	  "image": "Data/Covers/SpellCaster (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/SpellCaster (USA, Europe).html"
+	},
+	{
+	  "title": "Spider-Man - Return of the Sinister Six (Europe)",
+	  "image": "Data/Covers/Spider-Man - Return of the Sinister Six (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Spider-Man - Return of the Sinister Six (Europe).html"
+	},
+	{
+	  "title": "Spider-Man vs. The Kingpin (USA, Europe)",
+	  "image": "Data/Covers/Spider-Man vs. The Kingpin (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Spider-Man vs. The Kingpin (USA, Europe).html"
+	},
+	{
+	  "title": "Sports Pad Football (USA)",
+	  "image": "Data/Covers/Sports Pad Football (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sports Pad Football (USA).html"
+	},
+	{
+	  "title": "Sports Pad Soccer (Japan)",
+	  "image": "Data/Covers/Sports Pad Soccer (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sports Pad Soccer (Japan).html"
+	},
+	{
+	  "title": "Spy vs Spy (Japan)",
+	  "image": "Data/Covers/Spy vs Spy (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Spy vs Spy (Japan).html"
+	},
+	{
+	  "title": "Spy vs Spy (Taiwan)",
+	  "image": "Data/Covers/Spy vs Spy (Taiwan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Spy vs Spy (Taiwan).html"
+	},
+	{
+	  "title": "Spy vs. Spy (USA, Europe)",
+	  "image": "Data/Covers/Spy vs. Spy (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Spy vs. Spy (USA, Europe).html"
+	},
+	{
+	  "title": "Star Wars (Europe)",
+	  "image": "Data/Covers/Star Wars (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Star Wars (Europe).html"
+	},
+	{
+	  "title": "Street Fighter II (Brazil)",
+	  "image": "Data/Covers/Street Fighter II (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Street Fighter II (Brazil).html"
+	},
+	{
+	  "title": "Street Master (Korea) (Unl)",
+	  "image": "Data/Covers/Street Master (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Street Master (Korea) (Unl).html"
+	},
+	{
+	  "title": "Streets of Rage (Europe)",
+	  "image": "Data/Covers/Streets of Rage (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Streets of Rage (Europe).html"
+	},
+	{
+	  "title": "Streets of Rage II (Europe)",
+	  "image": "Data/Covers/Streets of Rage II (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Streets of Rage II (Europe).html"
+	},
+	{
+	  "title": "Strider (Unknown) (Demo)",
+	  "image": "Data/Covers/Strider (Unknown) (Demo).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Strider (Unknown) (Demo).html"
+	},
+	{
+	  "title": "Strider (USA, Europe)",
+	  "image": "Data/Covers/Strider (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Strider (USA, Europe).html"
+	},
+	{
+	  "title": "Strider II (Europe)",
+	  "image": "Data/Covers/Strider II (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Strider II (Europe).html"
+	},
+	{
+	  "title": "Submarine Attack (Europe)",
+	  "image": "Data/Covers/Submarine Attack (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Submarine Attack (Europe).html"
+	},
+	{
+	  "title": "Suho Cheonsa (Korea) (Unl)",
+	  "image": "Data/Covers/Suho Cheonsa (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Suho Cheonsa (Korea) (Unl).html"
+	},
+	{
+	  "title": "Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan)",
+	  "image": "Data/Covers/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).html"
+	},
+	{
+	  "title": "Summer Games (Europe) (Beta)",
+	  "image": "Data/Covers/Summer Games (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Summer Games (Europe) (Beta).html"
+	},
+	{
+	  "title": "Summer Games (Europe)",
+	  "image": "Data/Covers/Summer Games (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Summer Games (Europe).html"
+	},
+	{
+	  "title": "Super Basketball (USA) (Sample)",
+	  "image": "Data/Covers/Super Basketball (USA) (Sample).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Basketball (USA) (Sample).html"
+	},
+	{
+	  "title": "Super Boy 4 (Korea) (Unl)",
+	  "image": "Data/Covers/Super Boy 4 (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Boy 4 (Korea) (Unl).html"
+	},
+	{
+	  "title": "Super Boy II (Korea) (Pirate)",
+	  "image": "Data/Covers/Super Boy II (Korea) (Pirate).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Boy II (Korea) (Pirate).html"
+	},
+	{
+	  "title": "Super Bubble Bobble (Korea) (Unl)",
+	  "image": "Data/Covers/Super Bubble Bobble (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Bubble Bobble (Korea) (Unl).html"
+	},
+	{
+	  "title": "Super Golf (Europe) (Beta)",
+	  "image": "Data/Covers/Super Golf (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Golf (Europe) (Beta).html"
+	},
+	{
+	  "title": "Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+	  "image": "Data/Covers/Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
+	},
+	{
+	  "title": "Super Monaco GP (Europe)",
+	  "image": "Data/Covers/Super Monaco GP (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Monaco GP (Europe).html"
+	},
+	{
+	  "title": "Super Monaco GP (USA) (Beta 1)",
+	  "image": "Data/Covers/Super Monaco GP (USA) (Beta 1).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Monaco GP (USA) (Beta 1).html"
+	},
+	{
+	  "title": "Super Monaco GP (USA) (Beta 2)",
+	  "image": "Data/Covers/Super Monaco GP (USA) (Beta 2).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Monaco GP (USA) (Beta 2).html"
+	},
+	{
+	  "title": "Super Monaco GP (USA)",
+	  "image": "Data/Covers/Super Monaco GP (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Monaco GP (USA).html"
+	},
+	{
+	  "title": "Super Off Road (Europe)",
+	  "image": "Data/Covers/Super Off Road (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Off Road (Europe).html"
+	},
+	{
+	  "title": "Super Racing (Japan)",
+	  "image": "Data/Covers/Super Racing (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Racing (Japan).html"
+	},
+	{
+	  "title": "Super Smash T.V. (Europe)",
+	  "image": "Data/Covers/Super Smash T.V. (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Smash T.V. (Europe).html"
+	},
+	{
+	  "title": "Super Space Invaders (Europe)",
+	  "image": "Data/Covers/Super Space Invaders (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Space Invaders (Europe).html"
+	},
+	{
+	  "title": "Super Tennis (USA, Europe)",
+	  "image": "Data/Covers/Super Tennis (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Tennis (USA, Europe).html"
+	},
+	{
+	  "title": "Super Tetris (Korea) (Pirate)",
+	  "image": "Data/Covers/Super Tetris (Korea) (Pirate).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Tetris (Korea) (Pirate).html"
+	},
+	{
+	  "title": "Super Wonder Boy (Japan, Europe)",
+	  "image": "Data/Covers/Super Wonder Boy (Japan, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Wonder Boy (Japan, Europe).html"
+	},
+	{
+	  "title": "Super Wonder Boy - Monster World (Japan)",
+	  "image": "Data/Covers/Super Wonder Boy - Monster World (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Super Wonder Boy - Monster World (Japan).html"
+	},
+	{
+	  "title": "Superman - The Man of Steel (Europe)",
+	  "image": "Data/Covers/Superman - The Man of Steel (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Superman - The Man of Steel (Europe).html"
+	},
+	{
+	  "title": "T2 - The Arcade Game (Europe)",
+	  "image": "Data/Covers/T2 - The Arcade Game (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/T2 - The Arcade Game (Europe).html"
+	},
+	{
+	  "title": "Taito Chase H.Q. (Europe)",
+	  "image": "Data/Covers/Taito Chase H.Q. (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Taito Chase H.Q. (Europe).html"
+	},
+	{
+	  "title": "Taz in Escape from Mars (Brazil)",
+	  "image": "Data/Covers/Taz in Escape from Mars (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Taz in Escape from Mars (Brazil).html"
+	},
+	{
+	  "title": "Taz-Mania (Europe) (Beta)",
+	  "image": "Data/Covers/Taz-Mania (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Taz-Mania (Europe) (Beta).html"
+	},
+	{
+	  "title": "Taz-Mania (Europe)",
+	  "image": "Data/Covers/Taz-Mania (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Taz-Mania (Europe).html"
+	},
+	{
+	  "title": "Tecmo World Cup 92 (Europe) (Beta)",
+	  "image": "Data/Covers/Tecmo World Cup 92 (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Tecmo World Cup 92 (Europe) (Beta).html"
+	},
+	{
+	  "title": "Tecmo World Cup 93 (Europe)",
+	  "image": "Data/Covers/Tecmo World Cup 93 (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Tecmo World Cup 93 (Europe).html"
+	},
+	{
+	  "title": "Teddy Boy (USA, Europe)",
+	  "image": "Data/Covers/Teddy Boy (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Teddy Boy (USA, Europe).html"
+	},
+	{
+	  "title": "Teddy Boy Blues (Japan) (Proto) (Ep-MyCard)",
+	  "image": "Data/Covers/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).html"
+	},
+	{
+	  "title": "Teddy Boy Blues (Japan)",
+	  "image": "Data/Covers/Teddy Boy Blues (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Teddy Boy Blues (Japan).html"
+	},
+	{
+	  "title": "Tennis Ace (Europe)",
+	  "image": "Data/Covers/Tennis Ace (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Tennis Ace (Europe).html"
+	},
+	{
+	  "title": "Tensai Bakabon (Japan)",
+	  "image": "Data/Covers/Tensai Bakabon (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Tensai Bakabon (Japan).html"
+	},
+	{
+	  "title": "Terminator 2 - Judgment Day (Europe)",
+	  "image": "Data/Covers/Terminator 2 - Judgment Day (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Terminator 2 - Judgment Day (Europe).html"
+	},
+	{
+	  "title": "Terminator, The (Brazil)",
+	  "image": "Data/Covers/Terminator, The (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Terminator, The (Brazil).html"
+	},
+	{
+	  "title": "Terminator, The (Europe)",
+	  "image": "Data/Covers/Terminator, The (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Terminator, The (Europe).html"
+	},
+	{
+	  "title": "Three Dragon Story, The (Korea) (Unl)",
+	  "image": "Data/Covers/Three Dragon Story, The (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Three Dragon Story, The (Korea) (Unl).html"
+	},
+	{
+	  "title": "Thunder Blade (Japan)",
+	  "image": "Data/Covers/Thunder Blade (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Thunder Blade (Japan).html"
+	},
+	{
+	  "title": "Thunder Blade (USA, Europe)",
+	  "image": "Data/Covers/Thunder Blade (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Thunder Blade (USA, Europe).html"
+	},
+	{
+	  "title": "Time Soldiers (USA, Europe)",
+	  "image": "Data/Covers/Time Soldiers (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Time Soldiers (USA, Europe).html"
+	},
+	{
+	  "title": "Tom & Jerry (Europe) (Beta)",
+	  "image": "Data/Covers/Tom & Jerry (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Tom & Jerry (Europe) (Beta).html"
+	},
+	{
+	  "title": "Tom and Jerry - The Movie (Europe)",
+	  "image": "Data/Covers/Tom and Jerry - The Movie (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Tom and Jerry - The Movie (Europe).html"
+	},
+	{
+	  "title": "Toto World 3 (Korea) (Unl)",
+	  "image": "Data/Covers/Toto World 3 (Korea) (Unl).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Toto World 3 (Korea) (Unl).html"
+	},
+	{
+	  "title": "TransBot (USA) (Beta)",
+	  "image": "Data/Covers/TransBot (USA) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/TransBot (USA) (Beta).html"
+	},
+	{
+	  "title": "TransBot (USA, Europe)",
+	  "image": "Data/Covers/TransBot (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/TransBot (USA, Europe).html"
+	},
+	{
+	  "title": "Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es)",
+	  "image": "Data/Covers/Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).html"
+	},
+	{
+	  "title": "Ttoriui Moheom (Korea)",
+	  "image": "Data/Covers/Ttoriui Moheom (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ttoriui Moheom (Korea).html"
+	},
+	{
+	  "title": "Turma da Monica em O Resgate (Brazil)",
+	  "image": "Data/Covers/Turma da Monica em O Resgate (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Turma da Monica em O Resgate (Brazil).html"
+	},
+	{
+	  "title": "TV Colosso (Brazil)",
+	  "image": "Data/Covers/TV Colosso (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/TV Colosso (Brazil).html"
+	},
+	{
+	  "title": "Ultima IV - Quest of the Avatar (Europe) (Beta)",
+	  "image": "Data/Covers/Ultima IV - Quest of the Avatar (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ultima IV - Quest of the Avatar (Europe) (Beta).html"
+	},
+	{
+	  "title": "Ultima IV - Quest of the Avatar (Europe)",
+	  "image": "Data/Covers/Ultima IV - Quest of the Avatar (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ultima IV - Quest of the Avatar (Europe).html"
+	},
+	{
+	  "title": "Ultimate Soccer (Europe) (En,Fr,De,Es,It)",
+	  "image": "Data/Covers/Ultimate Soccer (Europe) (En,Fr,De,Es,It).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ultimate Soccer (Europe) (En,Fr,De,Es,It).html"
+	},
+	{
+	  "title": "Vampire (Europe) (Beta)",
+	  "image": "Data/Covers/Vampire (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Vampire (Europe) (Beta).html"
+	},
+	{
+	  "title": "Vigilante (USA, Europe)",
+	  "image": "Data/Covers/Vigilante (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Vigilante (USA, Europe).html"
+	},
+	{
+	  "title": "Virtua Fighter Animation (Brazil)",
+	  "image": "Data/Covers/Virtua Fighter Animation (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Virtua Fighter Animation (Brazil).html"
+	},
+	{
+	  "title": "Walter Payton Football (USA)",
+	  "image": "Data/Covers/Walter Payton Football (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Walter Payton Football (USA).html"
+	},
+	{
+	  "title": "Wanted (USA, Europe)",
+	  "image": "Data/Covers/Wanted (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wanted (USA, Europe).html"
+	},
+	{
+	  "title": "Where in the World is Carmen Sandiego (Brazil)",
+	  "image": "Data/Covers/Where in the World is Carmen Sandiego (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Where in the World is Carmen Sandiego (Brazil).html"
+	},
+	{
+	  "title": "Where in the World is Carmen Sandiego (USA)",
+	  "image": "Data/Covers/Where in the World is Carmen Sandiego (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Where in the World is Carmen Sandiego (USA).html"
+	},
+	{
+	  "title": "Wimbledon (Europe)",
+	  "image": "Data/Covers/Wimbledon (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wimbledon (Europe).html"
+	},
+	{
+	  "title": "Wimbledon II (Europe)",
+	  "image": "Data/Covers/Wimbledon II (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wimbledon II (Europe).html"
+	},
+	{
+	  "title": "Winter Olympics - Lillehammer 94 (Brazil) (En,Fr,De,Es,It,Pt,Sv,No)",
+	  "image": "Data/Covers/Winter Olympics - Lillehammer 94 (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Winter Olympics - Lillehammer 94 (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).html"
+	},
+	{
+	  "title": "Winter Olympics - Lillehammer 94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)",
+	  "image": "Data/Covers/Winter Olympics - Lillehammer 94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Winter Olympics - Lillehammer 94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No).html"
+	},
+	{
+	  "title": "Wolfchild (Europe)",
+	  "image": "Data/Covers/Wolfchild (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wolfchild (Europe).html"
+	},
+	{
+	  "title": "Wonder Boy (USA, Europe)",
+	  "image": "Data/Covers/Wonder Boy (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wonder Boy (USA, Europe).html"
+	},
+	{
+	  "title": "Wonder Boy III - The Dragons Trap (USA, Europe)",
+	  "image": "Data/Covers/Wonder Boy III - The Dragons Trap (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wonder Boy III - The Dragons Trap (USA, Europe).html"
+	},
+	{
+	  "title": "Wonder Boy in Monster Land (USA, Europe) (Beta)",
+	  "image": "Data/Covers/Wonder Boy in Monster Land (USA, Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wonder Boy in Monster Land (USA, Europe) (Beta).html"
+	},
+	{
+	  "title": "Wonder Boy in Monster Land (USA, Europe)",
+	  "image": "Data/Covers/Wonder Boy in Monster Land (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wonder Boy in Monster Land (USA, Europe).html"
+	},
+	{
+	  "title": "Wonder Boy in Monster World (Europe) (Beta)",
+	  "image": "Data/Covers/Wonder Boy in Monster World (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wonder Boy in Monster World (Europe) (Beta).html"
+	},
+	{
+	  "title": "Wonder Boy in Monster World (Europe)",
+	  "image": "Data/Covers/Wonder Boy in Monster World (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wonder Boy in Monster World (Europe).html"
+	},
+	{
+	  "title": "Wonsiin (Korea) (Pirate)",
+	  "image": "Data/Covers/Wonsiin (Korea) (Pirate).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Wonsiin (Korea) (Pirate).html"
+	},
+	{
+	  "title": "Woody Pop - Shinjinrui no Block Kuzushi (Japan)",
+	  "image": "Data/Covers/Woody Pop - Shinjinrui no Block Kuzushi (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Woody Pop - Shinjinrui no Block Kuzushi (Japan).html"
+	},
+	{
+	  "title": "World Class Leader Board (Europe)",
+	  "image": "Data/Covers/World Class Leader Board (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Class Leader Board (Europe).html"
+	},
+	{
+	  "title": "World Cup Italia 90 (Europe) (Sample)",
+	  "image": "Data/Covers/World Cup Italia 90 (Europe) (Sample).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Cup Italia 90 (Europe) (Sample).html"
+	},
+	{
+	  "title": "World Cup Italia 90 (Europe)",
+	  "image": "Data/Covers/World Cup Italia 90 (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Cup Italia 90 (Europe).html"
+	},
+	{
+	  "title": "World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+	  "image": "Data/Covers/World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
+	},
+	{
+	  "title": "World Games (Europe) (Beta)",
+	  "image": "Data/Covers/World Games (Europe) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Games (Europe) (Beta).html"
+	},
+	{
+	  "title": "World Games (Europe)",
+	  "image": "Data/Covers/World Games (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Games (Europe).html"
+	},
+	{
+	  "title": "World Grand Prix (Europe)",
+	  "image": "Data/Covers/World Grand Prix (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Grand Prix (Europe).html"
+	},
+	{
+	  "title": "World Grand Prix (USA) (Beta)",
+	  "image": "Data/Covers/World Grand Prix (USA) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Grand Prix (USA) (Beta).html"
+	},
+	{
+	  "title": "World Grand Prix (USA)",
+	  "image": "Data/Covers/World Grand Prix (USA).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Grand Prix (USA).html"
+	},
+	{
+	  "title": "World Soccer (World)",
+	  "image": "Data/Covers/World Soccer (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/World Soccer (World).html"
+	},
+	{
+	  "title": "WWF Wrestlemania - Steel Cage Challenge (Europe)",
+	  "image": "Data/Covers/WWF Wrestlemania - Steel Cage Challenge (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/WWF Wrestlemania - Steel Cage Challenge (Europe).html"
+	},
+	{
+	  "title": "X-Men - Mojo World (Brazil)",
+	  "image": "Data/Covers/X-Men - Mojo World (Brazil).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/X-Men - Mojo World (Brazil).html"
+	},
+	{
+	  "title": "Xenon 2 - Megablast (Europe) (Image Works)",
+	  "image": "Data/Covers/Xenon 2 - Megablast (Europe) (Image Works).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Xenon 2 - Megablast (Europe) (Image Works).html"
+	},
+	{
+	  "title": "Xenon 2 - Megablast (Europe) (Virgin)",
+	  "image": "Data/Covers/Xenon 2 - Megablast (Europe) (Virgin).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Xenon 2 - Megablast (Europe) (Virgin).html"
+	},
+	{
+	  "title": "Xyzolog (Korea)",
+	  "image": "Data/Covers/Xyzolog (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Xyzolog (Korea).html"
+	},
+	{
+	  "title": "Ys (Japan)",
+	  "image": "Data/Covers/Ys (Japan).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ys (Japan).html"
+	},
+	{
+	  "title": "Ys - The Vanished Omens (USA, Europe)",
+	  "image": "Data/Covers/Ys - The Vanished Omens (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Ys - The Vanished Omens (USA, Europe).html"
+	},
+	{
+	  "title": "Zaxxon 3-D (World) (Beta)",
+	  "image": "Data/Covers/Zaxxon 3-D (World) (Beta).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Zaxxon 3-D (World) (Beta).html"
+	},
+	{
+	  "title": "Zaxxon 3-D (World)",
+	  "image": "Data/Covers/Zaxxon 3-D (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Zaxxon 3-D (World).html"
+	},
+	{
+	  "title": "Zillion (Europe) (Rev 2)",
+	  "image": "Data/Covers/Zillion (Europe) (Rev 2).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Zillion (Europe) (Rev 2).html"
+	},
+	{
+	  "title": "Zillion (Japan, Europe) (En,Ja)",
+	  "image": "Data/Covers/Zillion (Japan, Europe) (En,Ja).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Zillion (Japan, Europe) (En,Ja).html"
+	},
+	{
+	  "title": "Zillion (USA) (Rev 1)",
+	  "image": "Data/Covers/Zillion (USA) (Rev 1).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Zillion (USA) (Rev 1).html"
+	},
+	{
+	  "title": "Zillion II - The Tri Formation (World)",
+	  "image": "Data/Covers/Zillion II - The Tri Formation (World).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Zillion II - The Tri Formation (World).html"
+	},
+	{
+	  "title": "Zool - Ninja of the Nth Dimension (Europe)",
+	  "image": "Data/Covers/Zool - Ninja of the Nth Dimension (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/Zool - Ninja of the Nth Dimension (Europe).html"
+	},
+	{
+	  "title": "[BIOS] Alex Kidd in Miracle World (Korea)",
+	  "image": "Data/Covers/[BIOS] Alex Kidd in Miracle World (Korea).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Alex Kidd in Miracle World (Korea).html"
+	},
+	{
+	  "title": "[BIOS] Alex Kidd in Miracle World (USA, Europe)",
+	  "image": "Data/Covers/[BIOS] Alex Kidd in Miracle World (USA, Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Alex Kidd in Miracle World (USA, Europe).html"
+	},
+	{
+	  "title": "[BIOS] Hang-On & Safari Hunt (USA, Europe) (v2.4)",
+	  "image": "Data/Covers/[BIOS] Hang-On & Safari Hunt (USA, Europe) (v2.4).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Hang-On & Safari Hunt (USA, Europe) (v2.4).html"
+	},
+	{
+	  "title": "[BIOS] Hang-On (USA, Europe) (v3.4)",
+	  "image": "Data/Covers/[BIOS] Hang-On (USA, Europe) (v3.4).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Hang-On (USA, Europe) (v3.4).html"
+	},
+	{
+	  "title": "[BIOS] Missile Defense 3-D (USA, Europe) (v4.4)",
+	  "image": "Data/Covers/[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).html"
+	},
+	{
+	  "title": "[BIOS] Sega Master System (Japan) (v2.1)",
+	  "image": "Data/Covers/[BIOS] Sega Master System (Japan) (v2.1).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Sega Master System (Japan) (v2.1).html"
+	},
+	{
+	  "title": "[BIOS] Sega Master System (USA) (M404) (Proto)",
+	  "image": "Data/Covers/[BIOS] Sega Master System (USA) (M404) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Sega Master System (USA) (M404) (Proto).html"
+	},
+	{
+	  "title": "[BIOS] Sega Master System (USA) (Store Display Unit)",
+	  "image": "Data/Covers/[BIOS] Sega Master System (USA) (Store Display Unit).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Sega Master System (USA) (Store Display Unit).html"
+	},
+	{
+	  "title": "[BIOS] Sega Master System (USA) (v1.0) (Proto)",
+	  "image": "Data/Covers/[BIOS] Sega Master System (USA) (v1.0) (Proto).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Sega Master System (USA) (v1.0) (Proto).html"
+	},
+	{
+	  "title": "[BIOS] Sega Master System (USA, Europe) (v1.3)",
+	  "image": "Data/Covers/[BIOS] Sega Master System (USA, Europe) (v1.3).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Sega Master System (USA, Europe) (v1.3).html"
+	},
+	{
+	  "title": "[BIOS] Sonic The Hedgehog (Europe)",
+	  "image": "Data/Covers/[BIOS] Sonic The Hedgehog (Europe).jpg",
+	  "year": "",
+	  "platform": "segaMS",
+	  "publisher": "",
+	  "developer": "",
+	  "plot": "",
+	  "file": "Data/Roms/[BIOS] Sonic The Hedgehog (Europe).html"
+	}
+  ]
