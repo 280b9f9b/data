@@ -7,7 +7,7 @@
 		"publisher": "Tectoy",
 		"developer": "Tectoy",
 		"plot": "20 em 1 is a collection of 20 games for the Sega Master System console, released exclusively in Brazil. The collection includes a variety of popular titles, such as Sonic the Hedgehog, Alex Kidd, and Wonder Boy.",
-		"file": "Data/Roms/20 em 1 (Brazil).html"
+		"file": "Data/ROMs/20 em 1 (Brazil).html"
 	  },
 	  {
 		"title": "4 PAK All Action (Australia) (Unl)",
@@ -17,7 +17,7 @@
 		"publisher": "Majesco Entertainment",
 		"developer": "Various",
 		"plot": "4 PAK All Action is a collection of four classic Sega Master System games, including California Games, World Grand Prix, Pro Wrestling, and Out Run. The collection was released in Australia as an unlicensed game cartridge.",
-		"file": "Data/Roms/4 PAK All Action (Australia) (Unl).html"
+		"file": "Data/ROMs/4 PAK All Action (Australia) (Unl).html"
 	  },
 	  {
 		"title": "94 Super World Cup Soccer (Korea)",
@@ -27,7 +27,7 @@
 		"publisher": "Samsung Electronics",
 		"developer": "Human Entertainment",
 		"plot": "94 Super World Cup Soccer is a soccer video game for the Sega Master System console, released exclusively in Korea. The game features several international teams and allows players to compete in a variety of soccer tournaments.",
-		"file": "Data/Roms/94 Super World Cup Soccer (Korea).html"
+		"file": "Data/ROMs/94 Super World Cup Soccer (Korea).html"
 	  },
 	  {
 		"title": "Ace of Aces (Europe)",
@@ -37,7 +37,7 @@
 		"publisher": "U.S. Gold",
 		"developer": "Artech Digital Entertainment",
 		"plot": "Ace of Aces is a flight simulation game for the Sega Master System console, originally developed and published by Artech Digital Entertainment for various other platforms. The game puts players in the cockpit of a World War II fighter plane and allows them to engage in dogfights and other aerial combat missions.",
-		"file": "Data/Roms/Ace of Aces (Europe).html"
+		"file": "Data/ROMs/Ace of Aces (Europe).html"
 	  },
 	  {
 		"title": "Action Fighter (Japan, Europe) (Rev 1)",
@@ -47,7 +47,7 @@
 		"publisher": "Sega",
 		"developer": "Sega AM2",
 		"plot": "Action Fighter is a vehicular combat game for the Sega Master System console. Players control a motorcycle that can transform into a fighter plane, and must navigate through a variety of levels while fighting off enemy vehicles and bosses.",
-		"file": "Data/Roms/Action Fighter (Japan, Europe) (Rev 1).html"
+		"file": "Data/ROMs/Action Fighter (Japan, Europe) (Rev 1).html"
 	  },
 	  {
 		"title": "Action Fighter (USA, Europe) (Rev 2)",
@@ -57,7 +57,7 @@
 		"publisher": "Sega",
 		"developer": "Sega AM2",
 		"plot": "Action Fighter is a vehicular combat game for the Sega Master System console. Players control a motorcycle that can transform into a fighter plane, and must navigate through a variety of levels while fighting off enemy vehicles and bosses.",
-		"file": "Data/Roms/Action Fighter (USA, Europe) (Rev 2).html"
+		"file": "Data/ROMs/Action Fighter (USA, Europe) (Rev 2).html"
 	  },
 	  {
 		"title": "Addams Family, The (Europe)",
@@ -67,7 +67,7 @@
 		"publisher": "Ocean Software",
 		"developer": "Ocean Software",
 		"plot": "The Addams Family is a platformer game for the Sega Master System console, based on the popular TV show and movie franchise of the same name. Players control Gomez Addams as he navigates through various levels filled with obstacles and enemies.",
-		"file": "Data/Roms/Addams Family, The (Europe).html"
+		"file": "Data/ROMs/Addams Family, The (Europe).html"
 	  },
 	  {
 		"title": "Aerial Assault (Europe)",
@@ -77,7 +77,7 @@
 		"publisher": "Sega",
 		"developer": "Sega AM2",
 		"plot": "Aerial Assault is a side-scrolling shooter game for the Sega Master System console. Players control a fighter plane as they engage in aerial combat against enemy forces.",
-		"file": "Data/Roms/Aerial Assault (Europe).html"
+		"file": "Data/ROMs/Aerial Assault (Europe).html"
 	  },
 	  {
 		"title": "Aerial Assault (USA)",
@@ -87,7 +87,7 @@
 		"publisher": "Sega",
 		"developer": "Sega AM2",
 		"plot": "Aerial Assault is a side-scrolling shooter game for the Sega Master System console. Players control a fighter plane as they engage in aerial combat against enemy forces.",
-		"file": "Data/Roms/Aerial Assault (USA).html"
+		"file": "Data/ROMs/Aerial Assault (USA).html"
 	  },
 	  {
 		"title": "After Burner (World)",
@@ -97,7 +97,7 @@
 		"publisher": "Sega",
 		"developer": "Sega AM2",
 		"plot": "After Burner is a fast-paced arcade-style shooter game for the Sega Master System console. Players control a fighter jet as they engage in dogfights and evade enemy fire.",
-		"file": "Data/Roms/After Burner (World).html"
+		"file": "Data/ROMs/After Burner (World).html"
 	  },
 	  {
 		"title": "Agigongnyong Dooly (Korea) (Unl)",
@@ -107,7 +107,7 @@
 		"publisher": "Daou Infosys",
 		"developer": "Daou Infosys",
 		"plot": "Agigongnyong Dooly is a platformer game for the Sega Master System console, featuring the eponymous character from a popular Korean children's cartoon. Players control Dooly as he navigates through various levels and fights against enemies.",
-		"file": "Data/Roms/Agigongnyong Dooly (Korea) (Unl).html"
+		"file": "Data/ROMs/Agigongnyong Dooly (Korea) (Unl).html"
 	  },
 	  {
 		"title": "Air Rescue (Europe)",
@@ -117,7 +117,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Air Rescue is a side-scrolling shooter game for the Sega Master System console. Players control a rescue helicopter as they navigate through various levels and rescue hostages while fighting off enemy forces.",
-		"file": "Data/Roms/Air Rescue (Europe).html"
+		"file": "Data/ROMs/Air Rescue (Europe).html"
 	  },
 	  {
 		"title": "Aladdin (Europe)",
@@ -127,7 +127,7 @@
 		"publisher": "Sega",
 		"developer": "SIMS",
 		"plot": "Aladdin is a platformer game for the Sega Master System console, based on the popular Disney movie of the same name. Players control Aladdin as he navigates through various levels filled with obstacles and enemies, collecting treasure and defeating bosses along the way.",
-		"file": "Data/Roms/Aladdin (Europe).html"
+		"file": "Data/ROMs/Aladdin (Europe).html"
 	  },
 	  {
 		"title": "Aleste (Japan)",
@@ -137,7 +137,7 @@
 		"publisher": "Compile",
 		"developer": "Compile",
 		"plot": "Aleste is a side-scrolling shooter game for the Sega Master System console. Players control a spaceship as they fight off waves of enemy ships and bosses.",
-		"file": "Data/Roms/Aleste (Japan).html"
+		"file": "Data/ROMs/Aleste (Japan).html"
 	  },
 	  {
 		"title": "Alex Kidd - High-Tech World (USA, Europe)",
@@ -147,7 +147,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Alex Kidd - High-Tech World is a platformer game for the Sega Master System console, featuring the eponymous character from a popular Sega franchise. Players control Alex as he navigates through various levels in a quest to collect items and win a game competition.",
-		"file": "Data/Roms/Alex Kidd - High-Tech World (USA, Europe).html"
+		"file": "Data/ROMs/Alex Kidd - High-Tech World (USA, Europe).html"
 	  },
 	  {
 		"title": "Alex Kidd - The Lost Stars (World)",
@@ -157,7 +157,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Alex Kidd - The Lost Stars is a platformer game for the Sega Master System console, featuring the eponymous character from a popular Sega franchise. Players control Alex as he navigates through various levels, collecting items and defeating bosses.",
-		"file": "Data/Roms/Alex Kidd - The Lost Stars (World).html"
+		"file": "Data/ROMs/Alex Kidd - The Lost Stars (World).html"
 	  },
 	  {
 		"title": "Alex Kidd BMX Trial (Japan)",
@@ -167,7 +167,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Alex Kidd BMX Trial is a racing game for the Sega Master System console, featuring the eponymous character from a popular Sega franchise. Players control Alex as he races his BMX bike through various tracks, avoiding obstacles and competing against other racers.",
-		"file": "Data/Roms/Alex Kidd BMX Trial (Japan).html"
+		"file": "Data/ROMs/Alex Kidd BMX Trial (Japan).html"
 	  },
 	  {
 		"title": "Alex Kidd in Miracle World (USA, Europe) (Rev 1)",
@@ -177,7 +177,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Alex Kidd in Miracle World is a platformer game for the Sega Master System console, featuring the eponymous character from a popular Sega franchise. Players control Alex as he navigates through various levels, collecting items and defeating bosses in order to rescue his brother.",
-		"file": "Data/Roms/Alex Kidd in Miracle World (USA, Europe) (Rev 1).html"
+		"file": "Data/ROMs/Alex Kidd in Miracle World (USA, Europe) (Rev 1).html"
 	  },
 	  {
 		"title": "Alex Kidd in Miracle World (USA, Europe)",
@@ -187,7 +187,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Alex Kidd is on a mission to rescue his kidnapped brother from the evil Janken the Great, the ruler of the planet Paperock.",
-		"file": "Data/Roms/Alex Kidd in Miracle World (USA, Europe).html"
+		"file": "Data/ROMs/Alex Kidd in Miracle World (USA, Europe).html"
 	  },
 	  {
 		"title": "Alex Kidd in Shinobi World (USA, Europe)",
@@ -197,7 +197,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Alex Kidd is on a mission to rescue his girlfriend from the evil Janken the Great, the ruler of the planet Shinobi.",
-		"file": "Data/Roms/Alex Kidd in Shinobi World (USA, Europe).html"
+		"file": "Data/ROMs/Alex Kidd in Shinobi World (USA, Europe).html"
 	  },
 	  {
 		"title": "Alex Kidd no Miracle World (Japan)",
@@ -207,7 +207,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Alex Kidd is on a mission to rescue his kidnapped brother from the evil Janken the Great, the ruler of the planet Paperock.",
-		"file": "Data/Roms/Alex Kidd no Miracle World (Japan).html"
+		"file": "Data/ROMs/Alex Kidd no Miracle World (Japan).html"
 	  },
 	  {
 		"title": "Alf (USA)",
@@ -217,7 +217,7 @@
 		"publisher": "Sega",
 		"developer": "TecMagik",
 		"plot": "Alf the alien is on a mission to find parts for his spaceship, which have been scattered throughout the city by his cat, Lucky.",
-		"file": "Data/Roms/Alf (USA).html"
+		"file": "Data/ROMs/Alf (USA).html"
 	  },
 	  {
 		"title": "Alibaba and 40 Thieves (Korea) (Unl)",
@@ -227,7 +227,7 @@
 		"publisher": "Samsung Electronics",
 		"developer": "",
 		"plot": "Alibaba must collect treasure from 40 thieves to save his girlfriend from the evil magician Cassim.",
-		"file": "Data/Roms/Alibaba and 40 Thieves (Korea) (Unl).html"
+		"file": "Data/ROMs/Alibaba and 40 Thieves (Korea) (Unl).html"
 	  },
 	  {
 		"title": "Alien 3 (Europe)",
@@ -237,7 +237,7 @@
 		"publisher": "Arena Entertainment",
 		"developer": "Probe Software",
 		"plot": "Ellen Ripley must fight her way through hordes of aliens to save prisoners from the Weyland-Yutani Corporation.",
-		"file": "Data/Roms/Alien 3 (Europe).html"
+		"file": "Data/ROMs/Alien 3 (Europe).html"
 	  },
 	  {
 		"title": "Alien Storm (Europe)",
@@ -247,7 +247,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "A group of humans must save the earth from an alien invasion by blasting their way through levels filled with alien enemies.",
-		"file": "Data/Roms/Alien Storm (Europe).html"
+		"file": "Data/ROMs/Alien Storm (Europe).html"
 	  },
 	  {
 		"title": "Alien Syndrome (Japan)",
@@ -257,7 +257,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Players must rescue their colleagues from an alien-infested spaceship by battling through levels filled with dangerous creatures.",
-		"file": "Data/Roms/Alien Syndrome (Japan).html"
+		"file": "Data/ROMs/Alien Syndrome (Japan).html"
 	  },
 	  {
 		"title": "Alien Syndrome (Unknown) (Beta)",
@@ -267,7 +267,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Players must rescue their colleagues from an alien-infested spaceship by battling through levels filled with dangerous creatures.",
-		"file": "Data/Roms/Alien Syndrome (Unknown) (Beta).html"
+		"file": "Data/ROMs/Alien Syndrome (Unknown) (Beta).html"
 	  },
 	  {
 		"title": "Alien Syndrome (USA, Europe)",
@@ -277,7 +277,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Players must rescue their colleagues from an alien-infested spaceship by battling through levels filled with dangerous creatures.",
-		"file": "Data/Roms/Alien Syndrome (USA, Europe).html"
+		"file": "Data/ROMs/Alien Syndrome (USA, Europe).html"
 	  },
 	  {
 		"title": "Altered Beast (USA, Europe)",
@@ -287,7 +287,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "A hero is resurrected by Zeus to save Athena from the clutches of the evil god Neff, and must transform into various beasts to battle Neff's minions.",
-		"file": "Data/Roms/Altered Beast (USA, Europe).html"
+		"file": "Data/ROMs/Altered Beast (USA, Europe).html"
 	  },
 	  {
 		"title": "American Baseball (Europe)",
@@ -297,7 +297,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Players can choose a team and play a game of baseball, using both pitching and batting skills to win.",
-		"file": "Data/Roms/American Baseball (Europe).html"
+		"file": "Data/ROMs/American Baseball (Europe).html"
 	  },
 	  {
 		"title": "American Pro Football (Europe)",
@@ -307,7 +307,7 @@
 		"publisher": "Ubisoft",
 		"developer": "",
 		"plot": "Players can choose a team and play a game of American football, using both offensive and defensive strategies to win.",
-		"file": "Data/Roms/American Pro Football (Europe).html"
+		"file": "Data/ROMs/American Pro Football (Europe).html"
 	  },
 	  {
 		"title": "Ancient Ys Vanished Omen (USA) (Demo)",
@@ -317,7 +317,7 @@
 		"publisher": "Sega",
 		"developer": "Nihon Falcom",
 		"plot": "Adol, a young adventurer, must explore the land of Ys to uncover its secrets and defeat the evil forces that threaten it.",
-		"file": "Data/Roms/Ancient Ys Vanished Omen (USA) (Demo).html"
+		"file": "Data/ROMs/Ancient Ys Vanished Omen (USA) (Demo).html"
 	  },
 	  {
 		"title": "Andre Agassi Tennis (Europe)",
@@ -327,7 +327,7 @@
 		"publisher": "Sega",
 		"developer": "Tiertex",
 		"plot": "Players can choose a tennis player and compete in matches against other players or the computer, using a variety of shots and strategies.",
-		"file": "Data/Roms/Andre Agassi Tennis (Europe).html"
+		"file": "Data/ROMs/Andre Agassi Tennis (Europe).html"
 	  },
 	  {
 		"title": "Anmitsu Hime (Japan)",
@@ -337,7 +337,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Players control a young girl named Anmitsu Hime as she journeys through a magical land, solving puzzles and battling enemies.",
-		"file": "Data/Roms/Anmitsu Hime (Japan).html"
+		"file": "Data/ROMs/Anmitsu Hime (Japan).html"
 	  },
 	  {
 		"title": "Arcade Smash Hits (Europe)",
@@ -347,7 +347,7 @@
 		"publisher": "Codemasters",
 		"developer": "",
 		"plot": "A collection of four arcade-style games: Super Robin Hood, Pro Tennis Tour, CJ's Elephant Antics, and Big Nose Freaks Out.",
-		"file": "Data/Roms/Arcade Smash Hits (Europe).html"
+		"file": "Data/ROMs/Arcade Smash Hits (Europe).html"
 	  },
 	  {
 		"title": "Argos no Juujiken (Japan)",
@@ -357,7 +357,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Players control a warrior named Argos as he battles through a variety of levels filled with enemies, using his sword and other weapons.",
-		"file": "Data/Roms/Argos no Juujiken (Japan).html"
+		"file": "Data/ROMs/Argos no Juujiken (Japan).html"
 	  },
 	  {
 		"title": "Ariel - The Little Mermaid (Brazil)",
@@ -367,7 +367,7 @@
 		"publisher": "Tectoy",
 		"developer": "Blue Sky Software",
 		"plot": "Players control Ariel, a mermaid princess, as she explores the underwater world and battles the evil Ursula to save her father's kingdom.",
-		"file": "Data/Roms/Ariel - The Little Mermaid (Brazil).html"
+		"file": "Data/ROMs/Ariel - The Little Mermaid (Brazil).html"
 	  },
 	  {
 		"title": "Ashura (Japan)",
@@ -377,7 +377,7 @@
 		"publisher": "Sega",
 		"developer": "Sanritsu",
 		"plot": "Players control a warrior named Ashura as he battles through a variety of levels filled with enemies, using his sword and other weapons.",
-		"file": "Data/Roms/Ashura (Japan).html"
+		"file": "Data/ROMs/Ashura (Japan).html"
 	  },
 	  {
 		"title": "Assault City (Europe) (Light Phaser)",
@@ -387,7 +387,7 @@
 		"publisher": "Sega",
 		"developer": "",
 		"plot": "Players use the Light Phaser accessory to shoot their way through levels filled with enemies, as they try to stop an evil organization from taking over the city.",
-		"file": "Data/Roms/Assault City (Europe) (Light Phaser).html"
+		"file": "Data/ROMs/Assault City (Europe) (Light Phaser).html"
 	  },
 	  {
 		"title": "Assault City (Europe)",
@@ -397,7 +397,7 @@
 		"publisher": "Sega",
 		"developer": "",
 		"plot": "Players control a character driving a car through levels filled with enemies, using a variety of weapons to defeat them and progress through the game.",
-		"file": "Data/Roms/Assault City (Europe).html"
+		"file": "Data/ROMs/Assault City (Europe).html"
 	  },
 	  {
 		"title": "Asterix (Europe) (En,Fr) (Rev 1)",
@@ -407,7 +407,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Players control the Gaulish hero Asterix as he battles his way through levels filled with Roman soldiers and other enemies, using his fists and other weapons.",
-		"file": "Data/Roms/Asterix (Europe) (En,Fr) (Rev 1).html"
+		"file": "Data/ROMs/Asterix (Europe) (En,Fr) (Rev 1).html"
 	  },
 	  {
 		"title": "Asterix (Europe) (En,Fr)",
@@ -417,7 +417,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "Players control the Gaulish hero Asterix as he battles his way through levels filled with Roman soldiers and other enemies, using his fists and other weapons.",
-		"file": "Data/Roms/Asterix (Europe) (En,Fr).html"
+		"file": "Data/ROMs/Asterix (Europe) (En,Fr).html"
 	  },
 	  {
 		"title": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)",
@@ -427,7 +427,7 @@
 		"publisher": "Sega",
 		"developer": "",
 		"plot": "Players control Asterix and Obelix as they embark on a mission to rescue fellow villagers from the clutches of the Romans.",
-		"file": "Data/Roms/Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).html"
+		"file": "Data/ROMs/Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).html"
 	  },
 	  {
 		"title": "Asterix and the Secret Mission (Europe) (En,Fr,De)",
@@ -437,7 +437,7 @@
 		"publisher": "Sega",
 		"developer": "",
 		"plot": "Players control Asterix and Obelix as they embark on a secret mission to stop the Romans from discovering the location of a hidden Gaulish village.",
-		"file": "Data/Roms/Asterix and the Secret Mission (Europe) (En,Fr,De).html"
+		"file": "Data/ROMs/Asterix and the Secret Mission (Europe) (En,Fr,De).html"
 	  },
 	  {
 		"title": "Astro Flash (Japan)",
@@ -447,7 +447,7 @@
 		"publisher": "Sega",
 		"developer": "",
 		"plot": "Players control a spacecraft as they battle their way through levels filled with enemies and obstacles, using various weapons and power-ups.",
-		"file": "Data/Roms/Astro Flash (Japan).html"
+		"file": "Data/ROMs/Astro Flash (Japan).html"
 	  },
 	  {
 		"title": "Astro Warrior & Pit Pot (Europe)",
@@ -457,15 +457,15 @@
 		"publisher": "Sega",
 		"developer": "",
 		"plot": "Astro Warrior is a vertical-scrolling shooter in which players control a spacecraft and must shoot their way through waves of enemies. Pit Pot is a puzzle game in which players must dig their way to the treasure while avoiding traps and enemies.",
-		"file": "Data/Roms/Astro Warrior & Pit Pot (Europe).html"
+		"file": "Data/ROMs/Astro Warrior & Pit Pot (Europe).html"
 	  },
-	  {    "title": "Astro Warrior (Japan, USA)",    "image": "Data/Covers/Astro Warrior (Japan, USA).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "In this side-scrolling shooter game, players control a spaceship called the 'Astro Warrior' and must battle against enemy forces in various levels.",    "file": "Data/Roms/Astro Warrior (Japan, USA).html"  },  {    "title": "Ayrton Sennas Super Monaco GP II (Europe)",    "image": "Data/Covers/Ayrton Sennas Super Monaco GP II (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "This racing game is named after famous Formula One driver Ayrton Senna and features multiple tracks and cars for players to race in.",    "file": "Data/Roms/Ayrton Sennas Super Monaco GP II (Europe).html"  },  {    "title": "Aztec Adventure - The Golden Road to Paradise (World)",    "image": "Data/Covers/Aztec Adventure - The Golden Road to Paradise (World).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Players control a character named 'Johnny' who must navigate through various levels of Aztec ruins in search of treasure.",    "file": "Data/Roms/Aztec Adventure - The Golden Road to Paradise (World).html"  },  {    "title": "Back to the Future Part II (Europe)",    "image": "Data/Covers/Back to the Future Part II (Europe).jpg",    "year": "1990",    "platform": "segaMS",    "publisher": "Image Works",    "developer": "Images Software",    "plot": "This game is based on the second movie in the 'Back to the Future' trilogy and features various levels where players control Marty McFly and must navigate through different time periods to collect items and complete objectives.",    "file": "Data/Roms/Back to the Future Part II (Europe).html"  },
-	  {    "title": "Back to the Future Part III (Europe)",    "image": "Data/Covers/Back to the Future Part III (Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Image Works",    "developer": "Probe Software",    "plot": "Back to the Future Part III is a 1991 video game based on the movie of the same name. It is the third and final installment in the Back to the Future trilogy video game series, following Back to the Future Part II.",    "file": "Data/Roms/Back to the Future Part III (Europe).html"  },  {    "title": "Baku Baku Animal (Brazil)",    "image": "Data/Covers/Baku Baku Animal (Brazil).jpg",    "year": "1996",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Baku Baku Animal is a puzzle game that features animals and their favorite foods. The player must match up the food with the correct animal.",    "file": "Data/Roms/Baku Baku Animal (Brazil).html"  },  {    "title": "Bank Panic (Europe)",    "image": "Data/Covers/Bank Panic (Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bank Panic is a reflex game where the player takes the role of a sheriff in the Old West who must protect a bank from robbers.",    "file": "Data/Roms/Bank Panic (Europe).html"  },  {    "title": "Basket Ball Nightmare (Europe)",    "image": "Data/Covers/Basket Ball Nightmare (Europe).jpg",    "year": "1994",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Basket Ball Nightmare is a basketball game that features five-on-five gameplay. The game also includes several modes, including exhibition, league, and playoff.",    "file": "Data/Roms/Basket Ball Nightmare (Europe).html"  },
-	  {    "title": "Batman Returns (Europe)",    "image": "Data/Covers/Batman Returns (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Aspect",    "plot": "Batman Returns is a video game based on the 1992 film of the same name. The game features platforming and fighting gameplay as the player controls Batman to stop the Penguin and Catwoman from their evil plans.",    "file": "Data/Roms/Batman Returns (Europe).html"  },  {    "title": "Battle Out Run (Europe)",    "image": "Data/Covers/Battle Out Run (Europe).jpg",    "year": "1989",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Battle Out Run is a racing game that features a variety of vehicles and tracks. The player must race against opponents and reach the finish line in the shortest time possible.",    "file": "Data/Roms/Battle Out Run (Europe).html"  },  {    "title": "Battlemaniacs (Brazil)",    "image": "Data/Covers/Battlemaniacs (Brazil).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sunsoft",    "plot": "Battlemaniacs is a platforming game that features the Battletoads characters. The player must fight through various levels, defeating enemies and bosses to reach the end.",    "file": "Data/Roms/Battlemaniacs (Brazil).html"  },  {    "title": "Black Belt (USA, Europe)",    "image": "Data/Covers/Black Belt (USA, Europe).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Black Belt is a martial arts-themed game that features side-scrolling action. The player controls a black belt martial artist who must fight through levels filled with enemies and obstacles.",    "file": "Data/Roms/Black Belt (USA, Europe).html"  },
-	  {    "title": "Blade Eagle (World) (Beta)",    "image": "Data/Covers/Blade Eagle (World) (Beta).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Blade Eagle is a shoot 'em up game that features the player controlling a spaceship fighting against alien enemies. The beta version may have some differences from the final release.",    "file": "Data/Roms/Blade Eagle (World) (Beta).html"  },  {    "title": "Blade Eagle (World)",    "image": "Data/Covers/Blade Eagle (World).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Blade Eagle is a shoot 'em up game that features the player controlling a spaceship fighting against alien enemies.",    "file": "Data/Roms/Blade Eagle (World).html"  },  {    "title": "Block Hole (Korea) (Unl)",    "image": "Data/Covers/Block Hole (Korea) (Unl).jpg",    "year": "1990",    "platform": "segaMS",    "publisher": "Samsung",    "developer": "Sigma",    "plot": "Block Hole is a puzzle game that features the player moving blocks to fill in a hole. The game includes multiple levels with increasing difficulty.",    "file": "Data/Roms/Block Hole (Korea) (Unl).html"  },  {    "title": "Bobble Bobble (Korea)",    "image": "Data/Covers/Bobble Bobble (Korea).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Taito",    "developer": "Taito",    "plot": "Bobble Bobble is a platforming game that features two dragon characters who can blow bubbles to trap enemies. The goal is to defeat all enemies in each level.",    "file": "Data/Roms/Bobble Bobble (Korea).html"  },
-	  {    "title": "Bomber Raid (World)",    "image": "Data/Covers/Bomber Raid (World).jpg",    "year": "1988",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sanritsu",    "plot": "Bomber Raid is a shoot 'em up game that features the player controlling a plane to destroy enemy forces on the ground and in the air. The game includes various power-ups and boss fights.",    "file": "Data/Roms/Bomber Raid (World).html"  },  {    "title": "Bonanza Bros. (Europe)",    "image": "Data/Covers/Bonanza Bros. (Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bonanza Bros. is a platforming game that features the player controlling one or two robbers in a heist. The goal is to sneak through a building to collect valuable objects and escape from the police.",    "file": "Data/Roms/Bonanza Bros. (Europe).html"  },  {    "title": "Bonkers Wax Up! (Brazil)",    "image": "Data/Covers/Bonkers Wax Up! (Brazil).jpg",    "year": "1995",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bonkers Wax Up! is a platforming game that features the player controlling the cartoon character Bonkers D. Bobcat. The game includes various levels and power-ups.",    "file": "Data/Roms/Bonkers Wax Up! (Brazil).html"  },  {    "title": "Bram Stoker's Dracula (Europe)",    "image": "Data/Covers/Bram Stokers Dracula (Europe).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Sony Imagesoft",    "developer": "Psygnosis",    "plot": "Bram Stoker's Dracula is a platforming game that features the player controlling Jonathan Harker, a character from the novel. The game follows the story of the novel and includes various enemies and boss fights.",    "file": "Data/Roms/Bram Stokers Dracula (Europe).html"  },
-	  {    "title": "Bubble Bobble (Europe)",    "image": "Data/Covers/Bubble Bobble (Europe).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Firebird",    "developer": "Taito",    "plot": "Bubble Bobble is a platforming game that features the player controlling two dragon characters who can blow bubbles to trap enemies. The goal is to defeat all enemies in each level and reach the end of the game.",    "file": "Data/Roms/Bubble Bobble (Europe).html"  },  {    "title": "Buggy Run (Europe)",    "image": "Data/Covers/Buggy Run (Europe).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Simis",    "developer": "Simis",    "plot": "Buggy Run is a racing game that features the player controlling a dune buggy in a desert environment. The game includes various obstacles and power-ups.",    "file": "Data/Roms/Buggy Run (Europe).html"  },  {    "title": "California Games (USA, Europe)",    "image": "Data/Covers/California Games (USA, Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Epyx",    "developer": "Epyx",    "plot": "California Games is a sports game that features various events that are popular in California, such as skateboarding, surfing, and BMX biking. The game includes multiple levels and difficulty settings.",    "file": "Data/Roms/California Games (USA, Europe).html"  },  {    "title": "California Games II (Brazil, Korea)",    "image": "Data/Covers/California Games II (Brazil, Korea).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Mindscape",    "developer": "Mindscape",    "plot": "California Games II is a sports game that features various events, such as hang gliding, snowboarding, and jet skiing. The game includes multiple levels and difficulty settings.",    "file": "Data/Roms/California Games II (Brazil, Korea).html"  },
-	  {    "title": "California Games II (Europe)",    "image": "Data/Covers/California Games II (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Mindscape",    "developer": "Mindscape",    "plot": "California Games II is a sports game that features various events, such as hang gliding, snowboarding, and jet skiing. The game includes multiple levels and difficulty settings.",    "file": "Data/Roms/California Games II (Europe).html"  },  {    "title": "Captain Silver (Japan, Europe)",    "image": "Data/Covers/Captain Silver (Japan, Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Data East",    "developer": "Data East",    "plot": "Captain Silver is a side-scrolling action game that features the player controlling a pirate character who must defeat various enemies and bosses. The game includes multiple levels and power-ups.",    "file": "Data/Roms/Captain Silver (Japan, Europe).html"  },  {    "title": "Captain Silver (USA)",    "image": "Data/Covers/Captain Silver (USA).jpg",    "year": "1988",    "platform": "segaMS",    "publisher": "Data East",    "developer": "Data East",    "plot": "Captain Silver is a side-scrolling action game that features the player controlling a pirate character who must defeat various enemies and bosses. The game includes multiple levels and power-ups.",    "file": "Data/Roms/Captain Silver (USA).html"  },  {    "title": "Casino Games (USA, Europe)",    "image": "Data/Covers/Casino Games (USA, Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Tengen",    "developer": "Tengen",    "plot": "Casino Games is a collection of various casino games, such as blackjack, poker, and slot machines. The game includes multiple levels and difficulty settings.",    "file": "Data/Roms/Casino Games (USA, Europe).html"  },
+	  {    "title": "Astro Warrior (Japan, USA)",    "image": "Data/Covers/Astro Warrior (Japan, USA).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "In this side-scrolling shooter game, players control a spaceship called the 'Astro Warrior' and must battle against enemy forces in various levels.",    "file": "Data/ROMs/Astro Warrior (Japan, USA).html"  },  {    "title": "Ayrton Sennas Super Monaco GP II (Europe)",    "image": "Data/Covers/Ayrton Sennas Super Monaco GP II (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "This racing game is named after famous Formula One driver Ayrton Senna and features multiple tracks and cars for players to race in.",    "file": "Data/ROMs/Ayrton Sennas Super Monaco GP II (Europe).html"  },  {    "title": "Aztec Adventure - The Golden Road to Paradise (World)",    "image": "Data/Covers/Aztec Adventure - The Golden Road to Paradise (World).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Players control a character named 'Johnny' who must navigate through various levels of Aztec ruins in search of treasure.",    "file": "Data/ROMs/Aztec Adventure - The Golden Road to Paradise (World).html"  },  {    "title": "Back to the Future Part II (Europe)",    "image": "Data/Covers/Back to the Future Part II (Europe).jpg",    "year": "1990",    "platform": "segaMS",    "publisher": "Image Works",    "developer": "Images Software",    "plot": "This game is based on the second movie in the 'Back to the Future' trilogy and features various levels where players control Marty McFly and must navigate through different time periods to collect items and complete objectives.",    "file": "Data/ROMs/Back to the Future Part II (Europe).html"  },
+	  {    "title": "Back to the Future Part III (Europe)",    "image": "Data/Covers/Back to the Future Part III (Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Image Works",    "developer": "Probe Software",    "plot": "Back to the Future Part III is a 1991 video game based on the movie of the same name. It is the third and final installment in the Back to the Future trilogy video game series, following Back to the Future Part II.",    "file": "Data/ROMs/Back to the Future Part III (Europe).html"  },  {    "title": "Baku Baku Animal (Brazil)",    "image": "Data/Covers/Baku Baku Animal (Brazil).jpg",    "year": "1996",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Baku Baku Animal is a puzzle game that features animals and their favorite foods. The player must match up the food with the correct animal.",    "file": "Data/ROMs/Baku Baku Animal (Brazil).html"  },  {    "title": "Bank Panic (Europe)",    "image": "Data/Covers/Bank Panic (Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bank Panic is a reflex game where the player takes the role of a sheriff in the Old West who must protect a bank from robbers.",    "file": "Data/ROMs/Bank Panic (Europe).html"  },  {    "title": "Basket Ball Nightmare (Europe)",    "image": "Data/Covers/Basket Ball Nightmare (Europe).jpg",    "year": "1994",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Basket Ball Nightmare is a basketball game that features five-on-five gameplay. The game also includes several modes, including exhibition, league, and playoff.",    "file": "Data/ROMs/Basket Ball Nightmare (Europe).html"  },
+	  {    "title": "Batman Returns (Europe)",    "image": "Data/Covers/Batman Returns (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Aspect",    "plot": "Batman Returns is a video game based on the 1992 film of the same name. The game features platforming and fighting gameplay as the player controls Batman to stop the Penguin and Catwoman from their evil plans.",    "file": "Data/ROMs/Batman Returns (Europe).html"  },  {    "title": "Battle Out Run (Europe)",    "image": "Data/Covers/Battle Out Run (Europe).jpg",    "year": "1989",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Battle Out Run is a racing game that features a variety of vehicles and tracks. The player must race against opponents and reach the finish line in the shortest time possible.",    "file": "Data/ROMs/Battle Out Run (Europe).html"  },  {    "title": "Battlemaniacs (Brazil)",    "image": "Data/Covers/Battlemaniacs (Brazil).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sunsoft",    "plot": "Battlemaniacs is a platforming game that features the Battletoads characters. The player must fight through various levels, defeating enemies and bosses to reach the end.",    "file": "Data/ROMs/Battlemaniacs (Brazil).html"  },  {    "title": "Black Belt (USA, Europe)",    "image": "Data/Covers/Black Belt (USA, Europe).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Black Belt is a martial arts-themed game that features side-scrolling action. The player controls a black belt martial artist who must fight through levels filled with enemies and obstacles.",    "file": "Data/ROMs/Black Belt (USA, Europe).html"  },
+	  {    "title": "Blade Eagle (World) (Beta)",    "image": "Data/Covers/Blade Eagle (World) (Beta).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Blade Eagle is a shoot 'em up game that features the player controlling a spaceship fighting against alien enemies. The beta version may have some differences from the final release.",    "file": "Data/ROMs/Blade Eagle (World) (Beta).html"  },  {    "title": "Blade Eagle (World)",    "image": "Data/Covers/Blade Eagle (World).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Blade Eagle is a shoot 'em up game that features the player controlling a spaceship fighting against alien enemies.",    "file": "Data/ROMs/Blade Eagle (World).html"  },  {    "title": "Block Hole (Korea) (Unl)",    "image": "Data/Covers/Block Hole (Korea) (Unl).jpg",    "year": "1990",    "platform": "segaMS",    "publisher": "Samsung",    "developer": "Sigma",    "plot": "Block Hole is a puzzle game that features the player moving blocks to fill in a hole. The game includes multiple levels with increasing difficulty.",    "file": "Data/ROMs/Block Hole (Korea) (Unl).html"  },  {    "title": "Bobble Bobble (Korea)",    "image": "Data/Covers/Bobble Bobble (Korea).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Taito",    "developer": "Taito",    "plot": "Bobble Bobble is a platforming game that features two dragon characters who can blow bubbles to trap enemies. The goal is to defeat all enemies in each level.",    "file": "Data/ROMs/Bobble Bobble (Korea).html"  },
+	  {    "title": "Bomber Raid (World)",    "image": "Data/Covers/Bomber Raid (World).jpg",    "year": "1988",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sanritsu",    "plot": "Bomber Raid is a shoot 'em up game that features the player controlling a plane to destroy enemy forces on the ground and in the air. The game includes various power-ups and boss fights.",    "file": "Data/ROMs/Bomber Raid (World).html"  },  {    "title": "Bonanza Bros. (Europe)",    "image": "Data/Covers/Bonanza Bros. (Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bonanza Bros. is a platforming game that features the player controlling one or two robbers in a heist. The goal is to sneak through a building to collect valuable objects and escape from the police.",    "file": "Data/ROMs/Bonanza Bros. (Europe).html"  },  {    "title": "Bonkers Wax Up! (Brazil)",    "image": "Data/Covers/Bonkers Wax Up! (Brazil).jpg",    "year": "1995",    "platform": "segaMS",    "publisher": "Sega",    "developer": "Sega",    "plot": "Bonkers Wax Up! is a platforming game that features the player controlling the cartoon character Bonkers D. Bobcat. The game includes various levels and power-ups.",    "file": "Data/ROMs/Bonkers Wax Up! (Brazil).html"  },  {    "title": "Bram Stoker's Dracula (Europe)",    "image": "Data/Covers/Bram Stokers Dracula (Europe).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Sony Imagesoft",    "developer": "Psygnosis",    "plot": "Bram Stoker's Dracula is a platforming game that features the player controlling Jonathan Harker, a character from the novel. The game follows the story of the novel and includes various enemies and boss fights.",    "file": "Data/ROMs/Bram Stokers Dracula (Europe).html"  },
+	  {    "title": "Bubble Bobble (Europe)",    "image": "Data/Covers/Bubble Bobble (Europe).jpg",    "year": "1986",    "platform": "segaMS",    "publisher": "Firebird",    "developer": "Taito",    "plot": "Bubble Bobble is a platforming game that features the player controlling two dragon characters who can blow bubbles to trap enemies. The goal is to defeat all enemies in each level and reach the end of the game.",    "file": "Data/ROMs/Bubble Bobble (Europe).html"  },  {    "title": "Buggy Run (Europe)",    "image": "Data/Covers/Buggy Run (Europe).jpg",    "year": "1993",    "platform": "segaMS",    "publisher": "Simis",    "developer": "Simis",    "plot": "Buggy Run is a racing game that features the player controlling a dune buggy in a desert environment. The game includes various obstacles and power-ups.",    "file": "Data/ROMs/Buggy Run (Europe).html"  },  {    "title": "California Games (USA, Europe)",    "image": "Data/Covers/California Games (USA, Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Epyx",    "developer": "Epyx",    "plot": "California Games is a sports game that features various events that are popular in California, such as skateboarding, surfing, and BMX biking. The game includes multiple levels and difficulty settings.",    "file": "Data/ROMs/California Games (USA, Europe).html"  },  {    "title": "California Games II (Brazil, Korea)",    "image": "Data/Covers/California Games II (Brazil, Korea).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Mindscape",    "developer": "Mindscape",    "plot": "California Games II is a sports game that features various events, such as hang gliding, snowboarding, and jet skiing. The game includes multiple levels and difficulty settings.",    "file": "Data/ROMs/California Games II (Brazil, Korea).html"  },
+	  {    "title": "California Games II (Europe)",    "image": "Data/Covers/California Games II (Europe).jpg",    "year": "1992",    "platform": "segaMS",    "publisher": "Mindscape",    "developer": "Mindscape",    "plot": "California Games II is a sports game that features various events, such as hang gliding, snowboarding, and jet skiing. The game includes multiple levels and difficulty settings.",    "file": "Data/ROMs/California Games II (Europe).html"  },  {    "title": "Captain Silver (Japan, Europe)",    "image": "Data/Covers/Captain Silver (Japan, Europe).jpg",    "year": "1987",    "platform": "segaMS",    "publisher": "Data East",    "developer": "Data East",    "plot": "Captain Silver is a side-scrolling action game that features the player controlling a pirate character who must defeat various enemies and bosses. The game includes multiple levels and power-ups.",    "file": "Data/ROMs/Captain Silver (Japan, Europe).html"  },  {    "title": "Captain Silver (USA)",    "image": "Data/Covers/Captain Silver (USA).jpg",    "year": "1988",    "platform": "segaMS",    "publisher": "Data East",    "developer": "Data East",    "plot": "Captain Silver is a side-scrolling action game that features the player controlling a pirate character who must defeat various enemies and bosses. The game includes multiple levels and power-ups.",    "file": "Data/ROMs/Captain Silver (USA).html"  },  {    "title": "Casino Games (USA, Europe)",    "image": "Data/Covers/Casino Games (USA, Europe).jpg",    "year": "1991",    "platform": "segaMS",    "publisher": "Tengen",    "developer": "Tengen",    "plot": "Casino Games is a collection of various casino games, such as blackjack, poker, and slot machines. The game includes multiple levels and difficulty settings.",    "file": "Data/ROMs/Casino Games (USA, Europe).html"  },
 	  {
 		"title": "Castelo Ra-Tim-Bum (Brazil)",
 		"image": "Data/Covers/Castelo Ra-Tim-Bum (Brazil).jpg",
@@ -474,7 +474,7 @@
 		"publisher": "Tectoy",
 		"developer": "Tectoy",
 		"plot": "Castelo Rá-Tim-Bum is a Brazilian children's television series. In this game, the player takes on the role of Nino, a young boy who must explore the castle and solve puzzles to collect magical objects.",
-		"file": "Data/Roms/Castelo Ra-Tim-Bum (Brazil).html"
+		"file": "Data/ROMs/Castelo Ra-Tim-Bum (Brazil).html"
 		},
 		{
 		"title": "Castle of Illusion Starring Mickey Mouse (Europe)",
@@ -484,7 +484,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "In this classic platformer, Mickey Mouse sets out on a quest to save his girlfriend Minnie Mouse from the evil witch Mizrabel. The game features colorful graphics and a variety of challenging levels.",
-		"file": "Data/Roms/Castle of Illusion Starring Mickey Mouse (Europe).html"
+		"file": "Data/ROMs/Castle of Illusion Starring Mickey Mouse (Europe).html"
 		},
 		{
 		"title": "Castle of Illusion Starring Mickey Mouse (Unknown) (Sample)",
@@ -494,7 +494,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "This is a sample version of Castle of Illusion Starring Mickey Mouse, featuring the first level of the game. It was likely included with some Sega Master System consoles as a demo.",
-		"file": "Data/Roms/Castle of Illusion Starring Mickey Mouse (Unknown) (Sample).html"
+		"file": "Data/ROMs/Castle of Illusion Starring Mickey Mouse (Unknown) (Sample).html"
 		},
 		{
 		"title": "Castle of Illusion Starring Mickey Mouse (USA)",
@@ -504,7 +504,7 @@
 		"publisher": "Sega",
 		"developer": "Sega",
 		"plot": "In this classic platformer, Mickey Mouse sets out on a quest to save his girlfriend Minnie Mouse from the evil witch Mizrabel. The game features colorful graphics and a variety of challenging levels.",
-		"file": "Data/Roms/Castle of Illusion Starring Mickey Mouse (USA).html"
+		"file": "Data/ROMs/Castle of Illusion Starring Mickey Mouse (USA).html"
 		},
 		{
 			"title": "Champions of Europe (Europe)",
@@ -514,7 +514,7 @@
 			"publisher": "Sega",
 			"developer": "Sega",
 			"plot": "Champions of Europe is a football simulation game featuring the teams of the UEFA Champions League. The game allows players to take control of their favorite European teams and compete in a variety of matches.",
-			"file": "Data/Roms/Champions of Europe (Europe).html"
+			"file": "Data/ROMs/Champions of Europe (Europe).html"
 			},
 			{
 			"title": "Championship Hockey (Europe)",
@@ -524,7 +524,7 @@
 			"publisher": "Sega",
 			"developer": "SIMS",
 			"plot": "Championship Hockey is an ice hockey simulation game featuring a variety of teams from around the world. The game includes both exhibition matches and a tournament mode.",
-			"file": "Data/Roms/Championship Hockey (Europe).html"
+			"file": "Data/ROMs/Championship Hockey (Europe).html"
 			},
 			{
 			"title": "Chapolim x Dracula - Um Duelo Assustador (Brazil)",
@@ -534,7 +534,7 @@
 			"publisher": "Tectoy",
 			"developer": "Tectoy",
 			"plot": "Chapolim x Dracula - Um Duelo Assustador is a Brazilian game based on the Chapolin Colorado TV series. In this game, the player takes on the role of the superhero Chapolin and must battle Dracula and his minions.",
-			"file": "Data/Roms/Chapolim x Dracula - Um Duelo Assustador (Brazil).html"
+			"file": "Data/ROMs/Chapolim x Dracula - Um Duelo Assustador (Brazil).html"
 			},
 			{
 			"title": "Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)",
@@ -544,7 +544,7 @@
 			"publisher": "Sega",
 			"developer": "Sega",
 			"plot": "In this platformer, the player takes on the role of Speedy Gonzales, the fastest mouse in all of Mexico, as he attempts to rescue his friends from the clutches of the evil Sylvester the Cat. The game features a variety of levels and power-ups.",
-			"file": "Data/Roms/Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).html"
+			"file": "Data/ROMs/Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).html"
 			},
 			{
 				"title": "Choplifter (Japan) (Proto)",
@@ -554,7 +554,7 @@
 				"publisher": "Sega",
 				"developer": "Sega",
 				"plot": "Choplifter is a side-scrolling action game where the player takes on the role of a helicopter pilot who must rescue hostages from enemy territory. This prototype version of the game was likely used for testing and debugging purposes.",
-				"file": "Data/Roms/Choplifter (Japan) (Proto).html"
+				"file": "Data/ROMs/Choplifter (Japan) (Proto).html"
 				},
 				{
 				"title": "Choplifter (USA) (Beta)",
@@ -564,7 +564,7 @@
 				"publisher": "Sega",
 				"developer": "Sega",
 				"plot": "Choplifter is a side-scrolling action game where the player takes on the role of a helicopter pilot who must rescue hostages from enemy territory. This beta version of the game was likely used for testing and debugging purposes.",
-				"file": "Data/Roms/Choplifter (USA) (Beta).html"
+				"file": "Data/ROMs/Choplifter (USA) (Beta).html"
 				},
 				{
 				"title": "Choplifter (USA, Europe)",
@@ -574,7 +574,7 @@
 				"publisher": "Sega",
 				"developer": "Sega",
 				"plot": "Choplifter is a side-scrolling action game where the player takes on the role of a helicopter pilot who must rescue hostages from enemy territory. The game features a variety of levels and enemy types.",
-				"file": "Data/Roms/Choplifter (USA, Europe).html"
+				"file": "Data/ROMs/Choplifter (USA, Europe).html"
 				},
 				{
 				"title": "Chouon Senshi Borgman (Japan) (Beta)",
@@ -584,7 +584,7 @@
 				"publisher": "Sega",
 				"developer": "Sega",
 				"plot": "Chouon Senshi Borgman is a side-scrolling action game based on the anime of the same name. This beta version of the game was likely used for testing and debugging purposes.",
-				"file": "Data/Roms/Chouon Senshi Borgman (Japan) (Beta).html"
+				"file": "Data/ROMs/Chouon Senshi Borgman (Japan) (Beta).html"
 				},
 				{
 					"title": "Chouon Senshi Borgman (Japan)",
@@ -594,7 +594,7 @@
 					"publisher": "Nippon Computer Systems",
 					"developer": "Planning Office Wada",
 					"plot": "Chouon Senshi Borgman is a side-scrolling action game based on the anime of the same name. Players take control of the three main characters, each with their own unique abilities, as they battle against the evil organization known as Muu.",
-					"file": "Data/Roms/Chouon Senshi Borgman (Japan).html"
+					"file": "Data/ROMs/Chouon Senshi Borgman (Japan).html"
 					},
 	{
 	  "title": "Chuck Rock (Europe)",
@@ -604,7 +604,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Chuck Rock (Europe).html"
+	  "file": "Data/ROMs/Chuck Rock (Europe).html"
 	},
 	{
 	  "title": "Chuck Rock II - Son of Chuck (Brazil)",
@@ -614,7 +614,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Chuck Rock II - Son of Chuck (Brazil).html"
+	  "file": "Data/ROMs/Chuck Rock II - Son of Chuck (Brazil).html"
 	},
 	{
 	  "title": "Chuck Rock II - Son of Chuck (Europe)",
@@ -624,7 +624,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Chuck Rock II - Son of Chuck (Europe).html"
+	  "file": "Data/ROMs/Chuck Rock II - Son of Chuck (Europe).html"
 	},
 	{
 	  "title": "Circuit, The (Japan)",
@@ -634,7 +634,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Circuit, The (Japan).html"
+	  "file": "Data/ROMs/Circuit, The (Japan).html"
 	},
 	{
 	  "title": "Cloud Master (USA, Europe)",
@@ -644,7 +644,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Cloud Master (USA, Europe).html"
+	  "file": "Data/ROMs/Cloud Master (USA, Europe).html"
 	},
 	{
 	  "title": "Color & Switch Test (Unknown)",
@@ -654,7 +654,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Color & Switch Test (Unknown).html"
+	  "file": "Data/ROMs/Color & Switch Test (Unknown).html"
 	},
 	{
 	  "title": "Columns (USA, Europe) (Beta)",
@@ -664,7 +664,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Columns (USA, Europe) (Beta).html"
+	  "file": "Data/ROMs/Columns (USA, Europe) (Beta).html"
 	},
 	{
 	  "title": "Columns (USA, Europe)",
@@ -674,7 +674,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Columns (USA, Europe).html"
+	  "file": "Data/ROMs/Columns (USA, Europe).html"
 	},
 	{
 	  "title": "Comic Bakery (Korea)",
@@ -684,7 +684,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Comic Bakery (Korea).html"
+	  "file": "Data/ROMs/Comic Bakery (Korea).html"
 	},
 	{
 	  "title": "Comical Machine Gun Joe (Japan)",
@@ -694,7 +694,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Comical Machine Gun Joe (Japan).html"
+	  "file": "Data/ROMs/Comical Machine Gun Joe (Japan).html"
 	},
 	{
 	  "title": "Comical Machine Gun Joe (Taiwan)",
@@ -704,7 +704,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Comical Machine Gun Joe (Taiwan).html"
+	  "file": "Data/ROMs/Comical Machine Gun Joe (Taiwan).html"
 	},
 	{
 	  "title": "Cool Spot (Europe)",
@@ -714,7 +714,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Cool Spot (Europe).html"
+	  "file": "Data/ROMs/Cool Spot (Europe).html"
 	},
 	{
 	  "title": "Cosmic Spacehead (Europe) (En,Fr,De,Es)",
@@ -724,7 +724,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Cosmic Spacehead (Europe) (En,Fr,De,Es).html"
+	  "file": "Data/ROMs/Cosmic Spacehead (Europe) (En,Fr,De,Es).html"
 	},
 	{
 	  "title": "Cyber Shinobi, The (Europe)",
@@ -734,7 +734,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Cyber Shinobi, The (Europe).html"
+	  "file": "Data/ROMs/Cyber Shinobi, The (Europe).html"
 	},
 	{
 	  "title": "Cyber Shinobi, The (Unknown) (Beta)",
@@ -744,7 +744,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Cyber Shinobi, The (Unknown) (Beta).html"
+	  "file": "Data/ROMs/Cyber Shinobi, The (Unknown) (Beta).html"
 	},
 	{
 	  "title": "Cyborg Hunter (USA, Europe)",
@@ -754,7 +754,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Cyborg Hunter (USA, Europe).html"
+	  "file": "Data/ROMs/Cyborg Hunter (USA, Europe).html"
 	},
 	{
 	  "title": "Cyborg Z (Korea)",
@@ -764,7 +764,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Cyborg Z (Korea).html"
+	  "file": "Data/ROMs/Cyborg Z (Korea).html"
 	},
 	{
 	  "title": "C_So! (Korea) (Unl)",
@@ -774,7 +774,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/C_So! (Korea) (Unl).html"
+	  "file": "Data/ROMs/C_So! (Korea) (Unl).html"
 	},
 	{
 	  "title": "Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)",
@@ -784,7 +784,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).html"
+	  "file": "Data/ROMs/Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).html"
 	},
 	{
 	  "title": "Dallyeora Pigu-Wang (Korea) (Unl)",
@@ -794,7 +794,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dallyeora Pigu-Wang (Korea) (Unl).html"
+	  "file": "Data/ROMs/Dallyeora Pigu-Wang (Korea) (Unl).html"
 	},
 	{
 	  "title": "Danan - The Jungle Fighter (Europe)",
@@ -804,7 +804,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Danan - The Jungle Fighter (Europe).html"
+	  "file": "Data/ROMs/Danan - The Jungle Fighter (Europe).html"
 	},
 	{
 	  "title": "Dead Angle (USA, Europe)",
@@ -814,7 +814,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dead Angle (USA, Europe).html"
+	  "file": "Data/ROMs/Dead Angle (USA, Europe).html"
 	},
 	{
 	  "title": "Deep Duck Trouble Starring Donald Duck (Europe)",
@@ -824,7 +824,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Deep Duck Trouble Starring Donald Duck (Europe).html"
+	  "file": "Data/ROMs/Deep Duck Trouble Starring Donald Duck (Europe).html"
 	},
 	{
 	  "title": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)",
@@ -834,7 +834,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).html"
+	  "file": "Data/ROMs/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).html"
 	},
 	{
 	  "title": "Desert Strike (Europe) (En,Fr,De,Es)",
@@ -844,7 +844,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Desert Strike (Europe) (En,Fr,De,Es).html"
+	  "file": "Data/ROMs/Desert Strike (Europe) (En,Fr,De,Es).html"
 	},
 	{
 	  "title": "Dick Tracy (USA, Europe)",
@@ -854,7 +854,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dick Tracy (USA, Europe).html"
+	  "file": "Data/ROMs/Dick Tracy (USA, Europe).html"
 	},
 	{
 	  "title": "Dinobasher Starring Bignose the Caveman (Europe) (Proto)",
@@ -864,7 +864,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dinobasher Starring Bignose the Caveman (Europe) (Proto).html"
+	  "file": "Data/ROMs/Dinobasher Starring Bignose the Caveman (Europe) (Proto).html"
 	},
 	{
 	  "title": "Dinosaur Dooley, The (Korea) (Unl)",
@@ -874,7 +874,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dinosaur Dooley, The (Korea) (Unl).html"
+	  "file": "Data/ROMs/Dinosaur Dooley, The (Korea) (Unl).html"
 	},
 	{
 	  "title": "Doki Doki Penguin Land - Uchuu Daibouken (Japan)",
@@ -884,7 +884,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Doki Doki Penguin Land - Uchuu Daibouken (Japan).html"
+	  "file": "Data/ROMs/Doki Doki Penguin Land - Uchuu Daibouken (Japan).html"
 	},
 	{
 	  "title": "Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta)",
@@ -894,7 +894,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).html"
+	  "file": "Data/ROMs/Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).html"
 	},
 	{
 	  "title": "Double Dragon (World)",
@@ -904,7 +904,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Double Dragon (World).html"
+	  "file": "Data/ROMs/Double Dragon (World).html"
 	},
 	{
 	  "title": "Double Hawk (Europe) (Beta)",
@@ -914,7 +914,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Double Hawk (Europe) (Beta).html"
+	  "file": "Data/ROMs/Double Hawk (Europe) (Beta).html"
 	},
 	{
 	  "title": "Double Hawk (Europe)",
@@ -924,7 +924,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Double Hawk (Europe).html"
+	  "file": "Data/ROMs/Double Hawk (Europe).html"
 	},
 	{
 	  "title": "Double Target - Cynthia no Nemuri (Japan)",
@@ -934,7 +934,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Double Target - Cynthia no Nemuri (Japan).html"
+	  "file": "Data/ROMs/Double Target - Cynthia no Nemuri (Japan).html"
 	},
 	{
 	  "title": "Dr. Hello (Korea) (Unl)",
@@ -944,7 +944,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dr. Hello (Korea) (Unl).html"
+	  "file": "Data/ROMs/Dr. Hello (Korea) (Unl).html"
 	},
 	{
 	  "title": "Dr. Robotniks Mean Bean Machine (Europe)",
@@ -954,7 +954,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dr. Robotniks Mean Bean Machine (Europe).html"
+	  "file": "Data/ROMs/Dr. Robotniks Mean Bean Machine (Europe).html"
 	},
 	{
 	  "title": "Dragon - The Bruce Lee Story (Europe)",
@@ -964,7 +964,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dragon - The Bruce Lee Story (Europe).html"
+	  "file": "Data/ROMs/Dragon - The Bruce Lee Story (Europe).html"
 	},
 	{
 	  "title": "Dragon Crystal (Europe)",
@@ -974,7 +974,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dragon Crystal (Europe).html"
+	  "file": "Data/ROMs/Dragon Crystal (Europe).html"
 	},
 	{
 	  "title": "Dynamite Duke (Europe)",
@@ -984,7 +984,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dynamite Duke (Europe).html"
+	  "file": "Data/ROMs/Dynamite Duke (Europe).html"
 	},
 	{
 	  "title": "Dynamite Dux (Europe)",
@@ -994,7 +994,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dynamite Dux (Europe).html"
+	  "file": "Data/ROMs/Dynamite Dux (Europe).html"
 	},
 	{
 	  "title": "Dynamite Headdy (Brazil)",
@@ -1004,7 +1004,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Dynamite Headdy (Brazil).html"
+	  "file": "Data/ROMs/Dynamite Headdy (Brazil).html"
 	},
 	{
 	  "title": "E-SWAT - City Under Siege (USA, Europe) (Easy Version)",
@@ -1014,7 +1014,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/E-SWAT - City Under Siege (USA, Europe) (Easy Version).html"
+	  "file": "Data/ROMs/E-SWAT - City Under Siege (USA, Europe) (Easy Version).html"
 	},
 	{
 	  "title": "E-SWAT - City Under Siege (USA, Europe) (Hard Version)",
@@ -1024,7 +1024,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/E-SWAT - City Under Siege (USA, Europe) (Hard Version).html"
+	  "file": "Data/ROMs/E-SWAT - City Under Siege (USA, Europe) (Hard Version).html"
 	},
 	{
 	  "title": "E.I. - Exa Innova (Korea)",
@@ -1034,7 +1034,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/E.I. - Exa Innova (Korea).html"
+	  "file": "Data/ROMs/E.I. - Exa Innova (Korea).html"
 	},
 	{
 	  "title": "Eagles 5 (Korea)",
@@ -1044,7 +1044,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Eagles 5 (Korea).html"
+	  "file": "Data/ROMs/Eagles 5 (Korea).html"
 	},
 	{
 	  "title": "Earthworm Jim (Brazil)",
@@ -1054,7 +1054,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Earthworm Jim (Brazil).html"
+	  "file": "Data/ROMs/Earthworm Jim (Brazil).html"
 	},
 	{
 	  "title": "Ecco - The Tides of Time (Brazil)",
@@ -1064,7 +1064,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ecco - The Tides of Time (Brazil).html"
+	  "file": "Data/ROMs/Ecco - The Tides of Time (Brazil).html"
 	},
 	{
 	  "title": "Ecco the Dolphin (Europe)",
@@ -1074,7 +1074,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ecco the Dolphin (Europe).html"
+	  "file": "Data/ROMs/Ecco the Dolphin (Europe).html"
 	},
 	{
 	  "title": "Enduro Racer (Japan)",
@@ -1084,7 +1084,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Enduro Racer (Japan).html"
+	  "file": "Data/ROMs/Enduro Racer (Japan).html"
 	},
 	{
 	  "title": "Enduro Racer (USA, Europe)",
@@ -1094,7 +1094,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Enduro Racer (USA, Europe).html"
+	  "file": "Data/ROMs/Enduro Racer (USA, Europe).html"
 	},
 	{
 	  "title": "Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto)",
@@ -1104,7 +1104,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto).html"
+	  "file": "Data/ROMs/Excellent Dizzy Collection, The (USA, Europe) (En,Fr,De,Es,It) (Proto).html"
 	},
 	{
 	  "title": "F-1 Spirit - The Way to Formula-1 (Korea) (Unl) (Pirate)",
@@ -1114,7 +1114,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/F-1 Spirit - The Way to Formula-1 (Korea) (Unl) (Pirate).html"
+	  "file": "Data/ROMs/F-1 Spirit - The Way to Formula-1 (Korea) (Unl) (Pirate).html"
 	},
 	{
 	  "title": "F-16 Fighter (USA, Europe)",
@@ -1124,7 +1124,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/F-16 Fighter (USA, Europe).html"
+	  "file": "Data/ROMs/F-16 Fighter (USA, Europe).html"
 	},
 	{
 	  "title": "F-16 Fighting Falcon (Japan)",
@@ -1134,7 +1134,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/F-16 Fighting Falcon (Japan).html"
+	  "file": "Data/ROMs/F-16 Fighting Falcon (Japan).html"
 	},
 	{
 	  "title": "F-16 Fighting Falcon (Taiwan)",
@@ -1144,7 +1144,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/F-16 Fighting Falcon (Taiwan).html"
+	  "file": "Data/ROMs/F-16 Fighting Falcon (Taiwan).html"
 	},
 	{
 	  "title": "F-16 Fighting Falcon (USA)",
@@ -1154,7 +1154,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/F-16 Fighting Falcon (USA).html"
+	  "file": "Data/ROMs/F-16 Fighting Falcon (USA).html"
 	},
 	{
 	  "title": "F1 (Europe)",
@@ -1164,7 +1164,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/F1 (Europe).html"
+	  "file": "Data/ROMs/F1 (Europe).html"
 	},
 	{
 	  "title": "FA Tetris (Korea) (Pirate)",
@@ -1174,7 +1174,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/FA Tetris (Korea) (Pirate).html"
+	  "file": "Data/ROMs/FA Tetris (Korea) (Pirate).html"
 	},
 	{
 	  "title": "Family Games (Japan)",
@@ -1184,7 +1184,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Family Games (Japan).html"
+	  "file": "Data/ROMs/Family Games (Japan).html"
 	},
 	{
 	  "title": "Fantastic Dizzy (Europe) (En,Fr,De,Es,It)",
@@ -1194,7 +1194,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fantastic Dizzy (Europe) (En,Fr,De,Es,It).html"
+	  "file": "Data/ROMs/Fantastic Dizzy (Europe) (En,Fr,De,Es,It).html"
 	},
 	{
 	  "title": "Fantasy Zone (Japan)",
@@ -1204,7 +1204,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fantasy Zone (Japan).html"
+	  "file": "Data/ROMs/Fantasy Zone (Japan).html"
 	},
 	{
 	  "title": "Fantasy Zone (Taiwan)",
@@ -1214,7 +1214,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fantasy Zone (Taiwan).html"
+	  "file": "Data/ROMs/Fantasy Zone (Taiwan).html"
 	},
 	{
 	  "title": "Fantasy Zone (World) (Rev 1) (Beta)",
@@ -1224,7 +1224,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fantasy Zone (World) (Rev 1) (Beta).html"
+	  "file": "Data/ROMs/Fantasy Zone (World) (Rev 1) (Beta).html"
 	},
 	{
 	  "title": "Fantasy Zone (World) (Rev 2)",
@@ -1234,7 +1234,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fantasy Zone (World) (Rev 2).html"
+	  "file": "Data/ROMs/Fantasy Zone (World) (Rev 2).html"
 	},
 	{
 	  "title": "Fantasy Zone - The Maze (USA, Europe)",
@@ -1244,7 +1244,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fantasy Zone - The Maze (USA, Europe).html"
+	  "file": "Data/ROMs/Fantasy Zone - The Maze (USA, Europe).html"
 	},
 	{
 	  "title": "Fantasy Zone II - Opa-Opa no Namida (Japan)",
@@ -1254,7 +1254,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fantasy Zone II - Opa-Opa no Namida (Japan).html"
+	  "file": "Data/ROMs/Fantasy Zone II - Opa-Opa no Namida (Japan).html"
 	},
 	{
 	  "title": "Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)",
@@ -1264,7 +1264,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).html"
+	  "file": "Data/ROMs/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).html"
 	},
 	{
 	  "title": "Ferias Frustradas do Pica Pau (Brazil)",
@@ -1274,7 +1274,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ferias Frustradas do Pica Pau (Brazil).html"
+	  "file": "Data/ROMs/Ferias Frustradas do Pica Pau (Brazil).html"
 	},
 	{
 	  "title": "FIFA International Soccer (Brazil) (En,Es,Pt)",
@@ -1284,7 +1284,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/FIFA International Soccer (Brazil) (En,Es,Pt).html"
+	  "file": "Data/ROMs/FIFA International Soccer (Brazil) (En,Es,Pt).html"
 	},
 	{
 	  "title": "Final Bubble Bobble (Japan)",
@@ -1294,7 +1294,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Final Bubble Bobble (Japan).html"
+	  "file": "Data/ROMs/Final Bubble Bobble (Japan).html"
 	},
 	{
 	  "title": "Fire & Forget II (Europe)",
@@ -1304,7 +1304,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fire & Forget II (Europe).html"
+	  "file": "Data/ROMs/Fire & Forget II (Europe).html"
 	},
 	{
 	  "title": "Fire & Ice (Brazil)",
@@ -1314,7 +1314,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fire & Ice (Brazil).html"
+	  "file": "Data/ROMs/Fire & Ice (Brazil).html"
 	},
 	{
 	  "title": "Flash, The (Europe)",
@@ -1324,7 +1324,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Flash, The (Europe).html"
+	  "file": "Data/ROMs/Flash, The (Europe).html"
 	},
 	{
 	  "title": "Flashpoint (Korea) (Unl)",
@@ -1334,7 +1334,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Flashpoint (Korea) (Unl).html"
+	  "file": "Data/ROMs/Flashpoint (Korea) (Unl).html"
 	},
 	{
 	  "title": "Flintstones, The (Europe)",
@@ -1344,7 +1344,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Flintstones, The (Europe).html"
+	  "file": "Data/ROMs/Flintstones, The (Europe).html"
 	},
 	{
 	  "title": "Forgotten Worlds (Europe)",
@@ -1354,7 +1354,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Forgotten Worlds (Europe).html"
+	  "file": "Data/ROMs/Forgotten Worlds (Europe).html"
 	},
 	{
 	  "title": "Fushigi no Oshiro Pit Pot (Japan)",
@@ -1364,7 +1364,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Fushigi no Oshiro Pit Pot (Japan).html"
+	  "file": "Data/ROMs/Fushigi no Oshiro Pit Pot (Japan).html"
 	},
 	{
 	  "title": "G-LOC Air Battle (Europe)",
@@ -1374,7 +1374,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/G-LOC Air Battle (Europe).html"
+	  "file": "Data/ROMs/G-LOC Air Battle (Europe).html"
 	},
 	{
 	  "title": "Gaegujangi Ggachi (Korea) (Unl)",
@@ -1384,7 +1384,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Gaegujangi Ggachi (Korea) (Unl).html"
+	  "file": "Data/ROMs/Gaegujangi Ggachi (Korea) (Unl).html"
 	},
 	{
 	  "title": "Gain Ground (Europe) (Beta)",
@@ -1394,7 +1394,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Gain Ground (Europe) (Beta).html"
+	  "file": "Data/ROMs/Gain Ground (Europe) (Beta).html"
 	},
 	{
 	  "title": "Gain Ground (Europe)",
@@ -1404,7 +1404,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Gain Ground (Europe).html"
+	  "file": "Data/ROMs/Gain Ground (Europe).html"
 	},
 	{
 	  "title": "Galactic Protector (Japan)",
@@ -1414,7 +1414,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Galactic Protector (Japan).html"
+	  "file": "Data/ROMs/Galactic Protector (Japan).html"
 	},
 	{
 	  "title": "Galaxy Force (Europe)",
@@ -1424,7 +1424,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Galaxy Force (Europe).html"
+	  "file": "Data/ROMs/Galaxy Force (Europe).html"
 	},
 	{
 	  "title": "Galaxy Force (USA)",
@@ -1434,7 +1434,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Galaxy Force (USA).html"
+	  "file": "Data/ROMs/Galaxy Force (USA).html"
 	},
 	{
 	  "title": "Game Box Serie Esportes Radicais (Brazil)",
@@ -1444,7 +1444,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Game Box Serie Esportes Radicais (Brazil).html"
+	  "file": "Data/ROMs/Game Box Serie Esportes Radicais (Brazil).html"
 	},
 	{
 	  "title": "Gangcheol RoboCop (Korea) (Unl)",
@@ -1454,7 +1454,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Gangcheol RoboCop (Korea) (Unl).html"
+	  "file": "Data/ROMs/Gangcheol RoboCop (Korea) (Unl).html"
 	},
 	{
 	  "title": "Gangster Town (USA, Europe)",
@@ -1464,7 +1464,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Gangster Town (USA, Europe).html"
+	  "file": "Data/ROMs/Gangster Town (USA, Europe).html"
 	},
 	{
 	  "title": "Gauntlet (Europe)",
@@ -1474,7 +1474,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Gauntlet (Europe).html"
+	  "file": "Data/ROMs/Gauntlet (Europe).html"
 	},
 	{
 	  "title": "George Foremans KO Boxing (Europe)",
@@ -1484,7 +1484,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/George Foremans KO Boxing (Europe).html"
+	  "file": "Data/ROMs/George Foremans KO Boxing (Europe).html"
 	},
 	{
 	  "title": "Geraldinho (Brazil)",
@@ -1494,7 +1494,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Geraldinho (Brazil).html"
+	  "file": "Data/ROMs/Geraldinho (Brazil).html"
 	},
 	{
 	  "title": "Ghost House (Japan)",
@@ -1504,7 +1504,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ghost House (Japan).html"
+	  "file": "Data/ROMs/Ghost House (Japan).html"
 	},
 	{
 	  "title": "Ghost House (USA, Europe) (Beta)",
@@ -1514,7 +1514,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ghost House (USA, Europe) (Beta).html"
+	  "file": "Data/ROMs/Ghost House (USA, Europe) (Beta).html"
 	},
 	{
 	  "title": "Ghost House (USA, Europe)",
@@ -1524,7 +1524,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ghost House (USA, Europe).html"
+	  "file": "Data/ROMs/Ghost House (USA, Europe).html"
 	},
 	{
 	  "title": "Ghostbusters (USA, Europe)",
@@ -1534,7 +1534,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ghostbusters (USA, Europe).html"
+	  "file": "Data/ROMs/Ghostbusters (USA, Europe).html"
 	},
 	{
 	  "title": "Ghoulsn Ghosts (Unknown) (Sample)",
@@ -1544,7 +1544,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ghoulsn Ghosts (Unknown) (Sample).html"
+	  "file": "Data/ROMs/Ghoulsn Ghosts (Unknown) (Sample).html"
 	},
 	{
 	  "title": "Ghoulsn Ghosts (USA, Europe)",
@@ -1554,7 +1554,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ghoulsn Ghosts (USA, Europe).html"
+	  "file": "Data/ROMs/Ghoulsn Ghosts (USA, Europe).html"
 	},
 	{
 	  "title": "Global Defense (USA, Europe) (Beta)",
@@ -1564,7 +1564,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Global Defense (USA, Europe) (Beta).html"
+	  "file": "Data/ROMs/Global Defense (USA, Europe) (Beta).html"
 	},
 	{
 	  "title": "Global Defense (USA, Europe)",
@@ -1574,7 +1574,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Global Defense (USA, Europe).html"
+	  "file": "Data/ROMs/Global Defense (USA, Europe).html"
 	},
 	{
 	  "title": "Gokuaku Doumei Dump Matsumoto (Japan)",
@@ -1584,7 +1584,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Gokuaku Doumei Dump Matsumoto (Japan).html"
+	  "file": "Data/ROMs/Gokuaku Doumei Dump Matsumoto (Japan).html"
 	},
 	{
 	  "title": "Golden Axe (USA, Europe)",
@@ -1594,7 +1594,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Golden Axe (USA, Europe).html"
+	  "file": "Data/ROMs/Golden Axe (USA, Europe).html"
 	},
 	{
 	  "title": "Golden Axe Warrior (USA, Europe)",
@@ -1604,7 +1604,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Golden Axe Warrior (USA, Europe).html"
+	  "file": "Data/ROMs/Golden Axe Warrior (USA, Europe).html"
 	},
 	{
 	  "title": "Golfamania (Europe) (Beta)",
@@ -1614,7 +1614,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Golfamania (Europe) (Beta).html"
+	  "file": "Data/ROMs/Golfamania (Europe) (Beta).html"
 	},
 	{
 	  "title": "Golfamania (Europe)",
@@ -1624,7 +1624,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Golfamania (Europe).html"
+	  "file": "Data/ROMs/Golfamania (Europe).html"
 	},
 	{
 	  "title": "Golvellius (USA, Europe)",
@@ -1634,7 +1634,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Golvellius (USA, Europe).html"
+	  "file": "Data/ROMs/Golvellius (USA, Europe).html"
 	},
 	{
 	  "title": "GP Rider (Europe)",
@@ -1644,7 +1644,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/GP Rider (Europe).html"
+	  "file": "Data/ROMs/GP Rider (Europe).html"
 	},
 	{
 	  "title": "Great Baseball (Japan)",
@@ -1654,7 +1654,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Baseball (Japan).html"
+	  "file": "Data/ROMs/Great Baseball (Japan).html"
 	},
 	{
 	  "title": "Great Baseball (USA, Europe)",
@@ -1664,7 +1664,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Baseball (USA, Europe).html"
+	  "file": "Data/ROMs/Great Baseball (USA, Europe).html"
 	},
 	{
 	  "title": "Great Basketball (World)",
@@ -1674,7 +1674,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Basketball (World).html"
+	  "file": "Data/ROMs/Great Basketball (World).html"
 	},
 	{
 	  "title": "Great Football (World)",
@@ -1684,7 +1684,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Football (World).html"
+	  "file": "Data/ROMs/Great Football (World).html"
 	},
 	{
 	  "title": "Great Golf (Japan)",
@@ -1694,7 +1694,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Golf (Japan).html"
+	  "file": "Data/ROMs/Great Golf (Japan).html"
 	},
 	{
 	  "title": "Great Golf (Korea)",
@@ -1704,7 +1704,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Golf (Korea).html"
+	  "file": "Data/ROMs/Great Golf (Korea).html"
 	},
 	{
 	  "title": "Great Golf (World) (Beta)",
@@ -1714,7 +1714,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Golf (World) (Beta).html"
+	  "file": "Data/ROMs/Great Golf (World) (Beta).html"
 	},
 	{
 	  "title": "Great Golf (World)",
@@ -1724,7 +1724,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Golf (World).html"
+	  "file": "Data/ROMs/Great Golf (World).html"
 	},
 	{
 	  "title": "Great Ice Hockey (Japan, USA)",
@@ -1734,7 +1734,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Ice Hockey (Japan, USA).html"
+	  "file": "Data/ROMs/Great Ice Hockey (Japan, USA).html"
 	},
 	{
 	  "title": "Great Soccer (Europe)",
@@ -1744,7 +1744,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Soccer (Europe).html"
+	  "file": "Data/ROMs/Great Soccer (Europe).html"
 	},
 	{
 	  "title": "Great Soccer (Japan)",
@@ -1754,7 +1754,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Soccer (Japan).html"
+	  "file": "Data/ROMs/Great Soccer (Japan).html"
 	},
 	{
 	  "title": "Great Soccer (Taiwan)",
@@ -1764,7 +1764,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Soccer (Taiwan).html"
+	  "file": "Data/ROMs/Great Soccer (Taiwan).html"
 	},
 	{
 	  "title": "Great Tennis (Japan)",
@@ -1774,7 +1774,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Tennis (Japan).html"
+	  "file": "Data/ROMs/Great Tennis (Japan).html"
 	},
 	{
 	  "title": "Great Volleyball (Japan)",
@@ -1784,7 +1784,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Volleyball (Japan).html"
+	  "file": "Data/ROMs/Great Volleyball (Japan).html"
 	},
 	{
 	  "title": "Great Volleyball (USA, Europe)",
@@ -1794,7 +1794,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Great Volleyball (USA, Europe).html"
+	  "file": "Data/ROMs/Great Volleyball (USA, Europe).html"
 	},
 	{
 	  "title": "Gun.Smoke (Korea) (Unl)",
@@ -1804,7 +1804,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Gun.Smoke (Korea) (Unl).html"
+	  "file": "Data/ROMs/Gun.Smoke (Korea) (Unl).html"
 	},
 	{
 	  "title": "Haja no Fuuin (Japan)",
@@ -1814,7 +1814,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Haja no Fuuin (Japan).html"
+	  "file": "Data/ROMs/Haja no Fuuin (Japan).html"
 	},
 	{
 	  "title": "Hang-On & Astro Warrior (USA)",
@@ -1824,7 +1824,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hang-On & Astro Warrior (USA).html"
+	  "file": "Data/ROMs/Hang-On & Astro Warrior (USA).html"
 	},
 	{
 	  "title": "Hang-On & Safari Hunt (USA) (Beta)",
@@ -1834,7 +1834,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hang-On & Safari Hunt (USA) (Beta).html"
+	  "file": "Data/ROMs/Hang-On & Safari Hunt (USA) (Beta).html"
 	},
 	{
 	  "title": "Hang-On & Safari Hunt (USA)",
@@ -1844,7 +1844,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hang-On & Safari Hunt (USA).html"
+	  "file": "Data/ROMs/Hang-On & Safari Hunt (USA).html"
 	},
 	{
 	  "title": "Hang-On (Europe)",
@@ -1854,7 +1854,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hang-On (Europe).html"
+	  "file": "Data/ROMs/Hang-On (Europe).html"
 	},
 	{
 	  "title": "Hang-On (Japan)",
@@ -1864,7 +1864,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hang-On (Japan).html"
+	  "file": "Data/ROMs/Hang-On (Japan).html"
 	},
 	{
 	  "title": "Heavyweight Champ (Europe)",
@@ -1874,7 +1874,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Heavyweight Champ (Europe).html"
+	  "file": "Data/ROMs/Heavyweight Champ (Europe).html"
 	},
 	{
 	  "title": "Heroes of the Lance (Europe)",
@@ -1884,7 +1884,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Heroes of the Lance (Europe).html"
+	  "file": "Data/ROMs/Heroes of the Lance (Europe).html"
 	},
 	{
 	  "title": "High School! Kimengumi (Japan)",
@@ -1894,7 +1894,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/High School! Kimengumi (Japan).html"
+	  "file": "Data/ROMs/High School! Kimengumi (Japan).html"
 	},
 	{
 	  "title": "Hokuto no Ken (Japan)",
@@ -1904,7 +1904,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hokuto no Ken (Japan).html"
+	  "file": "Data/ROMs/Hokuto no Ken (Japan).html"
 	},
 	{
 	  "title": "Hokuto no Ken (Taiwan)",
@@ -1914,7 +1914,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hokuto no Ken (Taiwan).html"
+	  "file": "Data/ROMs/Hokuto no Ken (Taiwan).html"
 	},
 	{
 	  "title": "Home Alone (Europe)",
@@ -1924,7 +1924,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Home Alone (Europe).html"
+	  "file": "Data/ROMs/Home Alone (Europe).html"
 	},
 	{
 	  "title": "Hook (Europe) (Proto)",
@@ -1934,7 +1934,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hook (Europe) (Proto).html"
+	  "file": "Data/ROMs/Hook (Europe) (Proto).html"
 	},
 	{
 	  "title": "Hoshi wo Sagasite... (Japan)",
@@ -1944,7 +1944,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hoshi wo Sagasite... (Japan).html"
+	  "file": "Data/ROMs/Hoshi wo Sagasite... (Japan).html"
 	},
 	{
 	  "title": "Hwarang Ui Geom (Korea)",
@@ -1954,7 +1954,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Hwarang Ui Geom (Korea).html"
+	  "file": "Data/ROMs/Hwarang Ui Geom (Korea).html"
 	},
 	{
 	  "title": "Impossible Mission (Europe) (Beta)",
@@ -1964,7 +1964,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Impossible Mission (Europe) (Beta).html"
+	  "file": "Data/ROMs/Impossible Mission (Europe) (Beta).html"
 	},
 	{
 	  "title": "Impossible Mission (Europe)",
@@ -1974,7 +1974,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Impossible Mission (Europe).html"
+	  "file": "Data/ROMs/Impossible Mission (Europe).html"
 	},
 	{
 	  "title": "Incredible Crash Dummies, The (Europe)",
@@ -1984,7 +1984,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Incredible Crash Dummies, The (Europe).html"
+	  "file": "Data/ROMs/Incredible Crash Dummies, The (Europe).html"
 	},
 	{
 	  "title": "Incredible Hulk, The (Europe)",
@@ -1994,7 +1994,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Incredible Hulk, The (Europe).html"
+	  "file": "Data/ROMs/Incredible Hulk, The (Europe).html"
 	},
 	{
 	  "title": "Indiana Jones and the Last Crusade (Europe) (Beta)",
@@ -2004,7 +2004,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Indiana Jones and the Last Crusade (Europe) (Beta).html"
+	  "file": "Data/ROMs/Indiana Jones and the Last Crusade (Europe) (Beta).html"
 	},
 	{
 	  "title": "Indiana Jones and the Last Crusade (Europe)",
@@ -2014,7 +2014,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Indiana Jones and the Last Crusade (Europe).html"
+	  "file": "Data/ROMs/Indiana Jones and the Last Crusade (Europe).html"
 	},
 	{
 	  "title": "James Bond 007 - The Duel (Brazil)",
@@ -2024,7 +2024,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/James Bond 007 - The Duel (Brazil).html"
+	  "file": "Data/ROMs/James Bond 007 - The Duel (Brazil).html"
 	},
 	{
 	  "title": "James Bond 007 - The Duel (Europe)",
@@ -2034,7 +2034,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/James Bond 007 - The Duel (Europe).html"
+	  "file": "Data/ROMs/James Bond 007 - The Duel (Europe).html"
 	},
 	{
 	  "title": "James Buster Douglas Knockout Boxing (USA) (Beta)",
@@ -2044,7 +2044,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/James Buster Douglas Knockout Boxing (USA) (Beta).html"
+	  "file": "Data/ROMs/James Buster Douglas Knockout Boxing (USA) (Beta).html"
 	},
 	{
 	  "title": "James Buster Douglas Knockout Boxing (USA)",
@@ -2054,7 +2054,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/James Buster Douglas Knockout Boxing (USA).html"
+	  "file": "Data/ROMs/James Buster Douglas Knockout Boxing (USA).html"
 	},
 	{
 	  "title": "James Pond 2 - Codename RoboCod (Europe)",
@@ -2064,7 +2064,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/James Pond 2 - Codename RoboCod (Europe).html"
+	  "file": "Data/ROMs/James Pond 2 - Codename RoboCod (Europe).html"
 	},
 	{
 	  "title": "Jang Pung 3 (Korea) (Unl)",
@@ -2074,7 +2074,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Jang Pung 3 (Korea) (Unl).html"
+	  "file": "Data/ROMs/Jang Pung 3 (Korea) (Unl).html"
 	},
 	{
 	  "title": "Janggun-ui Adeul (Korea)",
@@ -2084,7 +2084,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Janggun-ui Adeul (Korea).html"
+	  "file": "Data/ROMs/Janggun-ui Adeul (Korea).html"
 	},
 	{
 	  "title": "Joe Montana Football (USA, Europe)",
@@ -2094,7 +2094,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Joe Montana Football (USA, Europe).html"
+	  "file": "Data/ROMs/Joe Montana Football (USA, Europe).html"
 	},
 	{
 	  "title": "Jungle Book, The (Europe)",
@@ -2104,7 +2104,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Jungle Book, The (Europe).html"
+	  "file": "Data/ROMs/Jungle Book, The (Europe).html"
 	},
 	{
 	  "title": "Jurassic Park (Europe)",
@@ -2114,7 +2114,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Jurassic Park (Europe).html"
+	  "file": "Data/ROMs/Jurassic Park (Europe).html"
 	},
 	{
 	  "title": "Kenseiden (Japan)",
@@ -2124,7 +2124,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Kenseiden (Japan).html"
+	  "file": "Data/ROMs/Kenseiden (Japan).html"
 	},
 	{
 	  "title": "Kenseiden (USA, Europe)",
@@ -2134,7 +2134,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Kenseiden (USA, Europe).html"
+	  "file": "Data/ROMs/Kenseiden (USA, Europe).html"
 	},
 	{
 	  "title": "King & Balloon (Korea) (Unl)",
@@ -2144,7 +2144,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/King & Balloon (Korea) (Unl).html"
+	  "file": "Data/ROMs/King & Balloon (Korea) (Unl).html"
 	},
 	{
 	  "title": "Kings Quest - Quest for the Crown (USA) (Beta)",
@@ -2154,7 +2154,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Kings Quest - Quest for the Crown (USA) (Beta).html"
+	  "file": "Data/ROMs/Kings Quest - Quest for the Crown (USA) (Beta).html"
 	},
 	{
 	  "title": "Kings Quest - Quest for the Crown (USA)",
@@ -2164,7 +2164,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Kings Quest - Quest for the Crown (USA).html"
+	  "file": "Data/ROMs/Kings Quest - Quest for the Crown (USA).html"
 	},
 	{
 	  "title": "Klax (Europe)",
@@ -2174,7 +2174,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Klax (Europe).html"
+	  "file": "Data/ROMs/Klax (Europe).html"
 	},
 	{
 	  "title": "Knightmare II - The Maze of Galious (Korea)",
@@ -2184,7 +2184,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Knightmare II - The Maze of Galious (Korea).html"
+	  "file": "Data/ROMs/Knightmare II - The Maze of Galious (Korea).html"
 	},
 	{
 	  "title": "Krustys Fun House (Europe)",
@@ -2194,7 +2194,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Krustys Fun House (Europe).html"
+	  "file": "Data/ROMs/Krustys Fun House (Europe).html"
 	},
 	{
 	  "title": "Kujaku Ou (Japan)",
@@ -2204,7 +2204,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Kujaku Ou (Japan).html"
+	  "file": "Data/ROMs/Kujaku Ou (Japan).html"
 	},
 	{
 	  "title": "Kung Fu Kid (USA, Europe)",
@@ -2214,7 +2214,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Kung Fu Kid (USA, Europe).html"
+	  "file": "Data/ROMs/Kung Fu Kid (USA, Europe).html"
 	},
 	{
 	  "title": "Land of Illusion Starring Mickey Mouse (Europe)",
@@ -2224,7 +2224,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Land of Illusion Starring Mickey Mouse (Europe).html"
+	  "file": "Data/ROMs/Land of Illusion Starring Mickey Mouse (Europe).html"
 	},
 	{
 	  "title": "Laser Ghost (Europe)",
@@ -2234,7 +2234,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Laser Ghost (Europe).html"
+	  "file": "Data/ROMs/Laser Ghost (Europe).html"
 	},
 	{
 	  "title": "Legend of Illusion Starring Mickey Mouse (Brazil)",
@@ -2244,7 +2244,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Legend of Illusion Starring Mickey Mouse (Brazil).html"
+	  "file": "Data/ROMs/Legend of Illusion Starring Mickey Mouse (Brazil).html"
 	},
 	{
 	  "title": "Lemmings (Europe) (Beta)",
@@ -2254,7 +2254,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Lemmings (Europe) (Beta).html"
+	  "file": "Data/ROMs/Lemmings (Europe) (Beta).html"
 	},
 	{
 	  "title": "Lemmings (Europe)",
@@ -2264,7 +2264,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Lemmings (Europe).html"
+	  "file": "Data/ROMs/Lemmings (Europe).html"
 	},
 	{
 	  "title": "Lemmings 2 - The Tribes (Unknown) (Proto)",
@@ -2274,7 +2274,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Lemmings 2 - The Tribes (Unknown) (Proto).html"
+	  "file": "Data/ROMs/Lemmings 2 - The Tribes (Unknown) (Proto).html"
 	},
 	{
 	  "title": "Line of Fire (Europe)",
@@ -2284,7 +2284,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Line of Fire (Europe).html"
+	  "file": "Data/ROMs/Line of Fire (Europe).html"
 	},
 	{
 	  "title": "Lion King, The (Europe)",
@@ -2294,7 +2294,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Lion King, The (Europe).html"
+	  "file": "Data/ROMs/Lion King, The (Europe).html"
 	},
 	{
 	  "title": "Lord of Sword (Japan)",
@@ -2304,7 +2304,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Lord of Sword (Japan).html"
+	  "file": "Data/ROMs/Lord of Sword (Japan).html"
 	},
 	{
 	  "title": "Lord of the Sword (USA, Europe)",
@@ -2314,7 +2314,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Lord of the Sword (USA, Europe).html"
+	  "file": "Data/ROMs/Lord of the Sword (USA, Europe).html"
 	},
 	{
 	  "title": "Loretta no Shouzou (Japan)",
@@ -2324,7 +2324,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Loretta no Shouzou (Japan).html"
+	  "file": "Data/ROMs/Loretta no Shouzou (Japan).html"
 	},
 	{
 	  "title": "Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta)",
@@ -2334,7 +2334,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta).html"
+	  "file": "Data/ROMs/Lucky Dime Caper Starring Donald Duck, The (Europe) (Beta).html"
 	},
 	{
 	  "title": "Lucky Dime Caper Starring Donald Duck, The (Europe)",
@@ -2344,7 +2344,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Lucky Dime Caper Starring Donald Duck, The (Europe).html"
+	  "file": "Data/ROMs/Lucky Dime Caper Starring Donald Duck, The (Europe).html"
 	},
 	{
 	  "title": "Mahjong Sengoku Jidai (Japan) (Beta)",
@@ -2354,7 +2354,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mahjong Sengoku Jidai (Japan) (Beta).html"
+	  "file": "Data/ROMs/Mahjong Sengoku Jidai (Japan) (Beta).html"
 	},
 	{
 	  "title": "Mahjong Sengoku Jidai (Japan)",
@@ -2364,7 +2364,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mahjong Sengoku Jidai (Japan).html"
+	  "file": "Data/ROMs/Mahjong Sengoku Jidai (Japan).html"
 	},
 	{
 	  "title": "Makai Retsuden (Japan)",
@@ -2374,7 +2374,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Makai Retsuden (Japan).html"
+	  "file": "Data/ROMs/Makai Retsuden (Japan).html"
 	},
 	{
 	  "title": "Maou Golvellius (Japan) (Beta)",
@@ -2384,7 +2384,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Maou Golvellius (Japan) (Beta).html"
+	  "file": "Data/ROMs/Maou Golvellius (Japan) (Beta).html"
 	},
 	{
 	  "title": "Maou Golvellius (Japan)",
@@ -2394,7 +2394,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Maou Golvellius (Japan).html"
+	  "file": "Data/ROMs/Maou Golvellius (Japan).html"
 	},
 	{
 	  "title": "Marble Madness (Europe)",
@@ -2404,7 +2404,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Marble Madness (Europe).html"
+	  "file": "Data/ROMs/Marble Madness (Europe).html"
 	},
 	{
 	  "title": "Marksman Shooting & Trap Shooting & Safari Hunt (Europe)",
@@ -2414,7 +2414,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Marksman Shooting & Trap Shooting & Safari Hunt (Europe).html"
+	  "file": "Data/ROMs/Marksman Shooting & Trap Shooting & Safari Hunt (Europe).html"
 	},
 	{
 	  "title": "Marksman Shooting & Trap Shooting (USA)",
@@ -2424,7 +2424,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Marksman Shooting & Trap Shooting (USA).html"
+	  "file": "Data/ROMs/Marksman Shooting & Trap Shooting (USA).html"
 	},
 	{
 	  "title": "Master of Darkness (Europe)",
@@ -2434,7 +2434,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Master of Darkness (Europe).html"
+	  "file": "Data/ROMs/Master of Darkness (Europe).html"
 	},
 	{
 	  "title": "Masters of Combat (Europe)",
@@ -2444,7 +2444,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Masters of Combat (Europe).html"
+	  "file": "Data/ROMs/Masters of Combat (Europe).html"
 	},
 	{
 	  "title": "Maze Hunter 3-D (USA, Europe)",
@@ -2454,7 +2454,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Maze Hunter 3-D (USA, Europe).html"
+	  "file": "Data/ROMs/Maze Hunter 3-D (USA, Europe).html"
 	},
 	{
 	  "title": "Maze Walker (Japan)",
@@ -2464,7 +2464,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Maze Walker (Japan).html"
+	  "file": "Data/ROMs/Maze Walker (Japan).html"
 	},
 	{
 	  "title": "Megumi Rescue (Japan)",
@@ -2474,7 +2474,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Megumi Rescue (Japan).html"
+	  "file": "Data/ROMs/Megumi Rescue (Japan).html"
 	},
 	{
 	  "title": "Mercs (Europe)",
@@ -2484,7 +2484,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mercs (Europe).html"
+	  "file": "Data/ROMs/Mercs (Europe).html"
 	},
 	{
 	  "title": "Michael Jacksons Moonwalker (USA, Europe) (Beta)",
@@ -2494,7 +2494,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Michael Jacksons Moonwalker (USA, Europe) (Beta).html"
+	  "file": "Data/ROMs/Michael Jacksons Moonwalker (USA, Europe) (Beta).html"
 	},
 	{
 	  "title": "Michael Jacksons Moonwalker (USA, Europe)",
@@ -2504,7 +2504,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Michael Jacksons Moonwalker (USA, Europe).html"
+	  "file": "Data/ROMs/Michael Jacksons Moonwalker (USA, Europe).html"
 	},
 	{
 	  "title": "Mick & Mack as the Global Gladiators (Europe)",
@@ -2514,7 +2514,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mick & Mack as the Global Gladiators (Europe).html"
+	  "file": "Data/ROMs/Mick & Mack as the Global Gladiators (Europe).html"
 	},
 	{
 	  "title": "Mickeys Ultimate Challenge (Brazil)",
@@ -2524,7 +2524,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mickeys Ultimate Challenge (Brazil).html"
+	  "file": "Data/ROMs/Mickeys Ultimate Challenge (Brazil).html"
 	},
 	{
 	  "title": "Micro Machines (Europe)",
@@ -2534,7 +2534,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Micro Machines (Europe).html"
+	  "file": "Data/ROMs/Micro Machines (Europe).html"
 	},
 	{
 	  "title": "Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta)",
@@ -2544,7 +2544,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta).html"
+	  "file": "Data/ROMs/Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta).html"
 	},
 	{
 	  "title": "Miracle Warriors - Seal of the Dark Lord (USA, Europe)",
@@ -2554,7 +2554,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Miracle Warriors - Seal of the Dark Lord (USA, Europe).html"
+	  "file": "Data/ROMs/Miracle Warriors - Seal of the Dark Lord (USA, Europe).html"
 	},
 	{
 	  "title": "Missile Defense 3-D (USA, Europe)",
@@ -2564,7 +2564,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Missile Defense 3-D (USA, Europe).html"
+	  "file": "Data/ROMs/Missile Defense 3-D (USA, Europe).html"
 	},
 	{
 	  "title": "Monica no Castelo do Dragao (Brazil)",
@@ -2574,7 +2574,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Monica no Castelo do Dragao (Brazil).html"
+	  "file": "Data/ROMs/Monica no Castelo do Dragao (Brazil).html"
 	},
 	{
 	  "title": "Monopoly (Europe)",
@@ -2584,7 +2584,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Monopoly (Europe).html"
+	  "file": "Data/ROMs/Monopoly (Europe).html"
 	},
 	{
 	  "title": "Monopoly (Unknown) (Beta)",
@@ -2594,7 +2594,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Monopoly (Unknown) (Beta).html"
+	  "file": "Data/ROMs/Monopoly (Unknown) (Beta).html"
 	},
 	{
 	  "title": "Monopoly (USA)",
@@ -2604,7 +2604,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Monopoly (USA).html"
+	  "file": "Data/ROMs/Monopoly (USA).html"
 	},
 	{
 	  "title": "Montezumas Revenge Featuring Panama Joe (USA) (Beta)",
@@ -2614,7 +2614,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Montezumas Revenge Featuring Panama Joe (USA) (Beta).html"
+	  "file": "Data/ROMs/Montezumas Revenge Featuring Panama Joe (USA) (Beta).html"
 	},
 	{
 	  "title": "Montezumas Revenge Featuring Panama Joe (USA)",
@@ -2624,7 +2624,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Montezumas Revenge Featuring Panama Joe (USA).html"
+	  "file": "Data/ROMs/Montezumas Revenge Featuring Panama Joe (USA).html"
 	},
 	{
 	  "title": "Mopiranger (Korea) (Unl)",
@@ -2634,7 +2634,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mopiranger (Korea) (Unl).html"
+	  "file": "Data/ROMs/Mopiranger (Korea) (Unl).html"
 	},
 	{
 	  "title": "Mortal Kombat (Europe)",
@@ -2644,7 +2644,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mortal Kombat (Europe).html"
+	  "file": "Data/ROMs/Mortal Kombat (Europe).html"
 	},
 	{
 	  "title": "Mortal Kombat 3 (Brazil)",
@@ -2654,7 +2654,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mortal Kombat 3 (Brazil).html"
+	  "file": "Data/ROMs/Mortal Kombat 3 (Brazil).html"
 	},
 	{
 	  "title": "Mortal Kombat II (Europe)",
@@ -2664,7 +2664,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Mortal Kombat II (Europe).html"
+	  "file": "Data/ROMs/Mortal Kombat II (Europe).html"
 	},
 	{
 	  "title": "Ms. Pac-Man (Europe)",
@@ -2674,7 +2674,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ms. Pac-Man (Europe).html"
+	  "file": "Data/ROMs/Ms. Pac-Man (Europe).html"
 	},
 	{
 	  "title": "My Hero (USA, Europe)",
@@ -2684,7 +2684,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/My Hero (USA, Europe).html"
+	  "file": "Data/ROMs/My Hero (USA, Europe).html"
 	},
 	{
 	  "title": "NBA Jam (Europe) (Proto)",
@@ -2694,7 +2694,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/NBA Jam (Europe) (Proto).html"
+	  "file": "Data/ROMs/NBA Jam (Europe) (Proto).html"
 	},
 	{
 	  "title": "Nekkyuu Koushien (Japan)",
@@ -2704,7 +2704,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Nekkyuu Koushien (Japan).html"
+	  "file": "Data/ROMs/Nekkyuu Koushien (Japan).html"
 	},
 	{
 	  "title": "Nemesis (Korea)",
@@ -2714,7 +2714,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Nemesis (Korea).html"
+	  "file": "Data/ROMs/Nemesis (Korea).html"
 	},
 	{
 	  "title": "Nemesis 2 (Korea)",
@@ -2724,7 +2724,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Nemesis 2 (Korea).html"
+	  "file": "Data/ROMs/Nemesis 2 (Korea).html"
 	},
 	{
 	  "title": "New Boggle Boggle 2 (Korea) (Unl)",
@@ -2734,7 +2734,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/New Boggle Boggle 2 (Korea) (Unl).html"
+	  "file": "Data/ROMs/New Boggle Boggle 2 (Korea) (Unl).html"
 	},
 	{
 	  "title": "New Zealand Story, The (Europe)",
@@ -2744,7 +2744,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/New Zealand Story, The (Europe).html"
+	  "file": "Data/ROMs/New Zealand Story, The (Europe).html"
 	},
 	{
 	  "title": "Ninja (Japan)",
@@ -2754,7 +2754,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ninja (Japan).html"
+	  "file": "Data/ROMs/Ninja (Japan).html"
 	},
 	{
 	  "title": "Ninja Gaiden (Europe) (Beta)",
@@ -2764,7 +2764,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ninja Gaiden (Europe) (Beta).html"
+	  "file": "Data/ROMs/Ninja Gaiden (Europe) (Beta).html"
 	},
 	{
 	  "title": "Ninja Gaiden (Europe)",
@@ -2774,7 +2774,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ninja Gaiden (Europe).html"
+	  "file": "Data/ROMs/Ninja Gaiden (Europe).html"
 	},
 	{
 	  "title": "Ninja, The (USA, Europe)",
@@ -2784,7 +2784,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ninja, The (USA, Europe).html"
+	  "file": "Data/ROMs/Ninja, The (USA, Europe).html"
 	},
 	{
 	  "title": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
@@ -2794,7 +2794,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
+	  "file": "Data/ROMs/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
 	},
 	{
 	  "title": "Olympic Gold (Korea) (En,Fr,De,Es,It,Nl,Pt,Sv)",
@@ -2804,7 +2804,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Olympic Gold (Korea) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
+	  "file": "Data/ROMs/Olympic Gold (Korea) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
 	},
 	{
 	  "title": "Opa Opa (Japan)",
@@ -2814,7 +2814,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Opa Opa (Japan).html"
+	  "file": "Data/ROMs/Opa Opa (Japan).html"
 	},
 	{
 	  "title": "Operation Wolf (Europe)",
@@ -2824,7 +2824,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Operation Wolf (Europe).html"
+	  "file": "Data/ROMs/Operation Wolf (Europe).html"
 	},
 	{
 	  "title": "Ottifants, The (Europe) (En,Fr,De,Es,It)",
@@ -2834,7 +2834,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ottifants, The (Europe) (En,Fr,De,Es,It).html"
+	  "file": "Data/ROMs/Ottifants, The (Europe) (En,Fr,De,Es,It).html"
 	},
 	{
 	  "title": "Out Run (World)",
@@ -2844,7 +2844,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Out Run (World).html"
+	  "file": "Data/ROMs/Out Run (World).html"
 	},
 	{
 	  "title": "Out Run 3-D (Europe)",
@@ -2854,7 +2854,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Out Run 3-D (Europe).html"
+	  "file": "Data/ROMs/Out Run 3-D (Europe).html"
 	},
 	{
 	  "title": "Out Run Europa (Europe)",
@@ -2864,7 +2864,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Out Run Europa (Europe).html"
+	  "file": "Data/ROMs/Out Run Europa (Europe).html"
 	},
 	{
 	  "title": "Pac-Mania (Europe)",
@@ -2874,7 +2874,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Pac-Mania (Europe).html"
+	  "file": "Data/ROMs/Pac-Mania (Europe).html"
 	},
 	{
 	  "title": "Paperboy (Europe)",
@@ -2884,7 +2884,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Paperboy (Europe).html"
+	  "file": "Data/ROMs/Paperboy (Europe).html"
 	},
 	{
 	  "title": "Paperboy (USA)",
@@ -2894,7 +2894,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Paperboy (USA).html"
+	  "file": "Data/ROMs/Paperboy (USA).html"
 	},
 	{
 	  "title": "Parlour Games (USA, Europe)",
@@ -2904,7 +2904,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Parlour Games (USA, Europe).html"
+	  "file": "Data/ROMs/Parlour Games (USA, Europe).html"
 	},
 	{
 	  "title": "Pat Riley Basketball (USA) (Proto)",
@@ -2914,7 +2914,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Pat Riley Basketball (USA) (Proto).html"
+	  "file": "Data/ROMs/Pat Riley Basketball (USA) (Proto).html"
 	},
 	{
 	  "title": "Penguin Adventure (Korea) (Unl) (Pirate)",
@@ -2924,7 +2924,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Penguin Adventure (Korea) (Unl) (Pirate).html"
+	  "file": "Data/ROMs/Penguin Adventure (Korea) (Unl) (Pirate).html"
 	},
 	{
 	  "title": "Penguin Land (USA, Europe)",
@@ -2934,7 +2934,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Penguin Land (USA, Europe).html"
+	  "file": "Data/ROMs/Penguin Land (USA, Europe).html"
 	},
 	{
 	  "title": "PGA Tour Golf (Europe)",
@@ -2944,7 +2944,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/PGA Tour Golf (Europe).html"
+	  "file": "Data/ROMs/PGA Tour Golf (Europe).html"
 	},
 	{
 	  "title": "Phantasy Star (Brazil)",
@@ -2954,7 +2954,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Phantasy Star (Brazil).html"
+	  "file": "Data/ROMs/Phantasy Star (Brazil).html"
 	},
 	{
 	  "title": "Phantasy Star (Japan)",
@@ -2964,7 +2964,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Phantasy Star (Japan).html"
+	  "file": "Data/ROMs/Phantasy Star (Japan).html"
 	},
 	{
 	  "title": "Phantasy Star (Korea)",
@@ -2974,7 +2974,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Phantasy Star (Korea).html"
+	  "file": "Data/ROMs/Phantasy Star (Korea).html"
 	},
 	{
 	  "title": "Phantasy Star (USA, Europe) (Rev 2)",
@@ -2984,7 +2984,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Phantasy Star (USA, Europe) (Rev 2).html"
+	  "file": "Data/ROMs/Phantasy Star (USA, Europe) (Rev 2).html"
 	},
 	{
 	  "title": "Phantasy Star (USA, Europe) (Rev 3)",
@@ -2994,7 +2994,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Phantasy Star (USA, Europe) (Rev 3).html"
+	  "file": "Data/ROMs/Phantasy Star (USA, Europe) (Rev 3).html"
 	},
 	{
 	  "title": "Pit Fighter (Brazil)",
@@ -3004,7 +3004,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Pit Fighter (Brazil).html"
+	  "file": "Data/ROMs/Pit Fighter (Brazil).html"
 	},
 	{
 	  "title": "Pit Fighter (Europe)",
@@ -3014,7 +3014,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Pit Fighter (Europe).html"
+	  "file": "Data/ROMs/Pit Fighter (Europe).html"
 	},
 	{
 	  "title": "Pooyan (Korea)",
@@ -3024,7 +3024,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Pooyan (Korea).html"
+	  "file": "Data/ROMs/Pooyan (Korea).html"
 	},
 	{
 	  "title": "Populous (Europe)",
@@ -3034,7 +3034,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Populous (Europe).html"
+	  "file": "Data/ROMs/Populous (Europe).html"
 	},
 	{
 	  "title": "Poseidon Wars 3-D (USA, Europe)",
@@ -3044,7 +3044,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Poseidon Wars 3-D (USA, Europe).html"
+	  "file": "Data/ROMs/Poseidon Wars 3-D (USA, Europe).html"
 	},
 	{
 	  "title": "Power Boggle Boggle (Korea) (Unl)",
@@ -3054,7 +3054,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Power Boggle Boggle (Korea) (Unl).html"
+	  "file": "Data/ROMs/Power Boggle Boggle (Korea) (Unl).html"
 	},
 	{
 	  "title": "Power Strike (USA, Europe)",
@@ -3064,7 +3064,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Power Strike (USA, Europe).html"
+	  "file": "Data/ROMs/Power Strike (USA, Europe).html"
 	},
 	{
 	  "title": "Power Strike II (Europe)",
@@ -3074,7 +3074,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Power Strike II (Europe).html"
+	  "file": "Data/ROMs/Power Strike II (Europe).html"
 	},
 	{
 	  "title": "Predator 2 (Brazil)",
@@ -3084,7 +3084,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Predator 2 (Brazil).html"
+	  "file": "Data/ROMs/Predator 2 (Brazil).html"
 	},
 	{
 	  "title": "Predator 2 (Europe)",
@@ -3094,7 +3094,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Predator 2 (Europe).html"
+	  "file": "Data/ROMs/Predator 2 (Europe).html"
 	},
 	{
 	  "title": "Prince of Persia (Europe)",
@@ -3104,7 +3104,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Prince of Persia (Europe).html"
+	  "file": "Data/ROMs/Prince of Persia (Europe).html"
 	},
 	{
 	  "title": "Pro Wrestling (USA, Europe)",
@@ -3114,7 +3114,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Pro Wrestling (USA, Europe).html"
+	  "file": "Data/ROMs/Pro Wrestling (USA, Europe).html"
 	},
 	{
 	  "title": "Pro Yakyuu Pennant Race, The (Japan)",
@@ -3124,7 +3124,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Pro Yakyuu Pennant Race, The (Japan).html"
+	  "file": "Data/ROMs/Pro Yakyuu Pennant Race, The (Japan).html"
 	},
 	{
 	  "title": "Promocao Especial M. System III Compact (Brazil) (Sample)",
@@ -3134,7 +3134,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Promocao Especial M. System III Compact (Brazil) (Sample).html"
+	  "file": "Data/ROMs/Promocao Especial M. System III Compact (Brazil) (Sample).html"
 	},
 	{
 	  "title": "Psychic World (Europe)",
@@ -3144,7 +3144,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Psychic World (Europe).html"
+	  "file": "Data/ROMs/Psychic World (Europe).html"
 	},
 	{
 	  "title": "Psycho Fox (USA, Europe)",
@@ -3154,7 +3154,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Psycho Fox (USA, Europe).html"
+	  "file": "Data/ROMs/Psycho Fox (USA, Europe).html"
 	},
 	{
 	  "title": "Putt & Putter (Europe) (Beta)",
@@ -3164,7 +3164,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Putt & Putter (Europe) (Beta).html"
+	  "file": "Data/ROMs/Putt & Putter (Europe) (Beta).html"
 	},
 	{
 	  "title": "Putt & Putter (Europe)",
@@ -3174,7 +3174,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Putt & Putter (Europe).html"
+	  "file": "Data/ROMs/Putt & Putter (Europe).html"
 	},
 	{
 	  "title": "Puznic (Korea) (Unl)",
@@ -3184,7 +3184,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Puznic (Korea) (Unl).html"
+	  "file": "Data/ROMs/Puznic (Korea) (Unl).html"
 	},
 	{
 	  "title": "Quartet (USA, Europe)",
@@ -3194,7 +3194,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Quartet (USA, Europe).html"
+	  "file": "Data/ROMs/Quartet (USA, Europe).html"
 	},
 	{
 	  "title": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil)",
@@ -3204,7 +3204,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil).html"
+	  "file": "Data/ROMs/Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil).html"
 	},
 	{
 	  "title": "R-Type (Unknown) (Beta)",
@@ -3214,7 +3214,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/R-Type (Unknown) (Beta).html"
+	  "file": "Data/ROMs/R-Type (Unknown) (Beta).html"
 	},
 	{
 	  "title": "R-Type (World)",
@@ -3224,7 +3224,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/R-Type (World).html"
+	  "file": "Data/ROMs/R-Type (World).html"
 	},
 	{
 	  "title": "R.C. Grand Prix (USA, Europe) (Beta)",
@@ -3234,7 +3234,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/R.C. Grand Prix (USA, Europe) (Beta).html"
+	  "file": "Data/ROMs/R.C. Grand Prix (USA, Europe) (Beta).html"
 	},
 	{
 	  "title": "R.C. Grand Prix (USA, Europe)",
@@ -3244,7 +3244,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/R.C. Grand Prix (USA, Europe).html"
+	  "file": "Data/ROMs/R.C. Grand Prix (USA, Europe).html"
 	},
 	{
 	  "title": "Rainbow Islands - Story of the Bubble Bobble 2 (Europe)",
@@ -3254,7 +3254,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rainbow Islands - Story of the Bubble Bobble 2 (Europe).html"
+	  "file": "Data/ROMs/Rainbow Islands - Story of the Bubble Bobble 2 (Europe).html"
 	},
 	{
 	  "title": "Rainbow Islands - The Story of Bubble Bobble 2 (Brazil)",
@@ -3264,7 +3264,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rainbow Islands - The Story of Bubble Bobble 2 (Brazil).html"
+	  "file": "Data/ROMs/Rainbow Islands - The Story of Bubble Bobble 2 (Brazil).html"
 	},
 	{
 	  "title": "Rambo - First Blood Part II (USA)",
@@ -3274,7 +3274,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rambo - First Blood Part II (USA).html"
+	  "file": "Data/ROMs/Rambo - First Blood Part II (USA).html"
 	},
 	{
 	  "title": "Rambo III (USA, Europe)",
@@ -3284,7 +3284,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rambo III (USA, Europe).html"
+	  "file": "Data/ROMs/Rambo III (USA, Europe).html"
 	},
 	{
 	  "title": "Rampage (USA, Europe)",
@@ -3294,7 +3294,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rampage (USA, Europe).html"
+	  "file": "Data/ROMs/Rampage (USA, Europe).html"
 	},
 	{
 	  "title": "Rampart (Europe)",
@@ -3304,7 +3304,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rampart (Europe).html"
+	  "file": "Data/ROMs/Rampart (Europe).html"
 	},
 	{
 	  "title": "Rastan (USA, Europe)",
@@ -3314,7 +3314,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rastan (USA, Europe).html"
+	  "file": "Data/ROMs/Rastan (USA, Europe).html"
 	},
 	{
 	  "title": "Reggie Jackson Baseball (USA)",
@@ -3324,7 +3324,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Reggie Jackson Baseball (USA).html"
+	  "file": "Data/ROMs/Reggie Jackson Baseball (USA).html"
 	},
 	{
 	  "title": "Renegade (Europe)",
@@ -3334,7 +3334,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Renegade (Europe).html"
+	  "file": "Data/ROMs/Renegade (Europe).html"
 	},
 	{
 	  "title": "Rescue Mission (USA, Europe)",
@@ -3344,7 +3344,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rescue Mission (USA, Europe).html"
+	  "file": "Data/ROMs/Rescue Mission (USA, Europe).html"
 	},
 	{
 	  "title": "Road Fighter (Korea) (Unl)",
@@ -3354,7 +3354,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Road Fighter (Korea) (Unl).html"
+	  "file": "Data/ROMs/Road Fighter (Korea) (Unl).html"
 	},
 	{
 	  "title": "Road Rash (Europe)",
@@ -3364,7 +3364,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Road Rash (Europe).html"
+	  "file": "Data/ROMs/Road Rash (Europe).html"
 	},
 	{
 	  "title": "RoboCop 3 (Europe)",
@@ -3374,7 +3374,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/RoboCop 3 (Europe).html"
+	  "file": "Data/ROMs/RoboCop 3 (Europe).html"
 	},
 	{
 	  "title": "RoboCop versus The Terminator (Europe)",
@@ -3384,7 +3384,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/RoboCop versus The Terminator (Europe).html"
+	  "file": "Data/ROMs/RoboCop versus The Terminator (Europe).html"
 	},
 	{
 	  "title": "Rocky (World)",
@@ -3394,7 +3394,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Rocky (World).html"
+	  "file": "Data/ROMs/Rocky (World).html"
 	},
 	{
 	  "title": "Running Battle (Europe)",
@@ -3404,7 +3404,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Running Battle (Europe).html"
+	  "file": "Data/ROMs/Running Battle (Europe).html"
 	},
 	{
 	  "title": "Sagaia (Europe)",
@@ -3414,7 +3414,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sagaia (Europe).html"
+	  "file": "Data/ROMs/Sagaia (Europe).html"
 	},
 	{
 	  "title": "Sangokushi 3 (Korea) (Unl)",
@@ -3424,7 +3424,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sangokushi 3 (Korea) (Unl).html"
+	  "file": "Data/ROMs/Sangokushi 3 (Korea) (Unl).html"
 	},
 	{
 	  "title": "Sapo Xule - O Mestre do Kung Fu (Brazil)",
@@ -3434,7 +3434,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sapo Xule - O Mestre do Kung Fu (Brazil).html"
+	  "file": "Data/ROMs/Sapo Xule - O Mestre do Kung Fu (Brazil).html"
 	},
 	{
 	  "title": "Sapo Xule - S.O.S Lagoa Poluida (Brazil)",
@@ -3444,7 +3444,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sapo Xule - S.O.S Lagoa Poluida (Brazil).html"
+	  "file": "Data/ROMs/Sapo Xule - S.O.S Lagoa Poluida (Brazil).html"
 	},
 	{
 	  "title": "Sapo Xule vs. Os Invasores do Brejo (Brazil)",
@@ -3454,7 +3454,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sapo Xule vs. Os Invasores do Brejo (Brazil).html"
+	  "file": "Data/ROMs/Sapo Xule vs. Os Invasores do Brejo (Brazil).html"
 	},
 	{
 	  "title": "Satellite 7 (Japan)",
@@ -3464,7 +3464,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Satellite 7 (Japan).html"
+	  "file": "Data/ROMs/Satellite 7 (Japan).html"
 	},
 	{
 	  "title": "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)",
@@ -3474,7 +3474,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).html"
+	  "file": "Data/ROMs/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).html"
 	},
 	{
 	  "title": "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)",
@@ -3484,7 +3484,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).html"
+	  "file": "Data/ROMs/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).html"
 	},
 	{
 	  "title": "Scramble Spirits (Europe)",
@@ -3494,7 +3494,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Scramble Spirits (Europe).html"
+	  "file": "Data/ROMs/Scramble Spirits (Europe).html"
 	},
 	{
 	  "title": "SDI (Japan)",
@@ -3504,7 +3504,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/SDI (Japan).html"
+	  "file": "Data/ROMs/SDI (Japan).html"
 	},
 	{
 	  "title": "Secret Command (Europe)",
@@ -3514,7 +3514,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Secret Command (Europe).html"
+	  "file": "Data/ROMs/Secret Command (Europe).html"
 	},
 	{
 	  "title": "Sega Chess (Europe)",
@@ -3524,7 +3524,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sega Chess (Europe).html"
+	  "file": "Data/ROMs/Sega Chess (Europe).html"
 	},
 	{
 	  "title": "Sega Graphic Board (USA) (v2.0) (Proto)",
@@ -3534,7 +3534,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sega Graphic Board (USA) (v2.0) (Proto).html"
+	  "file": "Data/ROMs/Sega Graphic Board (USA) (v2.0) (Proto).html"
 	},
 	{
 	  "title": "Sega World Tournament Golf (Europe)",
@@ -3544,7 +3544,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sega World Tournament Golf (Europe).html"
+	  "file": "Data/ROMs/Sega World Tournament Golf (Europe).html"
 	},
 	{
 	  "title": "Seishun Scandal (Japan)",
@@ -3554,7 +3554,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Seishun Scandal (Japan).html"
+	  "file": "Data/ROMs/Seishun Scandal (Japan).html"
 	},
 	{
 	  "title": "Sensible Soccer (Europe)",
@@ -3564,7 +3564,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sensible Soccer (Europe).html"
+	  "file": "Data/ROMs/Sensible Soccer (Europe).html"
 	},
 	{
 	  "title": "Shadow Dancer (Europe)",
@@ -3574,7 +3574,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Shadow Dancer (Europe).html"
+	  "file": "Data/ROMs/Shadow Dancer (Europe).html"
 	},
 	{
 	  "title": "Shadow of the Beast (Europe)",
@@ -3584,7 +3584,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Shadow of the Beast (Europe).html"
+	  "file": "Data/ROMs/Shadow of the Beast (Europe).html"
 	},
 	{
 	  "title": "Shanghai (USA, Europe) (Beta)",
@@ -3594,7 +3594,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Shanghai (USA, Europe) (Beta).html"
+	  "file": "Data/ROMs/Shanghai (USA, Europe) (Beta).html"
 	},
 	{
 	  "title": "Shanghai (USA, Europe)",
@@ -3604,7 +3604,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Shanghai (USA, Europe).html"
+	  "file": "Data/ROMs/Shanghai (USA, Europe).html"
 	},
 	{
 	  "title": "Shinobi (Japan)",
@@ -3614,7 +3614,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Shinobi (Japan).html"
+	  "file": "Data/ROMs/Shinobi (Japan).html"
 	},
 	{
 	  "title": "Shinobi (USA, Europe)",
@@ -3624,7 +3624,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Shinobi (USA, Europe).html"
+	  "file": "Data/ROMs/Shinobi (USA, Europe).html"
 	},
 	{
 	  "title": "Shooting Gallery (USA, Europe)",
@@ -3634,7 +3634,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Shooting Gallery (USA, Europe).html"
+	  "file": "Data/ROMs/Shooting Gallery (USA, Europe).html"
 	},
 	{
 	  "title": "Simpsons, The - Bart vs. the Space Mutants (Europe)",
@@ -3644,7 +3644,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Simpsons, The - Bart vs. the Space Mutants (Europe).html"
+	  "file": "Data/ROMs/Simpsons, The - Bart vs. the Space Mutants (Europe).html"
 	},
 	{
 	  "title": "Simpsons, The - Bart vs. the World (Europe)",
@@ -3654,7 +3654,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Simpsons, The - Bart vs. the World (Europe).html"
+	  "file": "Data/ROMs/Simpsons, The - Bart vs. the World (Europe).html"
 	},
 	{
 	  "title": "Sitio do Picapau Amarelo (Brazil)",
@@ -3664,7 +3664,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sitio do Picapau Amarelo (Brazil).html"
+	  "file": "Data/ROMs/Sitio do Picapau Amarelo (Brazil).html"
 	},
 	{
 	  "title": "Sky Jaguar (Korea)",
@@ -3674,7 +3674,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sky Jaguar (Korea).html"
+	  "file": "Data/ROMs/Sky Jaguar (Korea).html"
 	},
 	{
 	  "title": "Slap Shot (Europe) (Rev 1)",
@@ -3684,7 +3684,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Slap Shot (Europe) (Rev 1).html"
+	  "file": "Data/ROMs/Slap Shot (Europe) (Rev 1).html"
 	},
 	{
 	  "title": "Slap Shot (Europe)",
@@ -3694,7 +3694,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Slap Shot (Europe).html"
+	  "file": "Data/ROMs/Slap Shot (Europe).html"
 	},
 	{
 	  "title": "Slap Shot (Unknown) (Beta)",
@@ -3704,7 +3704,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Slap Shot (Unknown) (Beta).html"
+	  "file": "Data/ROMs/Slap Shot (Unknown) (Beta).html"
 	},
 	{
 	  "title": "Slap Shot (USA)",
@@ -3714,7 +3714,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Slap Shot (USA).html"
+	  "file": "Data/ROMs/Slap Shot (USA).html"
 	},
 	{
 	  "title": "Smurfs, The (Europe) (En,Fr,De,Es)",
@@ -3724,7 +3724,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Smurfs, The (Europe) (En,Fr,De,Es).html"
+	  "file": "Data/ROMs/Smurfs, The (Europe) (En,Fr,De,Es).html"
 	},
 	{
 	  "title": "Solomon no Kagi - Oujo Rihita no Namida (Japan)",
@@ -3734,7 +3734,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Solomon no Kagi - Oujo Rihita no Namida (Japan).html"
+	  "file": "Data/ROMs/Solomon no Kagi - Oujo Rihita no Namida (Japan).html"
 	},
 	{
 	  "title": "Sonic Blast (Brazil)",
@@ -3744,7 +3744,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sonic Blast (Brazil).html"
+	  "file": "Data/ROMs/Sonic Blast (Brazil).html"
 	},
 	{
 	  "title": "Sonic Chaos (Europe)",
@@ -3754,7 +3754,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sonic Chaos (Europe).html"
+	  "file": "Data/ROMs/Sonic Chaos (Europe).html"
 	},
 	{
 	  "title": "Sonic The Hedgehog (USA, Europe)",
@@ -3764,7 +3764,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sonic The Hedgehog (USA, Europe).html"
+	  "file": "Data/ROMs/Sonic The Hedgehog (USA, Europe).html"
 	},
 	{
 	  "title": "Sonic The Hedgehog 2 (Europe) (Rev 1)",
@@ -3774,7 +3774,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sonic The Hedgehog 2 (Europe) (Rev 1).html"
+	  "file": "Data/ROMs/Sonic The Hedgehog 2 (Europe) (Rev 1).html"
 	},
 	{
 	  "title": "Sonic The Hedgehog 2 (Europe)",
@@ -3784,7 +3784,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sonic The Hedgehog 2 (Europe).html"
+	  "file": "Data/ROMs/Sonic The Hedgehog 2 (Europe).html"
 	},
 	{
 	  "title": "Sonic The Hedgehog Spinball (Europe)",
@@ -3794,7 +3794,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sonic The Hedgehog Spinball (Europe).html"
+	  "file": "Data/ROMs/Sonic The Hedgehog Spinball (Europe).html"
 	},
 	{
 	  "title": "Sonics Edusoft (Unknown) (Proto)",
@@ -3804,7 +3804,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sonics Edusoft (Unknown) (Proto).html"
+	  "file": "Data/ROMs/Sonics Edusoft (Unknown) (Proto).html"
 	},
 	{
 	  "title": "Space Gun (Europe)",
@@ -3814,7 +3814,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Space Gun (Europe).html"
+	  "file": "Data/ROMs/Space Gun (Europe).html"
 	},
 	{
 	  "title": "Space Harrier (Europe)",
@@ -3824,7 +3824,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Space Harrier (Europe).html"
+	  "file": "Data/ROMs/Space Harrier (Europe).html"
 	},
 	{
 	  "title": "Space Harrier (Japan, USA)",
@@ -3834,7 +3834,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Space Harrier (Japan, USA).html"
+	  "file": "Data/ROMs/Space Harrier (Japan, USA).html"
 	},
 	{
 	  "title": "Space Harrier 3-D (USA, Europe)",
@@ -3844,7 +3844,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Space Harrier 3-D (USA, Europe).html"
+	  "file": "Data/ROMs/Space Harrier 3-D (USA, Europe).html"
 	},
 	{
 	  "title": "Space Harrier 3D (Japan)",
@@ -3854,7 +3854,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Space Harrier 3D (Japan).html"
+	  "file": "Data/ROMs/Space Harrier 3D (Japan).html"
 	},
 	{
 	  "title": "Special Criminal Investigation (Europe) (Beta)",
@@ -3864,7 +3864,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Special Criminal Investigation (Europe) (Beta).html"
+	  "file": "Data/ROMs/Special Criminal Investigation (Europe) (Beta).html"
 	},
 	{
 	  "title": "Special Criminal Investigation (Europe)",
@@ -3874,7 +3874,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Special Criminal Investigation (Europe).html"
+	  "file": "Data/ROMs/Special Criminal Investigation (Europe).html"
 	},
 	{
 	  "title": "Speedball (Europe) (Image Works)",
@@ -3884,7 +3884,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Speedball (Europe) (Image Works).html"
+	  "file": "Data/ROMs/Speedball (Europe) (Image Works).html"
 	},
 	{
 	  "title": "Speedball (Europe) (Virgin)",
@@ -3894,7 +3894,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Speedball (Europe) (Virgin).html"
+	  "file": "Data/ROMs/Speedball (Europe) (Virgin).html"
 	},
 	{
 	  "title": "Speedball 2 (Europe)",
@@ -3904,7 +3904,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Speedball 2 (Europe).html"
+	  "file": "Data/ROMs/Speedball 2 (Europe).html"
 	},
 	{
 	  "title": "SpellCaster (USA, Europe)",
@@ -3914,7 +3914,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/SpellCaster (USA, Europe).html"
+	  "file": "Data/ROMs/SpellCaster (USA, Europe).html"
 	},
 	{
 	  "title": "Spider-Man - Return of the Sinister Six (Europe)",
@@ -3924,7 +3924,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Spider-Man - Return of the Sinister Six (Europe).html"
+	  "file": "Data/ROMs/Spider-Man - Return of the Sinister Six (Europe).html"
 	},
 	{
 	  "title": "Spider-Man vs. The Kingpin (USA, Europe)",
@@ -3934,7 +3934,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Spider-Man vs. The Kingpin (USA, Europe).html"
+	  "file": "Data/ROMs/Spider-Man vs. The Kingpin (USA, Europe).html"
 	},
 	{
 	  "title": "Sports Pad Football (USA)",
@@ -3944,7 +3944,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sports Pad Football (USA).html"
+	  "file": "Data/ROMs/Sports Pad Football (USA).html"
 	},
 	{
 	  "title": "Sports Pad Soccer (Japan)",
@@ -3954,7 +3954,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sports Pad Soccer (Japan).html"
+	  "file": "Data/ROMs/Sports Pad Soccer (Japan).html"
 	},
 	{
 	  "title": "Spy vs Spy (Japan)",
@@ -3964,7 +3964,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Spy vs Spy (Japan).html"
+	  "file": "Data/ROMs/Spy vs Spy (Japan).html"
 	},
 	{
 	  "title": "Spy vs Spy (Taiwan)",
@@ -3974,7 +3974,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Spy vs Spy (Taiwan).html"
+	  "file": "Data/ROMs/Spy vs Spy (Taiwan).html"
 	},
 	{
 	  "title": "Spy vs. Spy (USA, Europe)",
@@ -3984,7 +3984,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Spy vs. Spy (USA, Europe).html"
+	  "file": "Data/ROMs/Spy vs. Spy (USA, Europe).html"
 	},
 	{
 	  "title": "Star Wars (Europe)",
@@ -3994,7 +3994,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Star Wars (Europe).html"
+	  "file": "Data/ROMs/Star Wars (Europe).html"
 	},
 	{
 	  "title": "Street Fighter II (Brazil)",
@@ -4004,7 +4004,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Street Fighter II (Brazil).html"
+	  "file": "Data/ROMs/Street Fighter II (Brazil).html"
 	},
 	{
 	  "title": "Street Master (Korea) (Unl)",
@@ -4014,7 +4014,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Street Master (Korea) (Unl).html"
+	  "file": "Data/ROMs/Street Master (Korea) (Unl).html"
 	},
 	{
 	  "title": "Streets of Rage (Europe)",
@@ -4024,7 +4024,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Streets of Rage (Europe).html"
+	  "file": "Data/ROMs/Streets of Rage (Europe).html"
 	},
 	{
 	  "title": "Streets of Rage II (Europe)",
@@ -4034,7 +4034,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Streets of Rage II (Europe).html"
+	  "file": "Data/ROMs/Streets of Rage II (Europe).html"
 	},
 	{
 	  "title": "Strider (Unknown) (Demo)",
@@ -4044,7 +4044,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Strider (Unknown) (Demo).html"
+	  "file": "Data/ROMs/Strider (Unknown) (Demo).html"
 	},
 	{
 	  "title": "Strider (USA, Europe)",
@@ -4054,7 +4054,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Strider (USA, Europe).html"
+	  "file": "Data/ROMs/Strider (USA, Europe).html"
 	},
 	{
 	  "title": "Strider II (Europe)",
@@ -4064,7 +4064,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Strider II (Europe).html"
+	  "file": "Data/ROMs/Strider II (Europe).html"
 	},
 	{
 	  "title": "Submarine Attack (Europe)",
@@ -4074,7 +4074,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Submarine Attack (Europe).html"
+	  "file": "Data/ROMs/Submarine Attack (Europe).html"
 	},
 	{
 	  "title": "Suho Cheonsa (Korea) (Unl)",
@@ -4084,7 +4084,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Suho Cheonsa (Korea) (Unl).html"
+	  "file": "Data/ROMs/Suho Cheonsa (Korea) (Unl).html"
 	},
 	{
 	  "title": "Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan)",
@@ -4094,7 +4094,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).html"
+	  "file": "Data/ROMs/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).html"
 	},
 	{
 	  "title": "Summer Games (Europe) (Beta)",
@@ -4104,7 +4104,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Summer Games (Europe) (Beta).html"
+	  "file": "Data/ROMs/Summer Games (Europe) (Beta).html"
 	},
 	{
 	  "title": "Summer Games (Europe)",
@@ -4114,7 +4114,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Summer Games (Europe).html"
+	  "file": "Data/ROMs/Summer Games (Europe).html"
 	},
 	{
 	  "title": "Super Basketball (USA) (Sample)",
@@ -4124,7 +4124,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Basketball (USA) (Sample).html"
+	  "file": "Data/ROMs/Super Basketball (USA) (Sample).html"
 	},
 	{
 	  "title": "Super Boy 4 (Korea) (Unl)",
@@ -4134,7 +4134,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Boy 4 (Korea) (Unl).html"
+	  "file": "Data/ROMs/Super Boy 4 (Korea) (Unl).html"
 	},
 	{
 	  "title": "Super Boy II (Korea) (Pirate)",
@@ -4144,7 +4144,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Boy II (Korea) (Pirate).html"
+	  "file": "Data/ROMs/Super Boy II (Korea) (Pirate).html"
 	},
 	{
 	  "title": "Super Bubble Bobble (Korea) (Unl)",
@@ -4154,7 +4154,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Bubble Bobble (Korea) (Unl).html"
+	  "file": "Data/ROMs/Super Bubble Bobble (Korea) (Unl).html"
 	},
 	{
 	  "title": "Super Golf (Europe) (Beta)",
@@ -4164,7 +4164,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Golf (Europe) (Beta).html"
+	  "file": "Data/ROMs/Super Golf (Europe) (Beta).html"
 	},
 	{
 	  "title": "Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
@@ -4174,7 +4174,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
+	  "file": "Data/ROMs/Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
 	},
 	{
 	  "title": "Super Monaco GP (Europe)",
@@ -4184,7 +4184,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Monaco GP (Europe).html"
+	  "file": "Data/ROMs/Super Monaco GP (Europe).html"
 	},
 	{
 	  "title": "Super Monaco GP (USA) (Beta 1)",
@@ -4194,7 +4194,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Monaco GP (USA) (Beta 1).html"
+	  "file": "Data/ROMs/Super Monaco GP (USA) (Beta 1).html"
 	},
 	{
 	  "title": "Super Monaco GP (USA) (Beta 2)",
@@ -4204,7 +4204,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Monaco GP (USA) (Beta 2).html"
+	  "file": "Data/ROMs/Super Monaco GP (USA) (Beta 2).html"
 	},
 	{
 	  "title": "Super Monaco GP (USA)",
@@ -4214,7 +4214,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Monaco GP (USA).html"
+	  "file": "Data/ROMs/Super Monaco GP (USA).html"
 	},
 	{
 	  "title": "Super Off Road (Europe)",
@@ -4224,7 +4224,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Off Road (Europe).html"
+	  "file": "Data/ROMs/Super Off Road (Europe).html"
 	},
 	{
 	  "title": "Super Racing (Japan)",
@@ -4234,7 +4234,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Racing (Japan).html"
+	  "file": "Data/ROMs/Super Racing (Japan).html"
 	},
 	{
 	  "title": "Super Smash T.V. (Europe)",
@@ -4244,7 +4244,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Smash T.V. (Europe).html"
+	  "file": "Data/ROMs/Super Smash T.V. (Europe).html"
 	},
 	{
 	  "title": "Super Space Invaders (Europe)",
@@ -4254,7 +4254,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Space Invaders (Europe).html"
+	  "file": "Data/ROMs/Super Space Invaders (Europe).html"
 	},
 	{
 	  "title": "Super Tennis (USA, Europe)",
@@ -4264,7 +4264,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Tennis (USA, Europe).html"
+	  "file": "Data/ROMs/Super Tennis (USA, Europe).html"
 	},
 	{
 	  "title": "Super Tetris (Korea) (Pirate)",
@@ -4274,7 +4274,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Tetris (Korea) (Pirate).html"
+	  "file": "Data/ROMs/Super Tetris (Korea) (Pirate).html"
 	},
 	{
 	  "title": "Super Wonder Boy (Japan, Europe)",
@@ -4284,7 +4284,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Wonder Boy (Japan, Europe).html"
+	  "file": "Data/ROMs/Super Wonder Boy (Japan, Europe).html"
 	},
 	{
 	  "title": "Super Wonder Boy - Monster World (Japan)",
@@ -4294,7 +4294,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Super Wonder Boy - Monster World (Japan).html"
+	  "file": "Data/ROMs/Super Wonder Boy - Monster World (Japan).html"
 	},
 	{
 	  "title": "Superman - The Man of Steel (Europe)",
@@ -4304,7 +4304,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Superman - The Man of Steel (Europe).html"
+	  "file": "Data/ROMs/Superman - The Man of Steel (Europe).html"
 	},
 	{
 	  "title": "T2 - The Arcade Game (Europe)",
@@ -4314,7 +4314,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/T2 - The Arcade Game (Europe).html"
+	  "file": "Data/ROMs/T2 - The Arcade Game (Europe).html"
 	},
 	{
 	  "title": "Taito Chase H.Q. (Europe)",
@@ -4324,7 +4324,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Taito Chase H.Q. (Europe).html"
+	  "file": "Data/ROMs/Taito Chase H.Q. (Europe).html"
 	},
 	{
 	  "title": "Taz in Escape from Mars (Brazil)",
@@ -4334,7 +4334,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Taz in Escape from Mars (Brazil).html"
+	  "file": "Data/ROMs/Taz in Escape from Mars (Brazil).html"
 	},
 	{
 	  "title": "Taz-Mania (Europe) (Beta)",
@@ -4344,7 +4344,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Taz-Mania (Europe) (Beta).html"
+	  "file": "Data/ROMs/Taz-Mania (Europe) (Beta).html"
 	},
 	{
 	  "title": "Taz-Mania (Europe)",
@@ -4354,7 +4354,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Taz-Mania (Europe).html"
+	  "file": "Data/ROMs/Taz-Mania (Europe).html"
 	},
 	{
 	  "title": "Tecmo World Cup 92 (Europe) (Beta)",
@@ -4364,7 +4364,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Tecmo World Cup 92 (Europe) (Beta).html"
+	  "file": "Data/ROMs/Tecmo World Cup 92 (Europe) (Beta).html"
 	},
 	{
 	  "title": "Tecmo World Cup 93 (Europe)",
@@ -4374,7 +4374,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Tecmo World Cup 93 (Europe).html"
+	  "file": "Data/ROMs/Tecmo World Cup 93 (Europe).html"
 	},
 	{
 	  "title": "Teddy Boy (USA, Europe)",
@@ -4384,7 +4384,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Teddy Boy (USA, Europe).html"
+	  "file": "Data/ROMs/Teddy Boy (USA, Europe).html"
 	},
 	{
 	  "title": "Teddy Boy Blues (Japan) (Proto) (Ep-MyCard)",
@@ -4394,7 +4394,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).html"
+	  "file": "Data/ROMs/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).html"
 	},
 	{
 	  "title": "Teddy Boy Blues (Japan)",
@@ -4404,7 +4404,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Teddy Boy Blues (Japan).html"
+	  "file": "Data/ROMs/Teddy Boy Blues (Japan).html"
 	},
 	{
 	  "title": "Tennis Ace (Europe)",
@@ -4414,7 +4414,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Tennis Ace (Europe).html"
+	  "file": "Data/ROMs/Tennis Ace (Europe).html"
 	},
 	{
 	  "title": "Tensai Bakabon (Japan)",
@@ -4424,7 +4424,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Tensai Bakabon (Japan).html"
+	  "file": "Data/ROMs/Tensai Bakabon (Japan).html"
 	},
 	{
 	  "title": "Terminator 2 - Judgment Day (Europe)",
@@ -4434,7 +4434,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Terminator 2 - Judgment Day (Europe).html"
+	  "file": "Data/ROMs/Terminator 2 - Judgment Day (Europe).html"
 	},
 	{
 	  "title": "Terminator, The (Brazil)",
@@ -4444,7 +4444,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Terminator, The (Brazil).html"
+	  "file": "Data/ROMs/Terminator, The (Brazil).html"
 	},
 	{
 	  "title": "Terminator, The (Europe)",
@@ -4454,7 +4454,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Terminator, The (Europe).html"
+	  "file": "Data/ROMs/Terminator, The (Europe).html"
 	},
 	{
 	  "title": "Three Dragon Story, The (Korea) (Unl)",
@@ -4464,7 +4464,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Three Dragon Story, The (Korea) (Unl).html"
+	  "file": "Data/ROMs/Three Dragon Story, The (Korea) (Unl).html"
 	},
 	{
 	  "title": "Thunder Blade (Japan)",
@@ -4474,7 +4474,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Thunder Blade (Japan).html"
+	  "file": "Data/ROMs/Thunder Blade (Japan).html"
 	},
 	{
 	  "title": "Thunder Blade (USA, Europe)",
@@ -4484,7 +4484,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Thunder Blade (USA, Europe).html"
+	  "file": "Data/ROMs/Thunder Blade (USA, Europe).html"
 	},
 	{
 	  "title": "Time Soldiers (USA, Europe)",
@@ -4494,7 +4494,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Time Soldiers (USA, Europe).html"
+	  "file": "Data/ROMs/Time Soldiers (USA, Europe).html"
 	},
 	{
 	  "title": "Tom & Jerry (Europe) (Beta)",
@@ -4504,7 +4504,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Tom & Jerry (Europe) (Beta).html"
+	  "file": "Data/ROMs/Tom & Jerry (Europe) (Beta).html"
 	},
 	{
 	  "title": "Tom and Jerry - The Movie (Europe)",
@@ -4514,7 +4514,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Tom and Jerry - The Movie (Europe).html"
+	  "file": "Data/ROMs/Tom and Jerry - The Movie (Europe).html"
 	},
 	{
 	  "title": "Toto World 3 (Korea) (Unl)",
@@ -4524,7 +4524,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Toto World 3 (Korea) (Unl).html"
+	  "file": "Data/ROMs/Toto World 3 (Korea) (Unl).html"
 	},
 	{
 	  "title": "TransBot (USA) (Beta)",
@@ -4534,7 +4534,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/TransBot (USA) (Beta).html"
+	  "file": "Data/ROMs/TransBot (USA) (Beta).html"
 	},
 	{
 	  "title": "TransBot (USA, Europe)",
@@ -4544,7 +4544,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/TransBot (USA, Europe).html"
+	  "file": "Data/ROMs/TransBot (USA, Europe).html"
 	},
 	{
 	  "title": "Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es)",
@@ -4554,7 +4554,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).html"
+	  "file": "Data/ROMs/Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).html"
 	},
 	{
 	  "title": "Ttoriui Moheom (Korea)",
@@ -4564,7 +4564,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ttoriui Moheom (Korea).html"
+	  "file": "Data/ROMs/Ttoriui Moheom (Korea).html"
 	},
 	{
 	  "title": "Turma da Monica em O Resgate (Brazil)",
@@ -4574,7 +4574,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Turma da Monica em O Resgate (Brazil).html"
+	  "file": "Data/ROMs/Turma da Monica em O Resgate (Brazil).html"
 	},
 	{
 	  "title": "TV Colosso (Brazil)",
@@ -4584,7 +4584,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/TV Colosso (Brazil).html"
+	  "file": "Data/ROMs/TV Colosso (Brazil).html"
 	},
 	{
 	  "title": "Ultima IV - Quest of the Avatar (Europe) (Beta)",
@@ -4594,7 +4594,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ultima IV - Quest of the Avatar (Europe) (Beta).html"
+	  "file": "Data/ROMs/Ultima IV - Quest of the Avatar (Europe) (Beta).html"
 	},
 	{
 	  "title": "Ultima IV - Quest of the Avatar (Europe)",
@@ -4604,7 +4604,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ultima IV - Quest of the Avatar (Europe).html"
+	  "file": "Data/ROMs/Ultima IV - Quest of the Avatar (Europe).html"
 	},
 	{
 	  "title": "Ultimate Soccer (Europe) (En,Fr,De,Es,It)",
@@ -4614,7 +4614,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ultimate Soccer (Europe) (En,Fr,De,Es,It).html"
+	  "file": "Data/ROMs/Ultimate Soccer (Europe) (En,Fr,De,Es,It).html"
 	},
 	{
 	  "title": "Vampire (Europe) (Beta)",
@@ -4624,7 +4624,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Vampire (Europe) (Beta).html"
+	  "file": "Data/ROMs/Vampire (Europe) (Beta).html"
 	},
 	{
 	  "title": "Vigilante (USA, Europe)",
@@ -4634,7 +4634,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Vigilante (USA, Europe).html"
+	  "file": "Data/ROMs/Vigilante (USA, Europe).html"
 	},
 	{
 	  "title": "Virtua Fighter Animation (Brazil)",
@@ -4644,7 +4644,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Virtua Fighter Animation (Brazil).html"
+	  "file": "Data/ROMs/Virtua Fighter Animation (Brazil).html"
 	},
 	{
 	  "title": "Walter Payton Football (USA)",
@@ -4654,7 +4654,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Walter Payton Football (USA).html"
+	  "file": "Data/ROMs/Walter Payton Football (USA).html"
 	},
 	{
 	  "title": "Wanted (USA, Europe)",
@@ -4664,7 +4664,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wanted (USA, Europe).html"
+	  "file": "Data/ROMs/Wanted (USA, Europe).html"
 	},
 	{
 	  "title": "Where in the World is Carmen Sandiego (Brazil)",
@@ -4674,7 +4674,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Where in the World is Carmen Sandiego (Brazil).html"
+	  "file": "Data/ROMs/Where in the World is Carmen Sandiego (Brazil).html"
 	},
 	{
 	  "title": "Where in the World is Carmen Sandiego (USA)",
@@ -4684,7 +4684,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Where in the World is Carmen Sandiego (USA).html"
+	  "file": "Data/ROMs/Where in the World is Carmen Sandiego (USA).html"
 	},
 	{
 	  "title": "Wimbledon (Europe)",
@@ -4694,7 +4694,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wimbledon (Europe).html"
+	  "file": "Data/ROMs/Wimbledon (Europe).html"
 	},
 	{
 	  "title": "Wimbledon II (Europe)",
@@ -4704,7 +4704,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wimbledon II (Europe).html"
+	  "file": "Data/ROMs/Wimbledon II (Europe).html"
 	},
 	{
 	  "title": "Winter Olympics - Lillehammer 94 (Brazil) (En,Fr,De,Es,It,Pt,Sv,No)",
@@ -4714,7 +4714,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Winter Olympics - Lillehammer 94 (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).html"
+	  "file": "Data/ROMs/Winter Olympics - Lillehammer 94 (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).html"
 	},
 	{
 	  "title": "Winter Olympics - Lillehammer 94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No)",
@@ -4724,7 +4724,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Winter Olympics - Lillehammer 94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No).html"
+	  "file": "Data/ROMs/Winter Olympics - Lillehammer 94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No).html"
 	},
 	{
 	  "title": "Wolfchild (Europe)",
@@ -4734,7 +4734,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wolfchild (Europe).html"
+	  "file": "Data/ROMs/Wolfchild (Europe).html"
 	},
 	{
 	  "title": "Wonder Boy (USA, Europe)",
@@ -4744,7 +4744,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wonder Boy (USA, Europe).html"
+	  "file": "Data/ROMs/Wonder Boy (USA, Europe).html"
 	},
 	{
 	  "title": "Wonder Boy III - The Dragons Trap (USA, Europe)",
@@ -4754,7 +4754,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wonder Boy III - The Dragons Trap (USA, Europe).html"
+	  "file": "Data/ROMs/Wonder Boy III - The Dragons Trap (USA, Europe).html"
 	},
 	{
 	  "title": "Wonder Boy in Monster Land (USA, Europe) (Beta)",
@@ -4764,7 +4764,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wonder Boy in Monster Land (USA, Europe) (Beta).html"
+	  "file": "Data/ROMs/Wonder Boy in Monster Land (USA, Europe) (Beta).html"
 	},
 	{
 	  "title": "Wonder Boy in Monster Land (USA, Europe)",
@@ -4774,7 +4774,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wonder Boy in Monster Land (USA, Europe).html"
+	  "file": "Data/ROMs/Wonder Boy in Monster Land (USA, Europe).html"
 	},
 	{
 	  "title": "Wonder Boy in Monster World (Europe) (Beta)",
@@ -4784,7 +4784,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wonder Boy in Monster World (Europe) (Beta).html"
+	  "file": "Data/ROMs/Wonder Boy in Monster World (Europe) (Beta).html"
 	},
 	{
 	  "title": "Wonder Boy in Monster World (Europe)",
@@ -4794,7 +4794,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wonder Boy in Monster World (Europe).html"
+	  "file": "Data/ROMs/Wonder Boy in Monster World (Europe).html"
 	},
 	{
 	  "title": "Wonsiin (Korea) (Pirate)",
@@ -4804,7 +4804,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Wonsiin (Korea) (Pirate).html"
+	  "file": "Data/ROMs/Wonsiin (Korea) (Pirate).html"
 	},
 	{
 	  "title": "Woody Pop - Shinjinrui no Block Kuzushi (Japan)",
@@ -4814,7 +4814,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Woody Pop - Shinjinrui no Block Kuzushi (Japan).html"
+	  "file": "Data/ROMs/Woody Pop - Shinjinrui no Block Kuzushi (Japan).html"
 	},
 	{
 	  "title": "World Class Leader Board (Europe)",
@@ -4824,7 +4824,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Class Leader Board (Europe).html"
+	  "file": "Data/ROMs/World Class Leader Board (Europe).html"
 	},
 	{
 	  "title": "World Cup Italia 90 (Europe) (Sample)",
@@ -4834,7 +4834,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Cup Italia 90 (Europe) (Sample).html"
+	  "file": "Data/ROMs/World Cup Italia 90 (Europe) (Sample).html"
 	},
 	{
 	  "title": "World Cup Italia 90 (Europe)",
@@ -4844,7 +4844,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Cup Italia 90 (Europe).html"
+	  "file": "Data/ROMs/World Cup Italia 90 (Europe).html"
 	},
 	{
 	  "title": "World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
@@ -4854,7 +4854,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
+	  "file": "Data/ROMs/World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).html"
 	},
 	{
 	  "title": "World Games (Europe) (Beta)",
@@ -4864,7 +4864,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Games (Europe) (Beta).html"
+	  "file": "Data/ROMs/World Games (Europe) (Beta).html"
 	},
 	{
 	  "title": "World Games (Europe)",
@@ -4874,7 +4874,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Games (Europe).html"
+	  "file": "Data/ROMs/World Games (Europe).html"
 	},
 	{
 	  "title": "World Grand Prix (Europe)",
@@ -4884,7 +4884,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Grand Prix (Europe).html"
+	  "file": "Data/ROMs/World Grand Prix (Europe).html"
 	},
 	{
 	  "title": "World Grand Prix (USA) (Beta)",
@@ -4894,7 +4894,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Grand Prix (USA) (Beta).html"
+	  "file": "Data/ROMs/World Grand Prix (USA) (Beta).html"
 	},
 	{
 	  "title": "World Grand Prix (USA)",
@@ -4904,7 +4904,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Grand Prix (USA).html"
+	  "file": "Data/ROMs/World Grand Prix (USA).html"
 	},
 	{
 	  "title": "World Soccer (World)",
@@ -4914,7 +4914,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/World Soccer (World).html"
+	  "file": "Data/ROMs/World Soccer (World).html"
 	},
 	{
 	  "title": "WWF Wrestlemania - Steel Cage Challenge (Europe)",
@@ -4924,7 +4924,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/WWF Wrestlemania - Steel Cage Challenge (Europe).html"
+	  "file": "Data/ROMs/WWF Wrestlemania - Steel Cage Challenge (Europe).html"
 	},
 	{
 	  "title": "X-Men - Mojo World (Brazil)",
@@ -4934,7 +4934,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/X-Men - Mojo World (Brazil).html"
+	  "file": "Data/ROMs/X-Men - Mojo World (Brazil).html"
 	},
 	{
 	  "title": "Xenon 2 - Megablast (Europe) (Image Works)",
@@ -4944,7 +4944,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Xenon 2 - Megablast (Europe) (Image Works).html"
+	  "file": "Data/ROMs/Xenon 2 - Megablast (Europe) (Image Works).html"
 	},
 	{
 	  "title": "Xenon 2 - Megablast (Europe) (Virgin)",
@@ -4954,7 +4954,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Xenon 2 - Megablast (Europe) (Virgin).html"
+	  "file": "Data/ROMs/Xenon 2 - Megablast (Europe) (Virgin).html"
 	},
 	{
 	  "title": "Xyzolog (Korea)",
@@ -4964,7 +4964,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Xyzolog (Korea).html"
+	  "file": "Data/ROMs/Xyzolog (Korea).html"
 	},
 	{
 	  "title": "Ys (Japan)",
@@ -4974,7 +4974,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ys (Japan).html"
+	  "file": "Data/ROMs/Ys (Japan).html"
 	},
 	{
 	  "title": "Ys - The Vanished Omens (USA, Europe)",
@@ -4984,7 +4984,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Ys - The Vanished Omens (USA, Europe).html"
+	  "file": "Data/ROMs/Ys - The Vanished Omens (USA, Europe).html"
 	},
 	{
 	  "title": "Zaxxon 3-D (World) (Beta)",
@@ -4994,7 +4994,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Zaxxon 3-D (World) (Beta).html"
+	  "file": "Data/ROMs/Zaxxon 3-D (World) (Beta).html"
 	},
 	{
 	  "title": "Zaxxon 3-D (World)",
@@ -5004,7 +5004,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Zaxxon 3-D (World).html"
+	  "file": "Data/ROMs/Zaxxon 3-D (World).html"
 	},
 	{
 	  "title": "Zillion (Europe) (Rev 2)",
@@ -5014,7 +5014,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Zillion (Europe) (Rev 2).html"
+	  "file": "Data/ROMs/Zillion (Europe) (Rev 2).html"
 	},
 	{
 	  "title": "Zillion (Japan, Europe) (En,Ja)",
@@ -5024,7 +5024,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Zillion (Japan, Europe) (En,Ja).html"
+	  "file": "Data/ROMs/Zillion (Japan, Europe) (En,Ja).html"
 	},
 	{
 	  "title": "Zillion (USA) (Rev 1)",
@@ -5034,7 +5034,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Zillion (USA) (Rev 1).html"
+	  "file": "Data/ROMs/Zillion (USA) (Rev 1).html"
 	},
 	{
 	  "title": "Zillion II - The Tri Formation (World)",
@@ -5044,7 +5044,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Zillion II - The Tri Formation (World).html"
+	  "file": "Data/ROMs/Zillion II - The Tri Formation (World).html"
 	},
 	{
 	  "title": "Zool - Ninja of the Nth Dimension (Europe)",
@@ -5054,7 +5054,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/Zool - Ninja of the Nth Dimension (Europe).html"
+	  "file": "Data/ROMs/Zool - Ninja of the Nth Dimension (Europe).html"
 	},
 	{
 	  "title": "[BIOS] Alex Kidd in Miracle World (Korea)",
@@ -5064,7 +5064,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Alex Kidd in Miracle World (Korea).html"
+	  "file": "Data/ROMs/[BIOS] Alex Kidd in Miracle World (Korea).html"
 	},
 	{
 	  "title": "[BIOS] Alex Kidd in Miracle World (USA, Europe)",
@@ -5074,7 +5074,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Alex Kidd in Miracle World (USA, Europe).html"
+	  "file": "Data/ROMs/[BIOS] Alex Kidd in Miracle World (USA, Europe).html"
 	},
 	{
 	  "title": "[BIOS] Hang-On & Safari Hunt (USA, Europe) (v2.4)",
@@ -5084,7 +5084,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Hang-On & Safari Hunt (USA, Europe) (v2.4).html"
+	  "file": "Data/ROMs/[BIOS] Hang-On & Safari Hunt (USA, Europe) (v2.4).html"
 	},
 	{
 	  "title": "[BIOS] Hang-On (USA, Europe) (v3.4)",
@@ -5094,7 +5094,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Hang-On (USA, Europe) (v3.4).html"
+	  "file": "Data/ROMs/[BIOS] Hang-On (USA, Europe) (v3.4).html"
 	},
 	{
 	  "title": "[BIOS] Missile Defense 3-D (USA, Europe) (v4.4)",
@@ -5104,7 +5104,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).html"
+	  "file": "Data/ROMs/[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).html"
 	},
 	{
 	  "title": "[BIOS] Sega Master System (Japan) (v2.1)",
@@ -5114,7 +5114,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Sega Master System (Japan) (v2.1).html"
+	  "file": "Data/ROMs/[BIOS] Sega Master System (Japan) (v2.1).html"
 	},
 	{
 	  "title": "[BIOS] Sega Master System (USA) (M404) (Proto)",
@@ -5124,7 +5124,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Sega Master System (USA) (M404) (Proto).html"
+	  "file": "Data/ROMs/[BIOS] Sega Master System (USA) (M404) (Proto).html"
 	},
 	{
 	  "title": "[BIOS] Sega Master System (USA) (Store Display Unit)",
@@ -5134,7 +5134,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Sega Master System (USA) (Store Display Unit).html"
+	  "file": "Data/ROMs/[BIOS] Sega Master System (USA) (Store Display Unit).html"
 	},
 	{
 	  "title": "[BIOS] Sega Master System (USA) (v1.0) (Proto)",
@@ -5144,7 +5144,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Sega Master System (USA) (v1.0) (Proto).html"
+	  "file": "Data/ROMs/[BIOS] Sega Master System (USA) (v1.0) (Proto).html"
 	},
 	{
 	  "title": "[BIOS] Sega Master System (USA, Europe) (v1.3)",
@@ -5154,7 +5154,7 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Sega Master System (USA, Europe) (v1.3).html"
+	  "file": "Data/ROMs/[BIOS] Sega Master System (USA, Europe) (v1.3).html"
 	},
 	{
 	  "title": "[BIOS] Sonic The Hedgehog (Europe)",
@@ -5164,6 +5164,6 @@
 	  "publisher": "",
 	  "developer": "",
 	  "plot": "",
-	  "file": "Data/Roms/[BIOS] Sonic The Hedgehog (Europe).html"
+	  "file": "Data/ROMs/[BIOS] Sonic The Hedgehog (Europe).html"
 	}
   ]
